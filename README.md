@@ -7,4 +7,4 @@ rows 0-15: scale
 rows 16-23: melody  
 rows 24-31: unused  
 rows 32-47: probability of BD  
-rows 48-63: groups of four notes form chords, the first is the bass note  
+rows 48-63: a group of four consecutive notes form a chord, the first note in the group is the bass note  
