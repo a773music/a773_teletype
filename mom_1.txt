@@ -1,4 +1,6 @@
 MOM 1
+KNOB: SIMPLE -> COMPLEX
+F8 STOPS + NOTE OFF
 
 
 
@@ -33,22 +35,23 @@ DEL 1000: SC.TR 93 1
 #6
 
 #7
+
+#8
 M.ACT 0
 SC.TR 91 0
 SC.TR 92 0
 SC.TR 93 0
 
-#8
-A PRM
-
 #M
-$ 8
+A PRM
 M * 200 >> 64 RND 6
 EVERY 13: $ 1
 EVERY 7: $ 2
 EVERY 3: $ 3
+TR.P 4
 
 #I
+$ 8
 PARAM.SCALE 0 3
 
 #P

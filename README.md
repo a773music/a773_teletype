@@ -17,6 +17,22 @@ Each patterns contain notes, pattern 0 more basic (mostly octaves and 5ths), ran
 
 Metro script randomizes itself  
 Script 1-3 triggers one voice each on the ER-301  
-Script 7 stops  
-Script 8 reads the knob  
+Script 8 stops 
+
+## Mom #2
+[![Mom 2 on instagram](https://github.com/attejensen/teletype/blob/master/pix/mom_2.jpg?raw=true)](https://www.instagram.com/p/BwIAOgsB2Om)  
+
+
+
+Three chords (C, F, Dm) selected on knob  
+F6/F7 -/+ activity (0-100)  
+F8 Randomize pattern start and length  
+
+
+Pattern layout: 
+Pattern 0: C-major chord  
+Pattern 1: F-major chord  
+Pattern 2: D-minor chord   
+rows 0-15: notes for soft bleep sound  
+rows 16-19: notes for strings  
 
