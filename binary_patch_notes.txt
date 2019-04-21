@@ -1,0 +1,27 @@
+Binary
+---------------
+Sequenced from the teletype
+
+Drums:
+BD: Plonk "default" kick sound, sampled and played on the er-301
+Perc: a heavily distorded hand drum patch I made on the plonk
+HH: EE-301 cymbal is a modified unit I made for another track, the
+down beat HH is synthesized on the ER-301.
+Glitch samples (ER-301): One is the Richard Devine reel I modified and
+imported into the ER-301, the other is a multi sample of glitcy
+hi-frequency stuff.
+
+Bass: a110 saw throug RYO aperture
+
+Acid sound: a110, through humpback
+
+Chords: two triangles (ER-301) through folding
+
+Joystick controls probability of various perc (x-axis) and on/off for
+the bass/bd compo
+
+A ladik skipper sits before plonk (top) and the acid sound (buttom)
+
+Keyboard plays rings with radio music as input.
+
+Reverb: axoloti

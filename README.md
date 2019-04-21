@@ -10,6 +10,13 @@ rows 24-31: unused
 rows 32-47: probability of BD  
 rows 48-63: a group of four consecutive notes form a chord, the first note in the group is the bass note
 
+## Binary
+[![Binary on youtube](http://img.youtube.com/vi/xWid0iosVOk/0.jpg)](http://www.youtube.com/watch?v=xWid0iosVOk)  
+
+
+
+# Mom-series
+My Mom has trouble sleeping at night, so I'm putting together a series of ambient pieces for her to relax to.
 ## Mom #1
 [![Mom 1 on instagram](https://github.com/attejensen/teletype/blob/master/pix/mom_1.jpg?raw=true)](https://www.instagram.com/p/BwFW5GxBanv)  
 Four parts, selected by knob, each part has it's own pattern (0-3)  
