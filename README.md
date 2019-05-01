@@ -28,13 +28,9 @@ Script 8 stops
 
 ## Mom #2
 [![Mom 2 on instagram](https://github.com/attejensen/teletype/blob/master/pix/mom_2.jpg?raw=true)](https://www.instagram.com/p/BwIAOgsB2Om)  
-
-
-
 Three chords (C, F, Dm) selected on knob  
 F6/F7 -/+ activity (0-100)  
 F8 Randomize pattern start and length  
-
 
 Pattern layout: 
 Pattern 0: C-major chord  
@@ -43,3 +39,6 @@ Pattern 2: D-minor chord
 rows 0-15: notes for soft bleep sound  
 rows 16-19: notes for strings  
 
+## Mom #2
+[![Mom 3 on instagram](https://github.com/attejensen/teletype/blob/master/pix/mom_3.jpg?raw=true)](https://www.instagram.com/p/BwzgmI2Feaz)  
+Randomly select notes in a chord-like structure, knob determines probability that a note will play.
