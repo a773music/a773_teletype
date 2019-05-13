@@ -46,3 +46,7 @@ rows 16-19: notes for strings
 ## Mom #3
 [![Mom 3 on instagram](https://github.com/attejensen/teletype/blob/master/pix/mom_3.jpg?raw=true)](https://www.instagram.com/p/BwzgmI2Feaz)  
 Randomly select notes in a chord-like structure, knob determines probability that a note will play.
+
+## Mom #4
+[![Mom 4 on instagram](https://github.com/attejensen/teletype/blob/master/pix/mom_4.jpg?raw=true)](https://www.instagram.com/p/BxZZv1IBwQv)  
+Three voices each going through a series of notes in C-major, knob controls the number of voices playing
