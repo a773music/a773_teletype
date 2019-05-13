@@ -15,7 +15,7 @@ rows 48-63: a group of four consecutive notes form a chord, the first note in th
 
 ## Hi Five
 [![Hi Five on youtube](http://img.youtube.com/vi/QhY-s0VNT2E/0.jpg)](http://www.youtube.com/watch?v=QhY-s0VNT2E)  
-Tracks split over two scenes, selected on knob. For this to work the scenes must be in locations 7 and 8 (or edit the code).
+Tracks split over two scenes, selected on knob. For this to work the scenes must be in locations 7 and 8 (or edit the code).  
 First scene is the main part, scene 2 is a randomly generated break.
 
 
