@@ -1,0 +1,25 @@
+Hi five
+---------------
+Everything sequenced from the Teletype, in two scenes, selected on the
+knob. CCW is the main groove, CW is a randomly generated break. For
+this to work the two scenes must be saved as scene 7 and 8.
+
+BD: Sample from braids, played by the ER-301.
+SD: Sample, played by ER-301, linked to the same trigger is a ramdomly
+selected glitch sample.
+HH: Sample, played by ER-301.
+Perc 1: Plonk through Freez
+Perc 2: Pico Drums through Quark
+Perc 3: Dinky's Taiko
+Perc 4: No Drums
+
+Bass: Low note is a kick from Prok, tuned to Bb, it's triggered at the
+same time as the BD (but they can be muted individually)
+The other part of the bass is Warps (internal oscillator) with it's
+aux output going to the Befaco Chopping Kinky.
+
+Melody: Pico VCO through Aperture
+
+Wonky melody: Piston Honda, through a-101-2 with righ res.
+
+Pad: Mikrophonie into rings into erbe-verb
