@@ -50,3 +50,7 @@ Randomly select notes in a chord-like structure, knob determines probability tha
 ## Mom #4
 [![Mom 4 on instagram](https://github.com/attejensen/teletype/blob/master/pix/mom_4.jpg?raw=true)](https://www.instagram.com/p/BxZZv1IBwQv)  
 Three voices each going through a series of notes in C-major, knob controls the number of voices playing
+
+## Mom #5
+[![Mom 5 on instagram](https://github.com/attejensen/teletype/blob/master/pix/mom_5.jpg?raw=true)](https://www.instagram.com/p/BxaqHgfB1AB)  
+10 partials from the overtone series on the er-301. Teletype radomizes gains and slews of those gain changes
