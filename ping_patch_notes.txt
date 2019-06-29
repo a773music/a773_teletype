@@ -1,0 +1,21 @@
+Sequenced from Teletype, knob selects A/B part.
+
+Sine ping: Sines through exponential AD envelope, clocked delay and
+granular reverb shifted one octave up (ER-301).
+
+Harmony: Radio Music through Rings.
+
+Additional harmony: Piano chords transposed an octave down (ER-301).
+
+Bass: a110 (saw) through humpback, attack + release modulated by
+random, mod amount controlled by joystick (X).
+
+Snare: Quark with noise in peak input, granular reverb from ER-301.
+
+Lead: QuNexus driving a110 with triangle through chopping kinky
+(keyboard pressure modulating fold amount) through clouds (granular,
+pitch shiftet up a 4th, grain density controlled by keyboard
+tilt). And additional channel of Quadra is attenuated by joystick (Y)
+and driving the secondary fold input. 
+
+Reverb: Axoloti

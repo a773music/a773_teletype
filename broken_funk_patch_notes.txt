@@ -1,0 +1,14 @@
+Sequenced from teletype.
+
+Drums: ER-301.
+
+Rhodes + granular reverb: ER-301
+
+Bass: 2x doepfer 110 through humpback.
+
+Beep: Pico VCO through befaco bf22 and dplpg
+
+Melody: Rings (green mode) through befaco bf22.
+
+Glitchy FX: Melody and beep routed randomly synthrotek echo + clouds
+with SSM

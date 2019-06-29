@@ -1,0 +1,28 @@
+Sequenced from Teletype, knob selects A/B part.
+
+BD: ER-301 custom unit
+
+Perc + Snare: long sample filtered and enveloped through exponential
+AD envelope (custom unit).
+
+Additional perc: Plonk.
+
+Additional snare: Sample played from ER-301, random speed.
+
+Bass: a110 saw through threeler (18db lp).
+
+Melody + harmony: pmw'ed sqr from bass osc intro rings.
+
+Melody dub: pico vco (saw) through aperture.
+
+Chord stabs: ER-301, through humpback (modulated by sloth).
+
+Atmosphere: ER-301, randomly playing long samples through reverb.
+
+Solo: Piston Honda mkI through bf22, cv from penrose is added with cv
+from QuNexus for transposing.
+
+Glitchy FX: SSM randomly sends to pico DSP and clouds, both of which
+are modulated by stepped random.
+
+Large reverb: Axoloti
