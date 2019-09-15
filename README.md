@@ -41,6 +41,9 @@ rows 48-63: a group of four consecutive notes form a chord, the first note in th
 [![Rad io on youtube](http://img.youtube.com/vi/PErMm5vag9I/0.jpg)](http://www.youtube.com/watch?v=PErMm5vag9I)  
 Glitchy, dreamy piece with intentional melody and a phrygian flavour
 
+## Up a notch
+[![Up a notch on youtube](http://img.youtube.com/vi/i2DR767OQNI/0.jpg)](http://www.youtube.com/watch?v=i2DR767OQNI)  
+High activity in 7/8 meter, notes and some triggers sequenced by teletype, most triggers from swt16+, four parts on knob.
 
 # Mom-series
 My Mom has trouble sleeping at night, so I'm putting together a series of ambient pieces for her to relax to.
