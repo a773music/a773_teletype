@@ -1,0 +1,17 @@
+Sequenced from the teletype, rhythms from swt16+
+---------
+BD: Mutant Bassdrum
+Glitchy percussion: Dinkys taiko and pico drums through pico dsp
+Break beat: ER-301
+Clicky hh: ER-301
+Metallic perc: Quark
+
+Bass: Rings
+Atmospheric: ER-301
+Folded third: Pico vco through chopping kinky
+
+Lead: a-110 though humpback
+
+Reverse delay (metallic perc and lead): Morphagene
+
+Lead is played from keyboard through Bishops Micellany

@@ -1,0 +1,32 @@
+Sequenced from teletype
+
+BD + snare: Samples from ER-301, the snare through clocked delay,
+randomly modulared
+
+Additional percussion: Quark modulated my stepped random voltages from
+teletype
+
+Bass: ER-301 custom unit "bass pluck"
+
+FM/bell melody: ER-301 custom unit "2op-fm", through sample rate
+reduction and clocked delay, the later randomly modulated, then
+through a stutter unit
+
+Harmony: Rings (green mode) with radio music as input
+
+Melody: Doepfer a-110 through wasp filter
+
+Joystick (X): controls a filter on the snare and "feedback" on the
+bass
+
+Voltage Memory: Out1 controls sample rate reduction on FM/bell melody,
+Out2 controls index on FM/bell melody, Out5 controls brightness on
+rings, Out6 is a voltage that is the maximum of a random value added
+(when button is pressed on the addac latching gates) to the melody
+
+Latching gates: mutes track on teletype
+
+Piano: recorded in realtime with a bit of axoloti reverb + additional
+reverb added in DAW
+
+Reverb: Axoloti

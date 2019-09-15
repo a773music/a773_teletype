@@ -1,4 +1,30 @@
 # Teletype scenes
+## Binary
+[![Binary on youtube](http://img.youtube.com/vi/xWid0iosVOk/0.jpg)](http://www.youtube.com/watch?v=xWid0iosVOk)  
+
+## Broken funk
+[![Broken funk on youtube](http://img.youtube.com/vi/zgkl_GC0gCQ/0.jpg)](https://www.youtube.com/watch?v=zgkl_GC0gCQ)  
+Experimenting with different grooves by setting the M on each step.
+
+
+## Hi Five
+[![Hi Five on youtube](http://img.youtube.com/vi/QhY-s0VNT2E/0.jpg)](http://www.youtube.com/watch?v=QhY-s0VNT2E)  
+Tracks split over two scenes, selected on knob. For this to work the scenes must be in locations 7 and 8 (or edit the code, change "7" in the last two lines of script 8 in both scenes to the location of the first scene, the second scene must then be next from the first).  
+First scene is the main part, scene 2 is a randomly generated break.
+
+## Incredibles
+[![Incredibles on youtube](http://img.youtube.com/vi/ebH7hu1fWQ4/0.jpg)](http://www.youtube.com/watch?v=ebH7hu1fWQ4)  
+First track of my set at Louisiana Museum of Modern Art
+
+## Pessimism is overrated
+[![Pessimism is overrated on youtube](http://img.youtube.com/vi/h0r93-px_Sw/0.jpg)](http://www.youtube.com/watch?v=h0r93-px_Sw)  
+Happy vibes in F-major and D-major. Intentional melody, played by teletype and live piano.
+
+
+## Ping
+[![Ping on youtube](http://img.youtube.com/vi/8UDat7DNXyM/0.jpg)](https://www.youtube.com/watch?v=8UDat7DNXyM)   
+Mellow ambient piece
+
 ## Spine
 [![Spine on youtube](http://img.youtube.com/vi/8Ut7RuTwOpU/0.jpg)](http://www.youtube.com/watch?v=8Ut7RuTwOpU)  
 Four parts, selected by knob, each part has it's own pattern (0-3)  
@@ -10,13 +36,10 @@ rows 24-31: unused
 rows 32-47: probability of BD  
 rows 48-63: a group of four consecutive notes form a chord, the first note in the group is the bass note
 
-## Binary
-[![Binary on youtube](http://img.youtube.com/vi/xWid0iosVOk/0.jpg)](http://www.youtube.com/watch?v=xWid0iosVOk)  
 
-## Hi Five
-[![Hi Five on youtube](http://img.youtube.com/vi/QhY-s0VNT2E/0.jpg)](http://www.youtube.com/watch?v=QhY-s0VNT2E)  
-Tracks split over two scenes, selected on knob. For this to work the scenes must be in locations 7 and 8 (or edit the code, change "7" in the last two lines of script 8 in both scenes to the location of the first scene, the second scene must then be next from the first).  
-First scene is the main part, scene 2 is a randomly generated break.
+## Rad io
+[![Rad io on youtube](http://img.youtube.com/vi/PErMm5vag9I/0.jpg)](http://www.youtube.com/watch?v=PErMm5vag9I)  
+Glitchy, dreamy piece with intentional melody and a phrygian flavour
 
 
 # Mom-series

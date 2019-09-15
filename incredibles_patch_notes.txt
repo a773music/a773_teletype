@@ -1,0 +1,17 @@
+sequenced from teletype and swt16+
+
+bd: er301 and mutand bassdrum
+sd, hh + perc: er301
+additional perc: quark (through pico dsp), dinkys taiko, no drums,
+pico drums
+
+bass: pico vco through chopping kinky
+harmony: radio music (gated) through rings
+melody: er301 (vocal-ish + bell + fm), plonk (bell)
+lead/solo: pico vco through doepfer wasp
+
+pamelas new workout and 4r (sequenced from swt16+) is modulating lots
+of stuff...
+
+joystick (x-axis) is controlling skipping on teletype
+
