@@ -1,0 +1,19 @@
+sequenced from teletype, bsp and swt16+
+
+bd: mutant bassdrum
+sd: pico drums, nodrums and plonk through warps
+
+bass: product
+bass slave: product into a196 into dplpg (triggered from pams through
+ladik skipper)
+
+harmony voice: er-301
+
+add sd: er-301
+
+lead: a110 through humpback
+
+perc synth: a110, sqr through a106, combined with saw in bhwr, into
+aperture, into clouds
+
+reverb by hall of fame 2
