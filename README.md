@@ -6,6 +6,9 @@
 [![Broken funk on youtube](http://img.youtube.com/vi/zgkl_GC0gCQ/0.jpg)](https://www.youtube.com/watch?v=zgkl_GC0gCQ)  
 Experimenting with different grooves by setting the M on each step.
 
+## Deep Blue
+[![Deep Blue on youtube](http://img.youtube.com/vi/Eqppk_KGKuI/0.jpg)](https://www.youtube.com/watch?v=Eqppk_KGKuI)  
+Algorithmic melody and harmony, modulation from D-minor to F-Dorian in part 4, BSP slaved (unused), handy 4x blink before part change.
 
 ## Hi Five
 [![Hi Five on youtube](http://img.youtube.com/vi/QhY-s0VNT2E/0.jpg)](http://www.youtube.com/watch?v=QhY-s0VNT2E)  

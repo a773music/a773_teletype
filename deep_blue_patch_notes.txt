@@ -1,0 +1,19 @@
+sequenced from teletype and swt16+
+----------------
+bd: mutant bassdrum
+sd: er-301
+zap: er-301
+hh: er-301
+high glitch: 2opfm
+
+bass: frequency central product
+
+harmony + melody: rings (4 voice green mode)
+melody dub clean: a-110 triangle
+melody dub dirty: a-100 sine + product (bass) saw through warps
+through aperture
+tuned sound effect: er-301
+
+granular perc: plonk throught clouds
+
+reverb: hall of fame 2
