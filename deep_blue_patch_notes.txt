@@ -8,7 +8,7 @@ high glitch: 2opfm
 
 bass: frequency central product
 
-harmony + melody: rings (4 voice green mode)
+harmony + melody: rings (4 voice green mode), both clean and through morphagene.
 melody dub clean: a-110 triangle
 melody dub dirty: a-100 sine + product (bass) saw through warps
 through aperture
