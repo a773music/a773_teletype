@@ -48,7 +48,9 @@ Glitchy, dreamy piece with intentional melody and a phrygian flavour
 [![Student eleven on youtube](http://img.youtube.com/vi/pkgq5Fxh_r8/0.jpg)](http://www.youtube.com/watch?v=pkgq5Fxh_r8)  
 Energetic, melody driven track in G-minor, modulating to Bb-minor for C-part, sequenced from teletype, beatstep pro and swt16+
 
-
+## Three's a crowd
+[![Three's a crowd on youtube](http://img.youtube.com/vi/GgIXSw_7xug/0.jpg)](http://www.youtube.com/watch?v=GgIXSw_7xug)  
+Straight forward tune in C-minor, melody played by hand into Bishops Miscellany.
 
 ## Up a notch
 [![Up a notch on youtube](http://img.youtube.com/vi/i2DR767OQNI/0.jpg)](http://www.youtube.com/watch?v=i2DR767OQNI)  
