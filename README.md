@@ -39,7 +39,6 @@ rows 24-31: unused
 rows 32-47: probability of BD  
 rows 48-63: a group of four consecutive notes form a chord, the first note in the group is the bass note
 
-
 ## Rad io
 [![Rad io on youtube](http://img.youtube.com/vi/PErMm5vag9I/0.jpg)](http://www.youtube.com/watch?v=PErMm5vag9I)  
 Glitchy, dreamy piece with intentional melody and a phrygian flavour
