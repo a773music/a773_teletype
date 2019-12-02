@@ -1,0 +1,14 @@
+sequenced from teletype
+---
+BD: Prok BD + Mutant Bassdrum
+SD: ER-301
+Perc: 2opfm + Dinkys Taiko
+
+Bass: ER-301 + Piston Honda
+Background: ER-301
+
+Generative lead: ER-301
+Keyboard lead: Frequency Central Product
+Solo: Orgone Accumulator
+
+Additional reverb and delay added in DAW

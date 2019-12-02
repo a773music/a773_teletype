@@ -2,12 +2,16 @@
 ## Binary
 [![Binary on youtube](http://img.youtube.com/vi/xWid0iosVOk/0.jpg)](http://www.youtube.com/watch?v=xWid0iosVOk)  
 
+## Blow
+[![Blow on youtube](http://img.youtube.com/vi/TkLYpkGcn0Y/0.jpg)](https://www.youtube.com/watch?v=TkLYpkGcn0Y)  
+Funky, melodic track in 6/8 time
+
 ## Broken funk
 [![Broken funk on youtube](http://img.youtube.com/vi/zgkl_GC0gCQ/0.jpg)](https://www.youtube.com/watch?v=zgkl_GC0gCQ)  
 Experimenting with different grooves by setting the M on each step.
 
 ## Deep Blue
-[![Deep Blue on youtube](http://img.youtube.com/vi/Eqppk_KGKuI/0.jpg)](https://www.youtube.com/watch?v=Eqppk_KGKuI)  
+[![Deep Blue on youtube](http://img.youtube.com/vi/hKg8cT7-YLs/0.jpg)](https://www.youtube.com/watch?v=hKg8cT7-YLs)  
 Algorithmic melody and harmony, modulation from D-minor to F-Dorian in part 4, BSP slaved (unused), handy 4x blink before part change.
 
 ## Hi Five
@@ -22,7 +26,6 @@ First track of my set at Louisiana Museum of Modern Art
 ## Pessimism is overrated
 [![Pessimism is overrated on youtube](http://img.youtube.com/vi/h0r93-px_Sw/0.jpg)](http://www.youtube.com/watch?v=h0r93-px_Sw)  
 Happy vibes in F-major and D-major. Intentional melody, played by teletype and live piano.
-
 
 ## Ping
 [![Ping on youtube](http://img.youtube.com/vi/8UDat7DNXyM/0.jpg)](https://www.youtube.com/watch?v=8UDat7DNXyM)   
@@ -42,6 +45,11 @@ rows 48-63: a group of four consecutive notes form a chord, the first note in th
 ## Rad io
 [![Rad io on youtube](http://img.youtube.com/vi/PErMm5vag9I/0.jpg)](http://www.youtube.com/watch?v=PErMm5vag9I)  
 Glitchy, dreamy piece with intentional melody and a phrygian flavour
+
+## Rigor triad
+[![Rigor triad on youtube](http://img.youtube.com/vi/RcZ7tlgogTU/0.jpg)](https://www.youtube.com/watch?v=RcZ7tlgogTU)  
+Random harmony, sequenced from teletype and trigger riot
+
 
 ## Student eleven
 [![Student eleven on youtube](http://img.youtube.com/vi/pkgq5Fxh_r8/0.jpg)](http://www.youtube.com/watch?v=pkgq5Fxh_r8)  
@@ -90,3 +98,4 @@ Three voices each going through a series of notes in C-major, knob controls the 
 ## Mom #5
 [![Mom 5 on instagram](https://github.com/attejensen/teletype/blob/master/pix/mom_5.jpg?raw=true)](https://www.instagram.com/p/BxaqHgfB1AB)  
 10 partials from the overtone series on the er-301. Teletype radomizes gains and slews of those gain changes
+

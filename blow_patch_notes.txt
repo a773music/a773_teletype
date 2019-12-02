@@ -1,0 +1,22 @@
+sequenced from teletype + trigger riot
+-----
+bd: mutant bassdrum
+sd: orgone accumulator + a-110 through warps, enveloped by quadra
+hh-ish: quark (input: warps)
+perc: 2opfm
+glitch perc: er-301
+add perc: apc through dplpg
+
+bass: orgone accumulator
+chords: er-301
+keyboard lead: product
+knob solo: piston honda, though wasp
+
+bell: er-301
+bleeps: a-110, controlled by noise quantized bt penrose
+
+effects
+clouds, pitch-shifted randomly in 5ths + reverb
+delay: pico dsp
+
+additional reverb and delay in daw
