@@ -1,0 +1,17 @@
+sequenced from teletype
+
+bd: 2opfm
+sd: field-recording through a vca + random delay (er301)
+hh: field-recording through a vca (er301)
+
+bass: a110 triangle folded with chopping kinky
+sub bass: first oscillator through a160-2 for sub octave, filtered
+through bf222
+arpeggio: a110 sine through aperture
+bleep harmony/melody part: product
+harmony: rings through bf22, through rainmaker
+glitch: main osc and procuct triangle through warps through clouds
+
+lead: ms-1
+
+additional reverb and delay in daw (reaper)

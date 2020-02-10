@@ -1,0 +1,24 @@
+sequenced from teletype
+
+bd: mutant bassdrum
+snare: random braids glitches played and processed by er301
+hh-ish: electromanetic sample played and processed by er301
+click: quark
+percussion: threeler pinged and processed by rainmaker
+
+bass: a110 saw filtered by humpback
+additional pwm: rampage
+
+harmony: spoken words through rings
+ep note: er301
+
+melody: 2xa110, slightly detuned, mixed in cp3, filtered by doepfer
+sem filter
+additional synth melody: er301
+
+solo: ms-1 through clouds
+
+reverb: axoloti
+
+light reverb and delay added in reaper
+

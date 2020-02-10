@@ -1,0 +1,23 @@
+sequenced from teletype and trigger riot
+
+bd: mutant bassdrum
+sd: two layers of samples generated in csound, one a steady fm-hit,
+the other a round robin stack of chirp-ish sounds, played on the er-301
+hh: sample generated in csound, played back on er-301
+clikcy perc: 2opfm
+perc: random samples generated in csound, played on er-301
+
+bass (main): pico vco triangle folded with chopping kinky
+bass (add): fm-bass hits generated in csound, played on er-301
+
+harmony: rings through bf-22
+animated harmony: output of bf-22 through 2lpg pinged by quadra
+
+main melody: ms-1
+slow melody: tides 1
+
+random effects distributed by ssm to rainmaker and clouds
+
+granular reverb: axoloti
+
+additional reverb and delay in reaper

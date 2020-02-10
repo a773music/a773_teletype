@@ -1,0 +1,19 @@
+sequenced from teletype
+--
+bd: mutant bassdrum
+additional bd: er-301
+sd: er-301
+glitch hit: pico drums, trhough echo, through clouds
+perc: 2opfm and dinky's taiko
+
+bass: er-301
+rings-like harmony: er-301 through rainmaker
+harmony voice (b-part): er-301
+
+keyboard lead: product + rings
+knob lead: pico vco though chopping kinky + same vco driving apc, both
+mixed and filtered by wasp
+
+modulation: sloth, dual-lfo, pnw, 4r
+additional effects in daw (reaper)
+

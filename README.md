@@ -14,6 +14,10 @@ Experimenting with different grooves by setting the M on each step.
 [![Deep Blue on youtube](http://img.youtube.com/vi/hKg8cT7-YLs/0.jpg)](https://www.youtube.com/watch?v=hKg8cT7-YLs)  
 Algorithmic melody and harmony, modulation from D-minor to F-Dorian in part 4, BSP slaved (unused), handy 4x blink before part change.
 
+## Diffusion
+[![Diffusion on youtube](http://img.youtube.com/vi/mD762X1wxdI/0.jpg)](https://www.youtube.com/watch?v=mD762X1wxdI)  
+A part in 4/4, a happy accident suggested the B part should be in 6/8 (technically 21/8)
+
 ## Hi Five
 [![Hi Five on youtube](http://img.youtube.com/vi/QhY-s0VNT2E/0.jpg)](http://www.youtube.com/watch?v=QhY-s0VNT2E)  
 Tracks split over two scenes, selected on knob. For this to work the scenes must be in locations 7 and 8 (or edit the code, change "7" in the last two lines of script 8 in both scenes to the location of the first scene, the second scene must then be next from the first).  
@@ -22,6 +26,10 @@ First scene is the main part, scene 2 is a randomly generated break.
 ## Incredibles
 [![Incredibles on youtube](http://img.youtube.com/vi/ebH7hu1fWQ4/0.jpg)](http://www.youtube.com/watch?v=ebH7hu1fWQ4)  
 First track of my set at Louisiana Museum of Modern Art
+
+## Minus
+[![Minus on youtube](http://img.youtube.com/vi/gTqJ4k6kb-I/0.jpg)](https://www.youtube.com/watch?v=gTqJ4k6kb-I)  
+Generated melody, sonically inspired by the music of Ela Minus (round, bright, plucky), features harmonic modulation.
 
 ## Pessimism is overrated
 [![Pessimism is overrated on youtube](http://img.youtube.com/vi/h0r93-px_Sw/0.jpg)](http://www.youtube.com/watch?v=h0r93-px_Sw)  
@@ -46,14 +54,25 @@ rows 48-63: a group of four consecutive notes form a chord, the first note in th
 [![Rad io on youtube](http://img.youtube.com/vi/PErMm5vag9I/0.jpg)](http://www.youtube.com/watch?v=PErMm5vag9I)  
 Glitchy, dreamy piece with intentional melody and a phrygian flavour
 
+## Rain check
+[![Rad io on youtube](http://img.youtube.com/vi/m_-hRnYDexw/0.jpg)](https://www.youtube.com/watch?v=m_-hRnYDexw)  
+First patch with the rainmaker (hence the track title). Had great fun with un-even length of B-part on this one. Floats between D-minor and D-major.
+
 ## Rigor triad
 [![Rigor triad on youtube](http://img.youtube.com/vi/RcZ7tlgogTU/0.jpg)](https://www.youtube.com/watch?v=RcZ7tlgogTU)  
 Random harmony, sequenced from teletype and trigger riot
 
+## Stargazer
+[![Stargazer on youtube](http://img.youtube.com/vi/x9nc5jUjgTA/0.jpg)](https://www.youtube.com/watch?v=x9nc5jUjgTA)  
+Hand played melody over melodic bassline, middle part is reaching for the stars (aka atonal bleeps, screaming filter and granular glitches)
 
 ## Student eleven
 [![Student eleven on youtube](http://img.youtube.com/vi/pkgq5Fxh_r8/0.jpg)](http://www.youtube.com/watch?v=pkgq5Fxh_r8)  
 Energetic, melody driven track in G-minor, modulating to Bb-minor for C-part, sequenced from teletype, beatstep pro and swt16+
+
+## The man with the funny hat
+[![The man with the funny hat on youtube](http://img.youtube.com/vi/1moMDmbMqb4/0.jpg)](https://www.youtube.com/watch?v=1moMDmbMqb4)  
+So I figured out a way to have really long melodies in patterns, why not try it out? Basically in G-major, although theres some G-lydian and G-minor in there as well. A-part in 7/8, B-part in 4/4, C-part in 13/8.
 
 ## Three's a crowd
 [![Three's a crowd on youtube](http://img.youtube.com/vi/GgIXSw_7xug/0.jpg)](http://www.youtube.com/watch?v=GgIXSw_7xug)  
@@ -64,7 +83,7 @@ Straight forward tune in C-minor, melody played by hand into Bishops Miscellany.
 High activity in 7/8 meter, notes and some triggers sequenced by teletype, most triggers from swt16+, four parts on knob.
 
 # Mom-series
-My Mom has trouble sleeping at night, so I'm putting together a series of ambient pieces for her to relax to.
+My mom has trouble sleeping at night, so I'm putting together a series of ambient pieces for her to relax to.
 ## Mom #1
 [![Mom 1 on instagram](https://github.com/attejensen/teletype/blob/master/pix/mom_1.jpg?raw=true)](https://www.instagram.com/p/BwFW5GxBanv)  
 Four parts, selected by knob, each part has it's own pattern (0-3)  

@@ -1,0 +1,28 @@
+https://www.youtube.com/watch?v=gTqJ4k6kb-I
+
+sequenced from teletype
+first scene with 12 scripts firmware
+--
+bd: two samples played by the er-301, one is generated with csound
+sd: generated with csound, played by the er-301
+hh: white noise through threeler bandpass filter, modulated by mfb
+    dual lfo
+fm-perc: samdom selection between 100 samples generated with csound
+noisy perc: 2opfm triggered by random output of a-118 and'ed with an
+    output from trigger riot
+slightly melodic noise perc: doepfer pll driven by the osc doing
+    random bleeps, and then filtered through wasp bandpass
+
+bass: a110 triangle though dplpg
+bleep melody: a110 triangle through 2lpg
+random bleeps: a110 triangle through 2lpg, opened by a channel of
+    quadra with decay modulated
+chords: er-301
+
+generative melody: product
+
+solo lead: pico vco (sing) folded with chopping kinky
+
+effects:
+chouds + rainmaker + pico dsp (modulated delay) randomly send stuff
+via ssm
