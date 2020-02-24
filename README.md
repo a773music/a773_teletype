@@ -82,6 +82,10 @@ Straight forward tune in C-minor, melody played by hand into Bishops Miscellany.
 [![Up a notch on youtube](http://img.youtube.com/vi/i2DR767OQNI/0.jpg)](http://www.youtube.com/watch?v=i2DR767OQNI)  
 High activity in 7/8 meter, notes and some triggers sequenced by teletype, most triggers from swt16+, four parts on knob.
 
+## Your word against his
+[![Your word against his on youtube](http://img.youtube.com/vi/foETdII82qo/0.jpg)](http://www.youtube.com/watch?v=foETdII82qo)  
+Cute melody (played on microfreak), three parts, generative solo, phrasing and modulation by hand on orgone accumulator. 
+
 # Mom-series
 My mom has trouble sleeping at night, so I'm putting together a series of ambient pieces for her to relax to.
 ## Mom #1
