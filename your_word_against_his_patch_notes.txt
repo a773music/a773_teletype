@@ -3,6 +3,7 @@ sequenced from teletype
 bd: matter sample played from er-301
 sd-ish: pinged threeler
 break-beat snares: er-301
+high pitched glitch: plonk (receiving same pitch as rings)
 
 bass: product
 harmony: rings folded by chopping kinky
