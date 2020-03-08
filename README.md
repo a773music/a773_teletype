@@ -62,6 +62,10 @@ First patch with the rainmaker (hence the track title). Had great fun with un-ev
 [![Rigor triad on youtube](http://img.youtube.com/vi/RcZ7tlgogTU/0.jpg)](https://www.youtube.com/watch?v=RcZ7tlgogTU)  
 Random harmony, sequenced from teletype and trigger riot
 
+## Shall we dance
+[![Shall we dance on youtube](http://img.youtube.com/vi/m_rXqZ3qULI/0.jpg)](https://www.youtube.com/watch?v=m_rXqZ3qULI)  
+Romantic waltz, generative solo.
+
 ## Stargazer
 [![Stargazer on youtube](http://img.youtube.com/vi/x9nc5jUjgTA/0.jpg)](https://www.youtube.com/watch?v=x9nc5jUjgTA)  
 Hand played melody over melodic bassline, middle part is reaching for the stars (aka atonal bleeps, screaming filter and granular glitches)
