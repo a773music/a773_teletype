@@ -1,0 +1,27 @@
+sequenced from teletype and trigger riot
+modulation from modseq, 8s, 4r and mfb dual lfo
+slow gate for phrasing: vert
+
+bd: mutant bassdrum
+clap: quark
+hh: matter sample played by the er-301
+fast fm perc: 2opfm
+additional sd: samples generated in csound, played by the er-301
+
+granular texture 1: er301 and 
+granular texture 2: no drums (modulated by turing machine) though clouds
+granular texture 3: pico drums though rainmaker
+
+bass: product
+folded bass: tri out of product through chopping kinky (with bend leg)
+opened by quadra or occationally by hand
+
+pad: microfreak sampled and played from er-301
+harmony: rings + a110 though 2lpg
+
+pad melody: microfreak
+
+reverb: axoloti
+
+additional reverb and delay added in reaper
+
