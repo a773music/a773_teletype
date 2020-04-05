@@ -22,6 +22,10 @@ Algorithmic melody and harmony, modulation from D-minor to F-Dorian in part 4, B
 [![Diffusion on youtube](http://img.youtube.com/vi/mD762X1wxdI/0.jpg)](https://www.youtube.com/watch?v=mD762X1wxdI)  
 A part in 4/4, a happy accident suggested the B part should be in 6/8 (technically 21/8)
 
+## Every step matters
+[![Every step matters on youtube](http://img.youtube.com/vi/vwWW8xwB_PI/0.jpg)](https://www.youtube.com/watch?v=vwWW8xwB_PI)  
+Cheerful tune in 7/8 modulating a minor third up in the b section, main melody played by hand.
+
 ## Hi Five
 [![Hi Five on youtube](http://img.youtube.com/vi/QhY-s0VNT2E/0.jpg)](http://www.youtube.com/watch?v=QhY-s0VNT2E)  
 Tracks split over two scenes, selected on knob. For this to work the scenes must be in locations 7 and 8 (or edit the code, change "7" in the last two lines of script 8 in both scenes to the location of the first scene, the second scene must then be next from the first).  

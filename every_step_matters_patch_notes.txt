@@ -1,0 +1,25 @@
+sequenced from teletype, trigger riot and turing machine (modulation)
+--
+bd: matter sample played from er301
+sd-ish: plonk
+perc: matter sample played from er301
+hh-ish: radio music through doepfer sem filter (bpf), freq modulated
+  by pams
+
+granular perc 1: 2opfm through monsoon
+granular perc 2: ladik rom player (custom samples) through clouds
+add perc: pico drums (databend samples) through wasp in high pass mode
+
+main bass: matter sample played from er301
+add (low) bass: a110 (saw) + square octave lower with a160-2 mixed in cp3
+  (overdriven) and filtered through threeler
+
+bell: microfreak sample played from er301
+harmony: rings
+
+melody (sequenced): orgone accumulator
+melody (played by hand): microfreak
+
+reverb: axoloti
+
+additional reverb and delay in reaper
