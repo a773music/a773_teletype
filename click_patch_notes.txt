@@ -1,0 +1,29 @@
+sequenced from teletype, trigger riot, s8 and modseq
+--
+bd: sample tuned to follow root-notes of bass (er-301)
+sd: samped snare + random selection between data bend glitches
+hh 1: random selection between hh samples (er-301)
+hh 2: plonk
+clicks: glitching from the er-301
+
+glitch: databend samples from pico drums
+
+granular texture 1: doepfer pll (driven by the pico vco used for bass)
+enveloped on channel b of chopping kiny by gates from trigger riot, cv
+from modseq (driven by trigger riot), and a118 random voltages,
+though clouds
+granular texture 2: modular bleeps from pico drums through monsoon
+
+add bass 1: pico vco folded by chopping kinky
+add bass 2: a110 saw through a106 in lp mode with high resonance
+
+chords: er-301
+harmony: rings (green/green)
+pad: microfreak
+
+melody: product, saw only, no resonance
+solo: a110 (triangle) through bf22, low input, resonance just below wild
+
+reverb: axoloti
+
+additional delay (melody) added in reaper

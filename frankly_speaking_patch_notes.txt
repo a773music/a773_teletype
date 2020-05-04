@@ -1,0 +1,24 @@
+sequenced from teletype
+
+bd: mutant bd
+sd: synthesized on the er-301
+sd glitch layer: vert, random voltages in fm and processed by clouds
+hh: generated in csound, further processed in er-301
+triangle: 2opfm
+
+granular layer 1: random glitch samples (er-301)
+granular layer 2: manual grains (er-301)
+
+bass: product
+harmony 1: a110 saw, through humphback and monsoon
+harmony 2: rings (green mode)
+
+main melody: microfreak
+
+knob solo: orgone accumulator through bf-22, reverb by rainmaker
+
+generative solo: csound wave-terrain tone (er-301)
+
+reverb: axoloti
+
+additional delay (microfreak): in reaper

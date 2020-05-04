@@ -14,6 +14,10 @@ Funky, melodic track in 6/8 time
 [![Broken funk on youtube](http://img.youtube.com/vi/zgkl_GC0gCQ/0.jpg)](https://www.youtube.com/watch?v=zgkl_GC0gCQ)  
 Experimenting with different grooves by setting the M on each step.
 
+## Click
+[![Click on youtube](http://img.youtube.com/vi/9YgUOOxyTNA/0.jpg)](https://www.youtube.com/watch?v=9YgUOOxyTNA)  
+Fast, clicky, glitchy track in 4+5/8, melody from teletype.
+
 ## Deep Blue
 [![Deep Blue on youtube](http://img.youtube.com/vi/hKg8cT7-YLs/0.jpg)](https://www.youtube.com/watch?v=hKg8cT7-YLs)  
 Algorithmic melody and harmony, modulation from D-minor to F-Dorian in part 4, BSP slaved (unused), handy 4x blink before part change.
@@ -25,6 +29,10 @@ A part in 4/4, a happy accident suggested the B part should be in 6/8 (technical
 ## Every step matters
 [![Every step matters on youtube](http://img.youtube.com/vi/vwWW8xwB_PI/0.jpg)](https://www.youtube.com/watch?v=vwWW8xwB_PI)  
 Cheerful tune in 7/8 modulating a minor third up in the b section, main melody played by hand.
+
+## Frankly speaking
+[![Frankly speaking on youtube](http://img.youtube.com/vi/Hbuv4pGoRY0/0.jpg)](https://www.youtube.com/watch?v=Hbuv4pGoRY0)  
+Funky tune in 5/4, main melody by hand on the microfreak.
 
 ## Hi Five
 [![Hi Five on youtube](http://img.youtube.com/vi/QhY-s0VNT2E/0.jpg)](http://www.youtube.com/watch?v=QhY-s0VNT2E)  
