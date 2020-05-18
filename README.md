@@ -26,6 +26,10 @@ Algorithmic melody and harmony, modulation from D-minor to F-Dorian in part 4, B
 [![Diffusion on youtube](http://img.youtube.com/vi/mD762X1wxdI/0.jpg)](https://www.youtube.com/watch?v=mD762X1wxdI)  
 A part in 4/4, a happy accident suggested the B part should be in 6/8 (technically 21/8)
 
+## Early riser
+[![Early riser on youtube](http://img.youtube.com/vi/_L4_EWjidS4/0.jpg)](https://www.youtube.com/watch?v=_L4_EWjidS4)  
+Melodically saturated tune in minor.
+
 ## Every step matters
 [![Every step matters on youtube](http://img.youtube.com/vi/vwWW8xwB_PI/0.jpg)](https://www.youtube.com/watch?v=vwWW8xwB_PI)  
 Cheerful tune in 7/8 modulating a minor third up in the b section, main melody played by hand.

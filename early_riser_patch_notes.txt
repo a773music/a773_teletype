@@ -1,0 +1,27 @@
+sequenced from teletype
+
+bd: synthesized on er-301
+sd: synthesized on er-301
+sd glitch layer: vert (modulating the internal clock at audio rate
+   from a pwm square with random gain), sampled on er-301
+hh: colored noise (a118), enveloped by quadra
+
+bass: bermuda, triangle with self mod
+add bass: sine from bermuda through warps (dual bit mangler),
+   modulated by pams envelopes (algo), quadra (timbre), and fed the
+   same v/oct as bermuda in red input
+
+tuned glitch: samples from same session as sd glitch, sampled on er-301
+
+bleeps: pico vco (saw) through 2lpg (tone down pos), triggers at 10ms
+   (teletype) 
+
+chords: pad from microfreak sampled in the er-301
+
+sweep: colored noise (a118), filtered by a106-5, to monsoon (bp and hp
+   to left and right), clocked my pams through ladik skipper
+
+melody: pico vco (saw) through threeler (res just before self-osc),
+   filter opened by quadra
+
+reverb: axoloti
