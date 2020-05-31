@@ -1,4 +1,8 @@
 # Teletype scenes
+## Ascension
+[![Ascension on youtube](http://img.youtube.com/vi/cEtY9qIOfBw/0.jpg)](http://www.youtube.com/watch?v=cEtY9qIOfBw)  
+Melodic with lots of random surprises
+
 ## Bend leg
 [![Bend leg on youtube](http://img.youtube.com/vi/in4-kK73Gs0/0.jpg)](http://www.youtube.com/watch?v=in4-kK73Gs0)  
 Melodic ambient track in a-minor

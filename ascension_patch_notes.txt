@@ -1,0 +1,20 @@
+sequenced from teletype
+
+bd: er-301
+sd: orgone accumulator
+add sd: er-301
+hh: plonk
+perc: er-301
+
+main bass: recombination engine through threeler
+fm bass: er-301
+
+harmony: recombination engine through rings
+1/8th note melody: product
+10th support: a110 though bf-22
+
+lead: yamaha reface dx
+
+textures: monsoon, clouds, rainmaker, pico dsp
+
+reverb: hall of fame 2
