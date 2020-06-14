@@ -1,0 +1,19 @@
+sequenced from teletype
+
+bd: er-301
+snare: er-301
+additional snare glitch: er-301
+hh: er-301
+perc: 2opfm
+
+bass: recombination engine (at some points through bf22)
+harmony line: a110 though humphback
+texture: rainmaker, monsoon, echo (random routing through ssm)
+bell: plonk though pico dsp
+
+main melody: product
+keyboard melody: yamaha reface dx
+
+solo: pico vco, through chopping kinky
+
+reverb: hall of fame 2

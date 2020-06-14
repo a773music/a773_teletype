@@ -51,6 +51,10 @@ First scene is the main part, scene 2 is a randomly generated break.
 [![Incredibles on youtube](http://img.youtube.com/vi/ebH7hu1fWQ4/0.jpg)](http://www.youtube.com/watch?v=ebH7hu1fWQ4)  
 First track of my set at Louisiana Museum of Modern Art
 
+## Late reply
+[![Late reply on youtube](http://img.youtube.com/vi/rNJW8qPljQ4/0.jpg)](https://www.youtube.com/watch?v=rNJW8qPljQ4)  
+Opening more up to generative input from teletype + a few discoveries in phrygian...
+
 ## Minus
 [![Minus on youtube](http://img.youtube.com/vi/gTqJ4k6kb-I/0.jpg)](https://www.youtube.com/watch?v=gTqJ4k6kb-I)  
 Generated melody, sonically inspired by the music of Ela Minus (round, bright, plucky), features harmonic modulation.
