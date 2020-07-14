@@ -42,6 +42,10 @@ Cheerful tune in 7/8 modulating a minor third up in the b section, main melody p
 [![Frankly speaking on youtube](http://img.youtube.com/vi/Hbuv4pGoRY0/0.jpg)](https://www.youtube.com/watch?v=Hbuv4pGoRY0)  
 Funky tune in 5/4, main melody by hand on the microfreak.
 
+## Healthyh
+[![Healthyh on youtube](http://img.youtube.com/vi/67Ex_YpYGXE/0.jpg)](https://www.youtube.com/watch?v=67Ex_YpYGXE)  
+Melancholic waltz in 5+5+5/16, harmonically it's somewhat shifting phrygian, with abrupt key changes towards the end.
+
 ## Hi Five
 [![Hi Five on youtube](http://img.youtube.com/vi/QhY-s0VNT2E/0.jpg)](http://www.youtube.com/watch?v=QhY-s0VNT2E)  
 Tracks split over two scenes, selected on knob. For this to work the scenes must be in locations 7 and 8 (or edit the code, change "7" in the last two lines of script 8 in both scenes to the location of the first scene, the second scene must then be next from the first).  
@@ -54,6 +58,10 @@ First track of my set at Louisiana Museum of Modern Art
 ## Late reply
 [![Late reply on youtube](http://img.youtube.com/vi/rNJW8qPljQ4/0.jpg)](https://www.youtube.com/watch?v=rNJW8qPljQ4)  
 Opening more up to generative input from teletype + a few discoveries in phrygian...
+
+## Looose
+[![Loose on youtube](http://img.youtube.com/vi/XR5iVxwTVaQ/0.jpg)](https://www.youtube.com/watch?v=XR5iVxwTVaQ)  
+Casual track, no melody, focus on texture and rhytmic structures
 
 ## Minus
 [![Minus on youtube](http://img.youtube.com/vi/gTqJ4k6kb-I/0.jpg)](https://www.youtube.com/watch?v=gTqJ4k6kb-I)  

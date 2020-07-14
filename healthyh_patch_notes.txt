@@ -1,0 +1,18 @@
+sequenced from teletype
+
+bd: er301
+sd: reface dx (sampled and played by er301)
+fluffy sd: recombination engine through clouds in spectral madness
+(sampled and played by er301)
+hh: 2opfm, filtered and enveloped on er301
+perc: recombination engine (sampled and played by er301)
+
+bass: pico vco folded by chopping kinky
+harmony: rings (input from radio music)
+
+melody: product
+melody dub: microfreak
+
+solo: pico vco though doepfer wasp filter
+
+reverb and delay added in reaper

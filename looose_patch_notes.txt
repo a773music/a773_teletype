@@ -1,0 +1,19 @@
+sequenced from teletype
+
+bd: sample on er301
+sd1: er301 (resampled)
+sd2: er301 (resampled)
+hh: er301
+hh (fast): er301 sample
+perc1: 2opfm (enveloped)
+perc2: prok bd (both dry and through monsoon)
+
+fm bass: er301
+
+texture: recombination engine through clouds (pitch shifter/time
+stretch)
+fly-by fx: er301 (resampled)
+
+melody (slaved to bd): product through rainmaker
+melody a110 through humphback through pico dsp, filter opened by
+quadrax
