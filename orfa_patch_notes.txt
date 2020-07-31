@@ -1,0 +1,12 @@
+sequenced from teletype and hermod
+
+round perc/sd-ish: product through aperture + parallel through rainmaker
+add perc: recombinatioin engine, parallel through monsoon
+
+lo bass: er-301
+main bass: a-110 through bf-22 (linked hpf->lpf)
+
+harmony in b: reface dx (sequenced by hermod)
+
+lead: shapeshifter parallel through clouds (spectral madness), played
+by hand on QuNexus

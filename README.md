@@ -67,6 +67,10 @@ Casual track, no melody, focus on texture and rhytmic structures
 [![Minus on youtube](http://img.youtube.com/vi/gTqJ4k6kb-I/0.jpg)](https://www.youtube.com/watch?v=gTqJ4k6kb-I)  
 Generated melody, sonically inspired by the music of Ela Minus (round, bright, plucky), features harmonic modulation.
 
+## Ofra
+[![Orfa on youtube](http://img.youtube.com/vi/qV_NYmB_BHA/0.jpg)](https://www.youtube.com/watch?v=qV_NYmB_BHA)  
+Drum-less 6/8 groove in D-minor, a touch of D-major in the B-part.
+
 ## Pessimism is overrated
 [![Pessimism is overrated on youtube](http://img.youtube.com/vi/h0r93-px_Sw/0.jpg)](http://www.youtube.com/watch?v=h0r93-px_Sw)  
 Happy vibes in F-major and D-major. Intentional melody, played by teletype and live piano.
