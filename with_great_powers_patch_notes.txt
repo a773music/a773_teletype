@@ -1,0 +1,21 @@
+sequenced from teletype + hermod
+---
+bd: er-301
+sd: sample played from er-301 (pitched up)
+ride: sample played from er-301
+perc: synthesized on er-301
+
+granular glitch: er-301
+
+bass: pico vco folded with chopping kinky
+
+harmony: rings
+chords: yamaha reface dx
+
+melody: frequency central product
+
+solo: a-110 through wasp
+
+reverb: hall of fame 2
+
+additional reverb and delay in reaper

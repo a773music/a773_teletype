@@ -126,6 +126,10 @@ Straight forward tune in C-minor, melody played by hand into Bishops Miscellany.
 [![Up a notch on youtube](http://img.youtube.com/vi/i2DR767OQNI/0.jpg)](http://www.youtube.com/watch?v=i2DR767OQNI)  
 High activity in 7/8 meter, notes and some triggers sequenced by teletype, most triggers from swt16+, four parts on knob.
 
+## With great powers
+[![With great powers on youtube](http://img.youtube.com/vi/ZjSqw9hCHL4/0.jpg)](http://www.youtube.com/watch?v=ZjSqw9hCHL4)  
+Long melody + refacedx from hermod (teletype slaved to hermod), odd meters FTW!
+
 ## Your word against his
 [![Your word against his on youtube](http://img.youtube.com/vi/foETdII82qo/0.jpg)](http://www.youtube.com/watch?v=foETdII82qo)  
 Cute melody (played on microfreak), three parts, generative solo, phrasing and modulation by hand on orgone accumulator. 
