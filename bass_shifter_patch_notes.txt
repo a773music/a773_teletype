@@ -1,0 +1,17 @@
+sequenced from teletype and hermod
+---
+bd: dinkys taiko
+sd: 2opfm
+hh-ish: recombination engine
+perc: a-110 through humphback filter
+add perc: hh-ish through rainmaker
+
+bass: shapeshifter
+harmony: rings through bf22 through clouds (spectral madness)
+bleeps: korg m50
+
+sequenced lead: product (monsoon in parallel)
+generative lead: orgone accumulator (reverb: pico dsp)
+
+lead + solo: yamaha reface dx
+

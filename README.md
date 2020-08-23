@@ -1,7 +1,11 @@
 # Teletype scenes
 ## Ascension
 [![Ascension on youtube](http://img.youtube.com/vi/cEtY9qIOfBw/0.jpg)](http://www.youtube.com/watch?v=cEtY9qIOfBw)  
-Melodic with lots of random surprises
+Melodic track with lots of random surprises
+
+## Bass shifter
+[![Bend leg on youtube](http://img.youtube.com/vi/69L6jJduHsc/0.jpg)](http://www.youtube.com/watch?v=69L6jJduHsc)  
+Quartal melody, keyboard improvisation
 
 ## Bend leg
 [![Bend leg on youtube](http://img.youtube.com/vi/in4-kK73Gs0/0.jpg)](http://www.youtube.com/watch?v=in4-kK73Gs0)  
