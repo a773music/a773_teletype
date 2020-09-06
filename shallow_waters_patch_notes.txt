@@ -1,0 +1,15 @@
+sequenced from teletype + hermod
+---
+bd: synthesized on er-301 (tuned to root)
+sd: plonk
+tonal sd: recombination engine + clouds (spectral madness)
+
+bass: pico vco folded with chopping kinky
+harmony: shapeshifter
+
+generative melody: long waveterrain sample (csound) though manual grains
+main melody: a110 through threeler
+
+keyboard lead: yamaha reface dx
+
+reverb: axoloti, pico dsp

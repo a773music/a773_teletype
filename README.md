@@ -106,6 +106,10 @@ First patch with the rainmaker (hence the track title). Had great fun with un-ev
 [![Rigor triad on youtube](http://img.youtube.com/vi/RcZ7tlgogTU/0.jpg)](https://www.youtube.com/watch?v=RcZ7tlgogTU)  
 Random harmony, sequenced from teletype and trigger riot
 
+## Shallow waters
+[![Shallow waters on youtube](http://img.youtube.com/vi/VwqECtDCUbg/0.jpg)](https://www.youtube.com/watch?v=VwqECtDCUbg)  
+A cheerful tune, driven by melody in three keys
+
 ## Shall we dance
 [![Shall we dance on youtube](http://img.youtube.com/vi/m_rXqZ3qULI/0.jpg)](https://www.youtube.com/watch?v=m_rXqZ3qULI)  
 Romantic waltz, generative solo.
