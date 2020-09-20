@@ -1,0 +1,18 @@
+sequenced from teletype (hermod master clock and switching parts)
+--
+bd: sample played on er-301
+main sd: braids sample, played from er-301
+additional sd: self-resonating threeler (tuned to E) through monsoon,
+grains triggered from teletype
+fast glitches: braids meta mode samples, played from er-301
+
+bass: pico vco triangle
+bass 10th up: pico vco saw through wasp filter (no resonance)
+
+granular texture hits: generated with cecilia, played on er-301
+tuned noise: synthesized on er-301
+
+chords: rings with radio music as input
+melody: a-110 (sine) filtered by overdriven bf22
+
+reverb: axoloti

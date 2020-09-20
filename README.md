@@ -56,8 +56,12 @@ Tracks split over two scenes, selected on knob. For this to work the scenes must
 First scene is the main part, scene 2 is a randomly generated break.
 
 ## Incredibles
-[![Incredibles on youtube](http://img.youtube.com/vi/ebH7hu1fWQ4/0.jpg)](http://www.youtube.com/watch?v=ebH7hu1fWQ4)  
+[![Incredibles on youtube](http://img.youtube.com/vi/ebH7hu1fWQ4/0.jpg)](http://www.youtube.com/watch?v=5zwGuEDn0wY)  
 First track of my set at Louisiana Museum of Modern Art
+
+## Jitter
+[![Jitter on youtube](http://img.youtube.com/vi/5zwGuEDn0wY/0.jpg)](http://www.youtube.com/watch?v=ebH7hu1fWQ4)  
+Energetic and laid back, rhythmic and melodic, two parts with a short transition. 
 
 ## Late reply
 [![Late reply on youtube](http://img.youtube.com/vi/rNJW8qPljQ4/0.jpg)](https://www.youtube.com/watch?v=rNJW8qPljQ4)  
