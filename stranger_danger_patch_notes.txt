@@ -1,0 +1,18 @@
+sequenced by teletype and hermod (melody)
+--
+bd: synthesized on er-301
+clicks: bass driving apc, filtered with doepfer sem filter with high
+resonance
+sd wash: a-110 driving a-196, enveloped and processed by clouds
+(spectral madness)
+
+bass: pico vco folded by chopping kinky
+granular rhodes: er-301
+texture 1: rainmaker karplus strong, through bf22
+texture 2: rings (radio music as input)
+
+bell melody: orgone accumulator
+generative lead: tides 1, uni and bi outs combined in bhwr and
+filtered through threeler (18db lp)
+
+reverb: axoloti

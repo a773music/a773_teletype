@@ -1,0 +1,27 @@
+sequenced from teletype and hermod (long melody)
+--
+bd: braids sample played from er-301
+sd1: short snippet looped and tuned, plays random notes of the scale
+(er-301)
+sd2: round robin selection between 100 databend samples (er-301)
+sd3: various glitch sampels (er-301)
+sd4: snare sample played at double speed on er-301
+
+hh/clicks: 2opfm, selfpatched
+
+granular hit: samples generated in cecilia (er-301)
+
+bass: a110 (sine) through the distortion section of mutant bassdrum,
+distortiong modulated by a 16th pulse (pams)
+
+harmony: shapeshifter, folded output through clouds in spectal madness
+
+add rhythm part: warps, one input from bass, one input from main
+melody, gated through ryo aperture by quadra with random to decay length
+
+main melody: a110 though bf22
+
+solo: piston honda through threeler
+
+reverb (solo): axoloti
+

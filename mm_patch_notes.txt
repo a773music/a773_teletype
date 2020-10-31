@@ -1,0 +1,24 @@
+sequenced from teletype and hermod (pad, arpeggio and melody)
+--
+bd: braids sample played by er-301
+bd tuned: synthesized on er-301
+hh-ish: sine-osc, through filter, with delay, synthesized on er-301
+sd: triangle through filter and clocked delay, synthesized on er-301
+additional sd: sample of keys, stretched in cecilia, played and gated
+on er-301
+glitch perc: recombination engine, heavily modulated with stepped
+random (4r) and sloth, parallel processed by clouds in spectral
+madness mode 
+granular hits: sample generated in cecilia, played by er-301
+
+bass: pico vco folded by chopping kinky
+bass 10th: pico vco folded by chopping kinky
+
+pad: microfreak through threeler
+
+arpeggio: a110 saw through humpback
+
+main melody: product
+generative melody: a110 sine through bf22 hp+lp linked
+
+reverb: axoloti

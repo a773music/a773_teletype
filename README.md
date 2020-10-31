@@ -69,11 +69,15 @@ Opening more up to generative input from teletype + a few discoveries in phrygia
 
 ## Looose
 [![Loose on youtube](http://img.youtube.com/vi/XR5iVxwTVaQ/0.jpg)](https://www.youtube.com/watch?v=XR5iVxwTVaQ)  
-Casual track, no melody, focus on texture and rhytmic structures
+Casual track, no melody, focus on texture and rhytmic structures.
 
 ## Minus
 [![Minus on youtube](http://img.youtube.com/vi/gTqJ4k6kb-I/0.jpg)](https://www.youtube.com/watch?v=gTqJ4k6kb-I)  
 Generated melody, sonically inspired by the music of Ela Minus (round, bright, plucky), features harmonic modulation.
+
+## Mm
+[![Mm on youtube](http://img.youtube.com/vi/YoyrjTE2iVo/0.jpg)](https://www.youtube.com/watch?v=YoyrjTE2iVo)  
+Long harmonic line, generative melody (teletype).
 
 ## Ofra
 [![Orfa on youtube](http://img.youtube.com/vi/qV_NYmB_BHA/0.jpg)](https://www.youtube.com/watch?v=qV_NYmB_BHA)  
@@ -85,12 +89,20 @@ Happy vibes in F-major and D-major. Intentional melody, played by teletype and l
 
 ## Ping
 [![Ping on youtube](http://img.youtube.com/vi/8UDat7DNXyM/0.jpg)](https://www.youtube.com/watch?v=8UDat7DNXyM)   
-Mellow ambient piece
+Mellow ambient piece.
 
-## Spine
+## Rad io
+[![Rad io on youtube](http://img.youtube.com/vi/PErMm5vag9I/0.jpg)](http://www.youtube.com/watch?v=PErMm5vag9I)  
+Glitchy, dreamy piece with intentional melody and a phrygian flavour.
+
+## Rain check
+[![Rad io on youtube](http://img.youtube.com/vi/m_-hRnYDexw/0.jpg)](https://www.youtube.com/watch?v=m_-hRnYDexw)  
+First patch with the rainmaker (hence the track title). Had great fun with un-even length of B-part on this one. Floats between D-minor and D-major.
+
+## Rigor triad
+[![Rigor triad on youtube](http://img.youtube.com/vi/RcZ7tlgogTU/0.jpg)](https://www.youtube.com/watch?v=RcZ7tlgogTU)  ## Spine
 [![Spine on youtube](http://img.youtube.com/vi/8Ut7RuTwOpU/0.jpg)](http://www.youtube.com/watch?v=8Ut7RuTwOpU)  
 Four parts, selected by knob, each part has it's own pattern (0-3)  
-
 Pattern structure:  
 rows 0-15: scale  
 rows 16-23: melody  
@@ -98,33 +110,42 @@ rows 24-31: unused
 rows 32-47: probability of BD  
 rows 48-63: a group of four consecutive notes form a chord, the first note in the group is the bass note
 
-## Rad io
-[![Rad io on youtube](http://img.youtube.com/vi/PErMm5vag9I/0.jpg)](http://www.youtube.com/watch?v=PErMm5vag9I)  
-Glitchy, dreamy piece with intentional melody and a phrygian flavour
 
-## Rain check
-[![Rad io on youtube](http://img.youtube.com/vi/m_-hRnYDexw/0.jpg)](https://www.youtube.com/watch?v=m_-hRnYDexw)  
-First patch with the rainmaker (hence the track title). Had great fun with un-even length of B-part on this one. Floats between D-minor and D-major.
-
-## Rigor triad
-[![Rigor triad on youtube](http://img.youtube.com/vi/RcZ7tlgogTU/0.jpg)](https://www.youtube.com/watch?v=RcZ7tlgogTU)  
 Random harmony, sequenced from teletype and trigger riot
 
 ## Shallow waters
 [![Shallow waters on youtube](http://img.youtube.com/vi/VwqECtDCUbg/0.jpg)](https://www.youtube.com/watch?v=VwqECtDCUbg)  
-A cheerful tune, driven by melody in three keys
+A cheerful tune, driven by melody in three keys.
 
 ## Shall we dance
 [![Shall we dance on youtube](http://img.youtube.com/vi/m_rXqZ3qULI/0.jpg)](https://www.youtube.com/watch?v=m_rXqZ3qULI)  
 Romantic waltz, generative solo.
 
+## Spine
+[![Spine on youtube](http://img.youtube.com/vi/8Ut7RuTwOpU/0.jpg)](http://www.youtube.com/watch?v=8Ut7RuTwOpU)  
+Four parts, selected by knob, each part has it's own pattern (0-3)  
+Pattern structure:  
+rows 0-15: scale  
+rows 16-23: melody  
+rows 24-31: unused  
+rows 32-47: probability of BD  
+rows 48-63: a group of four consecutive notes form a chord, the first note in the group is the bass note
+
 ## Stargazer
 [![Stargazer on youtube](http://img.youtube.com/vi/x9nc5jUjgTA/0.jpg)](https://www.youtube.com/watch?v=x9nc5jUjgTA)  
-Hand played melody over melodic bassline, middle part is reaching for the stars (aka atonal bleeps, screaming filter and granular glitches)
+Hand played melody over melodic bassline, middle part is reaching for the stars (aka atonal bleeps, screaming filter and granular glitches).
+
+## Stranger danger
+[![Sranger danger on youtube](http://img.youtube.com/vi/Z4_Ov2mVEns/0.jpg)](http://www.youtube.com/watch?v=Z4_Ov2mVEns)  
+Super slow track, scale change, deliberate melody (hermod) and generative melody (teletype).
 
 ## Student eleven
 [![Student eleven on youtube](http://img.youtube.com/vi/pkgq5Fxh_r8/0.jpg)](http://www.youtube.com/watch?v=pkgq5Fxh_r8)  
-Energetic, melody driven track in G-minor, modulating to Bb-minor for C-part, sequenced from teletype, beatstep pro and swt16+
+Energetic, melody driven track in G-minor, modulating to Bb-minor for C-part, sequenced from teletype, beatstep pro and swt16+.
+
+## Temporal shifts
+[![Temporal shifts on youtube](http://img.youtube.com/vi/rFT_XavdRSw/0.jpg)](http://www.youtube.com/watch?v=rFT_XavdRSw)  
+Beat displacment in 7/4.
 
 ## The man with the funny hat
 [![The man with the funny hat on youtube](http://img.youtube.com/vi/1moMDmbMqb4/0.jpg)](https://www.youtube.com/watch?v=1moMDmbMqb4)  
