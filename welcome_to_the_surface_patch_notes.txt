@@ -1,0 +1,23 @@
+sequenced from teletype (and hermod for melody)
+--
+bd: synthesized on er301
+sd short: glitchy sample of recombination engine
+sd long: round robin of granular samples made on the er301
+sd noise: synthesized on er301 from velvet noise
+perc: long websdr sample processed on the er301
+glitch perc: piston honda, pitch controlled by high pass filtered
+stepped modulation, wave selection controlled by stepped random
+click: 2opfm
+
+bass: pico vco folded by chopping kinky
+
+chords: 2x a110 through bf22 lpf
+harmony: rings, ph glitchy perc as input
+reverse ep: custom patch on yamaha reface dx
+
+noisy lead: a110 thought threeler, with noise modulating cutoff,
+parallel processed with clouds in spectral madness
+
+main lead: pico vco (triangle) through bf22
+
+solo: product
