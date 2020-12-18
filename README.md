@@ -27,6 +27,11 @@ Experimenting with different grooves by setting the M on each step.
 [![click on youtube](http://img.youtube.com/vi/9YgUOOxyTNA/0.jpg)](https://www.youtube.com/watch?v=9YgUOOxyTNA)  
 Fast, clicky, glitchy track in 4+5/8, melody from teletype.
   
+## count me in, released 2020-11-29
+[![count me in on youtube](http://img.youtube.com/vi/rB4JMgmcToA/0.jpg)](https://www.youtube.com/watch?v=rB4JMgmcToA)  
+Fast, melodic, moody, lydian at times. Sequenced from teletype, ER-301
+on drums and “solo”. Also some fss recombination action in there.
+  
 ## deep blue
 [![deep blue on youtube](http://img.youtube.com/vi/hKg8cT7-YLs/0.jpg)](https://www.youtube.com/watch?v=hKg8cT7-YLs)  
 Algorithmic melody and harmony, modulation from D-minor to F-Dorian in part 4, BSP slaved (unused), handy 4x blink before part change.
@@ -63,6 +68,12 @@ First track of my set at Louisiana Museum of Modern Art, summer 2019
 ## jitter
 [![jitter on youtube](http://img.youtube.com/vi/ebH7hu1fWQ4/0.jpg)](https://www.youtube.com/watch?v=ebH7hu1fWQ4)  
 Energetic and laid back, rhythmic and melodic, two parts with a short transition. 
+  
+## keep, released 2020-12-13
+[![keep on youtube](http://img.youtube.com/vi/FUKQpzRM-9M/0.jpg)](https://www.youtube.com/watch?v=FUKQpzRM-9M)  
+Tempo on the bright side, long melody sequenced, harmony voice + solo
+played on ms-1. Main sequencer: teletype, long melody sequenced from
+teletype. ER-301 on drums and a bit of granular texture.
   
 ## late reply
 [![late reply on youtube](http://img.youtube.com/vi/rNJW8qPljQ4/0.jpg)](https://www.youtube.com/watch?v=rNJW8qPljQ4)  

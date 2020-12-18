@@ -1,0 +1,18 @@
+sequenced from hermod (melody) and teletype
+--
+bd: synthesized on er301
+sd: synthesized on er301
+hh: synthesized on er301
+
+bass: shapeshifter, fold out through threeler and warps
+
+granular hits: manual grains, er301
+harmony: rings (red/red), shapeshifter out as input
+pad: pico vco, through doepfer sem filter and clouds (spectral madness)
+bell: plonk
+
+lead: a110, pwm'ed fitered through humpback, delay from rainmaker
+
+keyboard: behringer ms-1
+
+reverb: axoloti

@@ -1,0 +1,23 @@
+sequenced from teletype + hermod (melodies)
+--
+bd: synthesized on er301
+sd: round robin stack of modal cycles snare samples
+sd-thin: negative dna from recombination engine through apc
+clicks: 2opfm
+perc 1: sample of a cell-phone, mangled with cecilia and manual grains
+on er301
+perc 2: recombination engine pitched to random 5ths, lowpas filtered
+with doepfer sem, bp out of sem to clouds (spectral madness)
+
+pad: microfreak
+
+horn like texture: rings, input from apc
+
+bass: a110 through threeler (12db lp), fm in modulated by envelopes
+from pams
+
+lead: a110 sine through bf22
+add lead: tides v1, enveloped (quadra) on level and slope
+solo: synthesized on er301, through "poor mans reverb 3"
+
+reverb: axoloti
