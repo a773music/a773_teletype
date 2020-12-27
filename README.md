@@ -161,6 +161,11 @@ Straight forward tune in C-minor, melody played by hand into Bishops Miscellany.
 [![up a notch on youtube](http://img.youtube.com/vi/i2DR767OQNI/0.jpg)](https://www.youtube.com/watch?v=i2DR767OQNI)  
 High activity in 7/8 meter, notes and some triggers sequenced by teletype, most triggers from swt16+, four parts on knob.
   
+## vii, released 2020-12-27
+[![vii on youtube](http://img.youtube.com/vi/jheT6rGV648/0.jpg)](https://www.youtube.com/watch?v=jheT6rGV648)  
+Melodic track in 7/16, featuring metric modulation and random
+selection between beat variations
+  
 ## welcome to the surface, released 2020-11-14
 [![welcome to the surface on youtube](http://img.youtube.com/vi/xDsRcvY3RLk/0.jpg)](https://www.youtube.com/watch?v=xDsRcvY3RLk)  
 Melodic track in 6/8, modulating to 4/4

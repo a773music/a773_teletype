@@ -1,0 +1,18 @@
+sequenced from teletype and hermod (long melodies)
+--
+bd: synthesized on er-301, follows root note
+sd: synthesized on er-301
+fm glitch: 2opfm direct and paralled through monsoon
+additional perc: no drum
+granular texture: er-301
+
+bass: orgone accumulator
+chords: er-301
+harmony: rings (red/green mode)
+
+main melody: product
+additional melody: microfreak
+keyboard lead: a110 sine + apc through threeler (18db lpf)
+knob solo: pico vco through wasp filter (post vca)
+
+reverb: axoloti
