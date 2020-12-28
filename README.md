@@ -62,11 +62,11 @@ Tracks split over two scenes, selected on knob. For this to work the scenes must
 First scene is the main part, scene 2 is a randomly generated break.
   
 ## incredibles
-[![incredibles on youtube](http://img.youtube.com/vi/5zwGuEDn0wY/0.jpg)](https://www.youtube.com/watch?v=5zwGuEDn0wY)  
+[![incredibles on youtube](http://img.youtube.com/vi/ebH7hu1fWQ4/0.jpg)](https://www.youtube.com/watch?v=ebH7hu1fWQ4)  
 First track of my set at Louisiana Museum of Modern Art, summer 2019
   
 ## jitter
-[![jitter on youtube](http://img.youtube.com/vi/ebH7hu1fWQ4/0.jpg)](https://www.youtube.com/watch?v=ebH7hu1fWQ4)  
+[![jitter on youtube](http://img.youtube.com/vi/5zwGuEDn0wY/0.jpg)](https://www.youtube.com/watch?v=5zwGuEDn0wY)  
 Energetic and laid back, rhythmic and melodic, two parts with a short transition. 
   
 ## keep, released 2020-12-13
