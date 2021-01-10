@@ -27,6 +27,26 @@ Experimenting with different grooves by setting the M on each step.
 [![click on youtube](http://img.youtube.com/vi/9YgUOOxyTNA/0.jpg)](https://www.youtube.com/watch?v=9YgUOOxyTNA)  
 Fast, clicky, glitchy track in 4+5/8, melody from teletype.
   
+## cluster-5 (2021-01-10)
+[![cluster-5 on youtube](http://img.youtube.com/vi/zL4bCsYA-J4/0.jpg)](https://www.youtube.com/watch?v=zL4bCsYA-J4)  
+100% generative patch driven by teletype.  
+\#1 randomly select a note in C-minor, 20% of the time a note close to the
+the last note, 6% of the time a random note, the note is stored in
+variable A.  
+\#2 might overwrite this note with a knob movement.  
+\#3 randomly selects between three sets of chords that go with each
+note, and sends a random note from the chord to a three voice unit on
+the ER-301.  
+  
+Controls:  
+TI.PRM 1: probability of the fm-perc to play.  
+TI.PRM 2: probability that a chord note will be played.  
+TI.PRM 3: probability that a new note is randomly selected  
+TI.PRM 4: overwrites the current note if knob is moved  
+PRM: jitter to M, CW: no jitter, CCW: max jitter  
+Joystick X: length of fm-perc (ER-301)  
+Joystick Y: brightness of chord notes (ER-301)  
+  
 ## count me in (2020-11-29)
 [![count me in on youtube](http://img.youtube.com/vi/rB4JMgmcToA/0.jpg)](https://www.youtube.com/watch?v=rB4JMgmcToA)  
 Fast, melodic, moody, lydian at times. Sequenced from teletype, ER-301

@@ -1,0 +1,12 @@
+sequenced from teletype
+--
+bd: er301
+snare: er301
+long snare tail: er301
+hh: er301
+
+bass: pico vco folded with chopping kinky
+
+harmony: er301 through clouds (spectral madness)
+
+melody: pico vco folded with chopping kinky, reverb: pico dsp
