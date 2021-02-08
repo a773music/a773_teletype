@@ -89,6 +89,11 @@ First track of my set at Louisiana Museum of Modern Art, summer 2019
 [![jitter on youtube](http://img.youtube.com/vi/5zwGuEDn0wY/0.jpg)](https://www.youtube.com/watch?v=5zwGuEDn0wY)  
 Energetic and laid back, rhythmic and melodic, two parts with a short transition. 
   
+## joes show
+[![joes show on youtube](http://img.youtube.com/vi/n6lvwroAkdY/0.jpg)](https://www.youtube.com/watch?v=n6lvwroAkdY)  
+21-03-2021
+Pulsating, glitcy ambient in 7/8, 2x generative leads (rings and bell).
+  
 ## keep (2020-12-13)
 [![keep on youtube](http://img.youtube.com/vi/FUKQpzRM-9M/0.jpg)](https://www.youtube.com/watch?v=FUKQpzRM-9M)  
 Tempo on the bright side, long melody sequenced, harmony voice + solo
@@ -157,6 +162,10 @@ rows 48-63: a group of four consecutive notes form a chord, the first note in th
 [![stargazer on youtube](http://img.youtube.com/vi/x9nc5jUjgTA/0.jpg)](https://www.youtube.com/watch?v=x9nc5jUjgTA)  
 Hand played melody over melodic bassline, middle part is reaching for the stars (aka atonal bleeps, screaming filter and granular glitches).
   
+## still (2021-02-07)
+[![still on youtube](http://img.youtube.com/vi/9exi-yNwIn4/0.jpg)](https://www.youtube.com/watch?v=9exi-yNwIn4)  
+Ambient track in C-dorian, three parts. Planned lead part and generative bell melody.
+  
 ## stranger danger (2020-10-05)
 [![stranger danger on youtube](http://img.youtube.com/vi/Z4_Ov2mVEns/0.jpg)](https://www.youtube.com/watch?v=Z4_Ov2mVEns)  
 Super slow track, scale change, deliberate melody (hermod) and generative melody (teletype).
@@ -197,6 +206,11 @@ Long melody + refacedx from hermod (teletype slaved to hermod), odd meters FTW!
 ## your word against his (2020-02-23)
 [![your word against his on youtube](http://img.youtube.com/vi/foETdII82qo/0.jpg)](https://www.youtube.com/watch?v=foETdII82qo)  
 Cute melody (played on microfreak), three parts, generative solo, phrasing and modulation by hand on orgone accumulator. 
+  
+## youturn (2021-01-24)
+[![youturn on youtube](http://img.youtube.com/vi/Sv1CQFXDLXA/0.jpg)](https://www.youtube.com/watch?v=Sv1CQFXDLXA)  
+Mostly groove based, retrigger of disco-like bass pattern following
+bd. 
   
 # mom-series  
 My mom has trouble sleeping at night, so I'm putting together a series of ambient pieces for her to relax to.  

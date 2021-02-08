@@ -1,0 +1,21 @@
+sequenced from teletype and hermod
+--
+bd: synthesized on er-301
+sd: sample played from er-301
+hh: sample played from er-301
+perc: 2opfm v2
+
+bass: recombination engine through humpback filter
+
+pad: yamaha reface dx
+texture 1: a110 through bf22, through monsoon, cv from hermod pad
+track, probability of gate controlled on x of joystick
+bleep1: a110 through sem filter (opened with quadrax)
+bleep2: negative dna (rce) + texture a110 through warps
+
+ssm is distributing perc, warps aux, bleep and product to clouds
+(spectral madness) and pico dsp (blue reverb)
+
+melody: product + apc
+
+generative bell melody: sample played from er-301
