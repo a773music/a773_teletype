@@ -1,0 +1,18 @@
+sequenced from teletype and hermod (chords and melody)
+--
+bd: synthesized on er-301
+sd: samples glitched on er-301
+fm-perf: o2opfm v1
+
+bass: shapeshifter
+add bass: shapeshifter ou2 + puls thougth warps
+
+harmony line: synthesized + delay on er-301
+pad: microfreak
+
+main melody: a-110 through aperture
+random melody: recombination engine, filtered with threeler, parallel
+prosessing through clouds
+arp: a-110 (square) opened with dplpg, delay on er-301
+
+reverb (bass): quadraverb
