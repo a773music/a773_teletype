@@ -1,0 +1,19 @@
+sequenced from teletype and hermod (master + long melody)
+--
+bd: synthesized on the er-301, tuned to bass note
+sd: pico drums, hpf with a-106-5 (random on frequency), through pico
+dsp
+glitch perc: er-301
+
+drone: rings (radio music as input, red/green mode)
+bass: pico-vco (saw) through doepfer a-120
+
+chord stabs: er301
+
+bell: plonk, parallel through clouds (spectral madness)
+
+texture melody: scanning wave tables on er-301, parallel through
+monsoon
+generative solo: er-301
+
+keyboard lead: a119 through threeler + rainmaker

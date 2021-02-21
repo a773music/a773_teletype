@@ -60,6 +60,11 @@ Algorithmic melody and harmony, modulation from D-minor to F-Dorian in part 4, B
 [![diffusion on youtube](http://img.youtube.com/vi/mD762X1wxdI/0.jpg)](https://www.youtube.com/watch?v=mD762X1wxdI)  
 A part in 4/4, a happy accident suggested the B part should be in 6/8 (technically 21/8)
   
+## drones for jones (2021-02-21)
+[![drones for jones on youtube](http://img.youtube.com/vi/sYyivjU87D4/0.jpg)](https://www.youtube.com/watch?v=sYyivjU87D4)  
+Drone with melody on top, two parts, keyboard action towards the end.
+First attempt implementing motives, see https://llllllll.co/t/teletype-workflow-basics-and-questions/12392/1147
+  
 ## early riser (2020-05-17)
 [![early riser on youtube](http://img.youtube.com/vi/_L4_EWjidS4/0.jpg)](https://www.youtube.com/watch?v=_L4_EWjidS4)  
 Melodically saturated tune in minor.
