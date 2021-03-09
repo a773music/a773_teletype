@@ -99,6 +99,11 @@ Energetic and laid back, rhythmic and melodic, two parts with a short transition
 21-03-2021
 Pulsating, glitcy ambient in 7/8, 2x generative leads (rings and bell).
   
+## just in (2021-03-07)
+[![just in on youtube](http://img.youtube.com/vi/ZBF5_9HrTjM/0.jpg)](https://www.youtube.com/watch?v=ZBF5_9HrTjM)  
+Another play with the idea of generating melodies from motives on the
+teletype. Chord structure (minor over major) from just friends.
+  
 ## keep (2020-12-13)
 [![keep on youtube](http://img.youtube.com/vi/FUKQpzRM-9M/0.jpg)](https://www.youtube.com/watch?v=FUKQpzRM-9M)  
 Tempo on the bright side, long melody sequenced, harmony voice + solo

@@ -1,0 +1,19 @@
+sequenced from teletype (+ hermod for melody)
+--
+bd, sd, hh: samples played by er-301
+glitch: er-301
+
+chord structure (minor over major): just friends (synth mode),
+individual outs panned + mix out through clouds (spectral madness)
+
+slow bass: a-110 saw through doepfer sem
+fast bass/pitched bd: synthesized on er-301
+
+generative lead (flute-like): a-110 srq (pmw by mfb dual lfo) filtered
+(lpf) with threeler, added texture by rainmaker
+
+sequenced melody: a-110 sine
+
+keyboard lead + solo: ms-1
+
+reverb: quadraverb (just friends) + axoloti (ms-1)
