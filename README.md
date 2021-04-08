@@ -1,4 +1,9 @@
 # teletype scenes  
+## 1up (2021-04-04)
+[![1up on youtube](http://img.youtube.com/vi/xDMwkdwCr6o/0.jpg)](https://www.youtube.com/watch?v=xDMwkdwCr6o)  
+Sequenced 100% from teletype. Melodic track with shifting minor
+centers. Phrasing in Z, motive in A, planned melody.
+  
 ## ascension (2020-05-31)
 [![ascension on youtube](http://img.youtube.com/vi/cEtY9qIOfBw/0.jpg)](https://www.youtube.com/watch?v=cEtY9qIOfBw)  
 Melodic track with lots of random surprises

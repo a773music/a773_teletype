@@ -1,0 +1,23 @@
+sequenced from teletype and hermod (melody and pad)
+--
+bd: layer of synthesized and sampled bd (er-301)
+tuned snare: synthesized on the er-301
+groove: samples (folktek matter) on er-301
+
+granular: er-301
+basses: orgone accumulator (main clean, pwm filtered with doepfer sem)
+
+harmony: just friends (joystick X into time, Y into intone)
+
+main melody lead: product
+bell melody: a110
+add melody: rings (green/red)
+
+texture 1: clouds (one individual out of just friends)
+texture 2: rainmaker (one individual out of just friends)
+
+pad: microfreak
+
+reverb: quadraverb + axoloti
+
+
