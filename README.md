@@ -99,9 +99,8 @@ First track of my set at Louisiana Museum of Modern Art, summer 2019
 [![jitter on youtube](http://img.youtube.com/vi/5zwGuEDn0wY/0.jpg)](https://www.youtube.com/watch?v=5zwGuEDn0wY)  
 Energetic and laid back, rhythmic and melodic, two parts with a short transition. 
   
-## joes show
+## joes show (2021-03-21)
 [![joes show on youtube](http://img.youtube.com/vi/n6lvwroAkdY/0.jpg)](https://www.youtube.com/watch?v=n6lvwroAkdY)  
-21-03-2021
 Pulsating, glitcy ambient in 7/8, 2x generative leads (rings and bell).
   
 ## just in (2021-03-07)
