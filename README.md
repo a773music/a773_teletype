@@ -78,6 +78,11 @@ Melodically saturated tune in minor.
 [![every step matters on youtube](http://img.youtube.com/vi/vwWW8xwB_PI/0.jpg)](https://www.youtube.com/watch?v=vwWW8xwB_PI)  
 Cheerful tune in 7/8 modulating a minor third up in the b section, main melody played by hand.
   
+## faders (2021-04-18)
+[![faders on youtube](http://img.youtube.com/vi/_niXfH9cgnM/0.jpg)](https://www.youtube.com/watch?v=_niXfH9cgnM)  
+Sequenced from teletype. High energy, planned melody with random
+variations. Energy in X.
+  
 ## frankly speaking (2020-04-19)
 [![frankly speaking on youtube](http://img.youtube.com/vi/Hbuv4pGoRY0/0.jpg)](https://www.youtube.com/watch?v=Hbuv4pGoRY0)  
 Funky tune in 5/4, main melody by hand on the microfreak.
@@ -130,8 +135,8 @@ Generated melody, sonically inspired by the music of Ela Minus (round, bright, p
 [![mm on youtube](http://img.youtube.com/vi/YoyrjTE2iVo/0.jpg)](https://www.youtube.com/watch?v=YoyrjTE2iVo)  
 Long harmonic line, generative melody (teletype).
   
-## ofra (2020-07-26)
-[![ofra on youtube](http://img.youtube.com/vi/qV_NYmB_BHA/0.jpg)](https://www.youtube.com/watch?v=qV_NYmB_BHA)  
+## orfa (2020-07-26)
+[![orfa on youtube](http://img.youtube.com/vi/qV_NYmB_BHA/0.jpg)](https://www.youtube.com/watch?v=qV_NYmB_BHA)  
 Drum-less 6/8 groove in D-minor, a touch of D-major in the B-part.
   
 ## pessimism is overrated (2019-07-05)

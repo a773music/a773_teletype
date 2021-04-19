@@ -1,0 +1,9 @@
+sequenced from teletype
+--
+drums: er-301
+granular texture + perc: er-301 + beads
+bass-dist: er-301
+bass-long: txo through folder 6 opened by quadrax
+harmony: just friends
+chords: er-301
+lead: product
