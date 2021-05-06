@@ -1,0 +1,12 @@
+sequenced from teletype
+--
+drums: er-301
+glitch perc: er-301
+bass: txo (saw) through doepfer a-120
+bass 10th: txo (saw) through doepfer wasp
+harmony/arpeggio: just friends
+low horn: er-301
+stab fill: er-301
+melody: product, filter opened by quadrax
+knob: txo (sine) through fldr6
+reverb: fx aid xl

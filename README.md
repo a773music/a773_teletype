@@ -167,6 +167,11 @@ Romantic waltz, generative solo.
 [![shallow waters on youtube](http://img.youtube.com/vi/VwqECtDCUbg/0.jpg)](https://www.youtube.com/watch?v=VwqECtDCUbg)  
 A cheerful tune, driven by melody in three keys.
   
+## shut up and dance (2021-05-02)
+[![shut up and dance on youtube](http://img.youtube.com/vi/xCSl6xzpJ0k/0.jpg)](https://www.youtube.com/watch?v=xCSl6xzpJ0k)  
+Sequenced from teletype. Generative, ambient techno in
+7/8 with planned melody. Phrasing in Z.
+  
 ## spine (2019-04-08)
 [![spine on youtube](http://img.youtube.com/vi/8Ut7RuTwOpU/0.jpg)](https://www.youtube.com/watch?v=8Ut7RuTwOpU)  
 Four parts, selected by knob, each part has it's own pattern (0-3)  
