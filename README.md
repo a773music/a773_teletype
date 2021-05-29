@@ -87,6 +87,11 @@ variations. Energy in X.
 [![frankly speaking on youtube](http://img.youtube.com/vi/Hbuv4pGoRY0/0.jpg)](https://www.youtube.com/watch?v=Hbuv4pGoRY0)  
 Funky tune in 5/4, main melody by hand on the microfreak.
   
+## glass mover (2021-05-16)
+[![glass mover on youtube](http://img.youtube.com/vi/j0yWJQrTVU8/0.jpg)](https://www.youtube.com/watch?v=j0yWJQrTVU8)  
+Sequenced from teletype. Algorithmic, semi-improvised track, heavy
+modulation of er-301 over i2c.
+  
 ## healthyh (2020-07-12)
 [![healthyh on youtube](http://img.youtube.com/vi/67Ex_YpYGXE/0.jpg)](https://www.youtube.com/watch?v=67Ex_YpYGXE)  
 Melancholic waltz in 5+5+5/16, harmonically it's somewhat shifting phrygian, with abrupt key changes towards the end.

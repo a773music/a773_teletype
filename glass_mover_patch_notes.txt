@@ -1,0 +1,9 @@
+sequenced from the teletype
+--
+drums: er-301
+glitches: er-301
+chord: modulated single-cycle units on er-301
+bass: txo (sine), folded with joranalogue fold 6, glitched on er-301
+knob melody: frequency central product
+improvised melody: microfreak
+reverb: fxaid xl
