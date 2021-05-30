@@ -140,6 +140,12 @@ Generated melody, sonically inspired by the music of Ela Minus (round, bright, p
 [![mm on youtube](http://img.youtube.com/vi/YoyrjTE2iVo/0.jpg)](https://www.youtube.com/watch?v=YoyrjTE2iVo)  
 Long harmonic line, generative melody (teletype).
   
+## orebro (2021-05-30)
+[![orebro on youtube](http://img.youtube.com/vi/TTdHwJ0hGsY/0.jpg)](https://www.youtube.com/watch?v=TTdHwJ0hGsY)  
+Sequenced from teletype. 6/8, with three parts (each in separate
+scenes) with different emphasis on beats, bass from ms20 (using
+teletype HZ OP).
+  
 ## orfa (2020-07-26)
 [![orfa on youtube](http://img.youtube.com/vi/qV_NYmB_BHA/0.jpg)](https://www.youtube.com/watch?v=qV_NYmB_BHA)  
 Drum-less 6/8 groove in D-minor, a touch of D-major in the B-part.

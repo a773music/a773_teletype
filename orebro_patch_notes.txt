@@ -1,0 +1,15 @@
+sequenced from teletype
+--
+bd: a110, pitch and amp env from quadrax
+sd: warps (input: main melody (post filter, pre vca) + recombination engine positive dna out), parallel through beads
+perc 1: dinkys taiko, modulated by 4r
+perc3: quark, modulated by 4r
+bass: ms20 mini
+harmony: just friends
+glitch: two channels of just friends through CFM bipolar halfwave rectifier
+octaves: recombination engine main out, through a120
+main melody: a110 though threeler filter
+knob solo: a110 through bf-220 (linked)
+keyboard solo: ms-1
+additional melody: shapeshifter, through humpback filter, parallel processing by clouds
+reverb: quadraverb + axoloti
