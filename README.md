@@ -257,6 +257,17 @@ Long harmonic line, generative melody (teletype).
 [mm.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mm.txt)   
 [mm_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mm_patch_notes.txt)
   
+## mornin (2021-06-13)
+[![mornin on youtube](http://img.youtube.com/vi/7dTfXCjUZi0/0.jpg)](https://www.youtube.com/watch?v=7dTfXCjUZi0)  
+Sequenced from teletype. Two parts (separate scenes), A: 4/5 (8th note
+triplets), B: 7/8. Interntional melodies packed in patterns. TXi
+controlling activity, length, just friends and phrase length.
+   
+
+[mornin_1.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mornin_1.txt)   
+[mornin_2.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mornin_2.txt)   
+[mornin_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mornin_patch_notes.txt)
+  
 ## orebro (2021-05-30)
 [![orebro on youtube](http://img.youtube.com/vi/TTdHwJ0hGsY/0.jpg)](https://www.youtube.com/watch?v=TTdHwJ0hGsY)  
 Sequenced from teletype. 6/8, with three parts (each in separate
