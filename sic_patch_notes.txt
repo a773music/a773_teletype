@@ -1,0 +1,11 @@
+sequenced from teletype
+--
+drums: er-301
+granular glitch texture: er-301
+bass: txo + fold 6
+chords: er-301
+harmony: just friends
+planned melody: er-301
+melody dub: rings
+generative melody: txo (saw) through doepfer a120
+reverb: fxaid xl

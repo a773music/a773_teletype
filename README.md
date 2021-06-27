@@ -356,6 +356,14 @@ Sequenced from teletype. Generative, ambient techno in
 [shut_up_and_dance.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/shut_up_and_dance.txt)   
 [shut_up_and_dance_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/shut_up_and_dance_patch_notes.txt)
   
+## sic (2021-06-27)
+[![sic on youtube](http://img.youtube.com/vi/eRVuQmgSdqs/0.jpg)](https://www.youtube.com/watch?v=eRVuQmgSdqs)  
+Sequenced from teletype. Super imposed chords, scale deduced from chords.
+   
+
+[sic.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sic.txt)   
+[sic_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sic_patch_notes.txt)
+  
 ## spine (2019-04-08)
 [![spine on youtube](http://img.youtube.com/vi/8Ut7RuTwOpU/0.jpg)](https://www.youtube.com/watch?v=8Ut7RuTwOpU)  
 Four parts, selected by knob, each part has it's own pattern (0-3)  
