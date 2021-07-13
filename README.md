@@ -241,6 +241,15 @@ Casual track, no melody, focus on texture and rhytmic structures.
 [looose.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/looose.txt)   
 [looose_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/looose_patch_notes.txt)
   
+## lucky nb (2021-07-11)
+[![lucky nb on youtube](http://img.youtube.com/vi/gIsP1zRDoiE/0.jpg)](https://www.youtube.com/watch?v=gIsP1zRDoiE)  
+13 subdivisions to the bar, long melody + generative rhodes in
+dimished scale.
+   
+
+[lucky_nb.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/lucky_nb.txt)   
+[lucky_nb_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/lucky_nb_patch_notes.txt)
+  
 ## minus (2019-12-29)
 [![minus on youtube](http://img.youtube.com/vi/gTqJ4k6kb-I/0.jpg)](https://www.youtube.com/watch?v=gTqJ4k6kb-I)  
 Generated melody, sonically inspired by the music of Ela Minus (round, bright, plucky), features harmonic modulation.

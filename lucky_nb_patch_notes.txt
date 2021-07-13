@@ -1,0 +1,10 @@
+sequenced from teletype
+--
+drums: er-301
+bass: product + er-301 (fm hits)
+harmony: just friends
+rhodes fill: er-301
+main melody: txo trhough wasp
+add melody: microfreak sample played from er-301
+glitches: beads
+reverb: fxaid xl
