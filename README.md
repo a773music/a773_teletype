@@ -313,6 +313,15 @@ Mellow ambient piece.
 [ping.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/ping.txt)   
 [ping_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/ping_patch_notes.txt)
   
+## quartal brk (2021-07-25)
+[![quartal brk on youtube](http://img.youtube.com/vi/-yEQ22IlfgU/0.jpg)](https://www.youtube.com/watch?v=-yEQ22IlfgU)  
+Sequenced from teletype. Generative funk, generated lead, alternating
+meters. Solo on the yamaha reface dx.
+   
+
+[quartal_brk.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/quartal_brk.txt)   
+[quartal_brk_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/quartal_brk_patch_notes.txt)
+  
 ## rad io (2019-06-28)
 [![rad io on youtube](http://img.youtube.com/vi/PErMm5vag9I/0.jpg)](https://www.youtube.com/watch?v=PErMm5vag9I)  
 Glitchy, dreamy piece with intentional melody and a phrygian flavour.

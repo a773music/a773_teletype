@@ -1,0 +1,10 @@
+sequenced from teletype
+--
+drums: er-301
+glitches: er-301
+bass: txo (sine) through fold 6
+chord stabs: er-301
+harmony + melody: just friends
+generative lead: product
+solo: reface dx
+reverb: fxaid xl
