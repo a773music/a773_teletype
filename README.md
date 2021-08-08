@@ -190,6 +190,14 @@ First track of my set at Louisiana Museum of Modern Art, summer 2019
 [incredibles.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/incredibles.txt)   
 [incredibles_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/incredibles_patch_notes.txt)
   
+## int phrases (2021-08-08)
+[![int phrases on youtube](http://img.youtube.com/vi/P3JNCFNInHw/0.jpg)](https://www.youtube.com/watch?v=P3JNCFNInHw)  
+Sequenced from teletype. Generative ballad in three parts.
+   
+
+[int_phrases.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/int_phrases.txt)   
+[int_phrases_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/int_phrases_patch_notes.txt)
+  
 ## jitter (2020-09-20)
 [![jitter on youtube](http://img.youtube.com/vi/5zwGuEDn0wY/0.jpg)](https://www.youtube.com/watch?v=5zwGuEDn0wY)  
 Energetic and laid back, rhythmic and melodic, two parts with a short transition. 

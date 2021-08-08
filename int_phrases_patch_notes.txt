@@ -1,0 +1,11 @@
+sequenced from teletype
+--
+drums: er-301
+bass: er-301 + txo (sine) through fldr6
+thin bass: er-301
+granular: er-301 + beads
+chord: er-301
+additional pad: micro freak
+generative melody (motive): just friends
+melody: txo (saw) through wasp
+reverb: fx aid xl
