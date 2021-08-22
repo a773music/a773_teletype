@@ -1,0 +1,16 @@
+sequenced from teletype
+--
+bd: er-301
+sd main: 2opfm
+sd add: er-301
+oh: er-301
+bass drone: a110 (sqr) through threeler, sub osc from a160-2
+bass perc: a110 (saw) folded with chopping kinky
+harmony drone (10th): orgone accumulator
+harmony: piston honda through rings
+fm bells: just friends
+gen lead: pico vco through dplpg
+texture: monsoon
+lead: ms-20
+reverb: quadraverb
+

@@ -404,6 +404,15 @@ rows 48-63: a group of four consecutive notes form a chord, the first note in th
 [spine.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/spine.txt)   
 [spine_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/spine_patch_notes.txt)
   
+## sqr1 (2021-08-22)
+[![sqr1 on youtube](http://img.youtube.com/vi/ncsKQav632s/0.jpg)](https://www.youtube.com/watch?v=ncsKQav632s)  
+Sequenced from teletype, first run with grid.
+   
+
+[sqr1_1_2.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sqr1_1_2.txt)   
+[sqr1_2_2.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sqr1_2_2.txt)   
+[sqr1_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sqr1_patch_notes.txt)
+  
 ## stargazer (2020-01-13)
 [![stargazer on youtube](http://img.youtube.com/vi/x9nc5jUjgTA/0.jpg)](https://www.youtube.com/watch?v=x9nc5jUjgTA)  
 Hand played melody over melodic bassline, middle part is reaching for the stars (aka atonal bleeps, screaming filter and granular glitches).
