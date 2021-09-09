@@ -1,0 +1,14 @@
+sequenced from teletype w/ custom interface on the grid
+--
+bd: mutant bd
+hh: ladik d-333
+perc: nodrums + 2opfm through monsoon
+bass: a-110 saq, halfwave rectified, through humpback with filter
+modulated by 4r
+chords: just friends through beads
+glitch texture: ssm routing random stuff into warps
+reed lead: recombination engine filtered through bf22 (linked mode)
+vibra sine lead: a-110 folded with chopping kinky
+add lead: ssm output 1 through clouds
+
+reverb: pico dsp, tc m300

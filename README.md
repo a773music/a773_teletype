@@ -258,6 +258,15 @@ dimished scale.
 [lucky_nb.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/lucky_nb.txt)   
 [lucky_nb_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/lucky_nb_patch_notes.txt)
   
+## m seq (2021-09-05)
+[![m seq on youtube](http://img.youtube.com/vi/G4-XVMBtU0E/0.jpg)](https://www.youtube.com/watch?v=G4-XVMBtU0E)  
+Note length (M) controlled by P 0-6, layed out on grid as 7 faders,
+eventually randomly swapped around using Q.
+   
+
+[m_seq.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/m_seq.txt)   
+[m_seq_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/m_seq_patch_notes.txt)
+  
 ## minus (2019-12-29)
 [![minus on youtube](http://img.youtube.com/vi/gTqJ4k6kb-I/0.jpg)](https://www.youtube.com/watch?v=gTqJ4k6kb-I)  
 Generated melody, sonically inspired by the music of Ela Minus (round, bright, plucky), features harmonic modulation.
