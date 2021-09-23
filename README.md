@@ -366,6 +366,14 @@ First patch with the rainmaker (hence the track title). Had great fun with un-ev
 [rigor_triad.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rigor_triad.txt)   
 [rigor_triad_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rigor_triad_patch_notes.txt)
   
+## semit (2021-09-19)
+[![semit on youtube](http://img.youtube.com/vi/WESlgbMgY3w/0.jpg)](https://www.youtube.com/watch?v=WESlgbMgY3w)  
+teletype controlled from grid, slow M, four delay lines in $1-4
+   
+
+[semit.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/semit.txt)   
+[semit_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/semit_patch_notes.txt)
+  
 ## shall we dance (2020-03-08)
 [![shall we dance on youtube](http://img.youtube.com/vi/m_rXqZ3qULI/0.jpg)](https://www.youtube.com/watch?v=m_rXqZ3qULI)  
 Romantic waltz, generative solo.

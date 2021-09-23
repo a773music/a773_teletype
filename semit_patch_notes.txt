@@ -1,0 +1,10 @@
+sequenced from teletype/grid
+--
+bd: synthesaized on er-301
+click: quark, with added amp env (quadra)
+bass: shapeshifter
+pad: rings into clouds
+chords: just friends, mix/ch5 chopped by chopping kinky
+piano: er-301
+lead: ms20 mini
+reverb: m300 (just friends), quadraverb (ms-20 mini), fxaid (piano)
