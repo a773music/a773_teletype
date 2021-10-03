@@ -1,0 +1,20 @@
+sequenced from teletype
+--
+bd: sample made with pd
+sd: 2opfm (dry) + 2x pico vco ring-modulated with a133-2 through
+(heavily modulated) monsoon 
+tom: dinkys taiko
+hh: sample made with pd
+granular glitch: er-301 clocked stretch
+bass: orgone accumulator
+pwm bass: er-301
+pad: single note samples of a custom pad from microfreak (open
+filter) through humpback filter and fxaid xl
+melody: recombination engine through bf22 (linked)
+bell: sample made in alsa-modular-synth, played on the er-301,
+processed with clouds (spectral madness)
+keyboard: yamaha reface dx (own preset)
+
+reverb: m300
+ping-pong delay: quadraverb
+

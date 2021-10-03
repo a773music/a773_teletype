@@ -314,6 +314,16 @@ Drum-less 6/8 groove in D-minor, a touch of D-major in the B-part.
 [orfa.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/orfa.txt)   
 [orfa_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/orfa_patch_notes.txt)
   
+## pedantk (2021-10-03)
+[![pedantk on youtube](http://img.youtube.com/vi/0riwJEq_tHw/0.jpg)](https://www.youtube.com/watch?v=0riwJEq_tHw)  
+Single motive tune in phrygian (E, D and F). Grid mutes/unmutes,
+switches pattern, exposes 1 or 2 faders per mute, and switches between
+tertian and quartal harmony.
+   
+
+[pedantk.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pedantk.txt)   
+[pedantk_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pedantk_patch_notes.txt)
+  
 ## pessimism is overrated (2019-07-05)
 [![pessimism is overrated on youtube](http://img.youtube.com/vi/h0r93-px_Sw/0.jpg)](https://www.youtube.com/watch?v=h0r93-px_Sw)  
 Happy vibes in F-major and D-major. Intentional melody, played by teletype and live piano.
