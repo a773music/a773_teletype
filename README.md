@@ -488,6 +488,15 @@ So I figured out a way to have really long melodies in patterns, why not try it 
 [the_man_with_the_funny_hat.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/the_man_with_the_funny_hat.txt)   
 [the_man_with_the_funny_hat_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/the_man_with_the_funny_hat_patch_notes.txt)
   
+## the progression (2021-10-17)
+[![the progression on youtube](http://img.youtube.com/vi/bA5fozOrX1I/0.jpg)](https://www.youtube.com/watch?v=bA5fozOrX1I)  
+simple melodic track in two parts, teletype driven by hermod, muting
+and various controls on grid, solo on knob (verbos complex)
+   
+
+[the_progression.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/the_progression.txt)   
+[the_progression_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/the_progression_patch_notes.txt)
+  
 ## three's a crowd (2019-11-03)
 [![three's a crowd on youtube](http://img.youtube.com/vi/GgIXSw_7xug/0.jpg)](https://www.youtube.com/watch?v=GgIXSw_7xug)  
 Straight forward tune in C-minor, melody played by hand into Bishops Miscellany.
