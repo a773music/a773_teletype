@@ -1,0 +1,14 @@
+sequenced from teletype, synced to hermod
+--
+bd: synthesized on er-301, tuned to root note
+sd: sample on er-301
+percussion: samples of folktek matter ii
+bass: recombination engine filtered through bf22
+harmony: rings (damping modulated with 4r), input: percussion from
+er301
+melody: a110 (saw) filtered through bf22
+counter melody: verbos complex, timbre and modulation modulated by 4r,
+and joystick, parallel processed by clouds
+solo + melody: microfreak
+
+reverb: fxaid xl, quadraverb and m300

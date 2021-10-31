@@ -130,6 +130,15 @@ Melodically saturated tune in minor.
 [early_riser.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/early_riser.txt)   
 [early_riser_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/early_riser_patch_notes.txt)
   
+## earth (2021-10-31)
+[![earth on youtube](http://img.youtube.com/vi/sJry_ljPnRA/0.jpg)](https://www.youtube.com/watch?v=sJry_ljPnRA)  
+one-part track, form based on growing intensity, controlled from grid,
+solo-ish on microfreak
+   
+
+[earth.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/earth.txt)   
+[earth_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/earth_patch_notes.txt)
+  
 ## every step matters (2020-04-05)
 [![every step matters on youtube](http://img.youtube.com/vi/vwWW8xwB_PI/0.jpg)](https://www.youtube.com/watch?v=vwWW8xwB_PI)  
 Cheerful tune in 7/8 modulating a minor third up in the b section, main melody played by hand.
