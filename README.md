@@ -158,7 +158,7 @@ variations. Energy in X.
   
 ## fractions in time (2021-11-14)
 [![fractions in time on youtube](http://img.youtube.com/vi/X9C2jhC6MUA/0.jpg)](https://www.youtube.com/watch?v=X9C2jhC6MUA)  
-teletype sunced to hermod controlled by grid, beatless, suggestive
+teletype synced to hermod controlled by grid, beatless, suggestive
 harmony, kick follows melody, hermod gates relayed through teletype
    
 
