@@ -156,6 +156,15 @@ variations. Energy in X.
 [faders.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/faders.txt)   
 [faders_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/faders_patch_notes.txt)
   
+## fractions in time (2021-11-14)
+[![fractions in time on youtube](http://img.youtube.com/vi/X9C2jhC6MUA/0.jpg)](https://www.youtube.com/watch?v=X9C2jhC6MUA)  
+teletype sunced to hermod controlled by grid, beatless, suggestive
+harmony, kick follows melody, hermod gates relayed through teletype
+   
+
+[fractions_in_time.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/fractions_in_time.txt)   
+[fractions_in_time_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/fractions_in_time_patch_notes.txt)
+  
 ## frankly speaking (2020-04-19)
 [![frankly speaking on youtube](http://img.youtube.com/vi/Hbuv4pGoRY0/0.jpg)](https://www.youtube.com/watch?v=Hbuv4pGoRY0)  
 Funky tune in 5/4, main melody by hand on the microfreak.

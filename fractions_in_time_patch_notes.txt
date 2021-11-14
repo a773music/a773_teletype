@@ -1,0 +1,14 @@
+sequenced from teletype (slaved to hermod)
+--
+bd: synthesized on er301
+granular snare: er-301
+granular hh: er-301
+bass: verbos complex through dplpg
+harmony: just friends
+main melody: a110 (saw!) folded with chopping kinky
+melody following melody: a110 (triangle)
+main texture: verbox complex through dplpg and beads
+add texture: a110 (folded with chopping kinky) + just friends through warps
+pad: microfreak through threeler
+key solo: ms20 mini
+reverb: beads, fxaid, pico dsp, quadraverb and m300
