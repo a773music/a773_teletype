@@ -1,0 +1,23 @@
+sequenced from teletype, microfread + bass notes + melody + rave from
+hermod
+--
+bd: sample, compressed + wavefolded on er-301
+sd: recombination engine percussive hits, sampled and played from
+er-301, glitched on monsoon
+sd granular: er-301
+sd big: sample played on er-301
+clicks: 2opfm
+hh: sample on er-301, gate length controlled from teletype/grid
+bass: a110, saw and triangle combined with bphwr mixed with another
+a110 triangle and filtered with humpback filter
+bass pwm: first a110 square out, pulse wifth modulated by stepped
+random (4r) and mfb dual lfo
+pad: microfreak through doepfer sem filter
+rave melody: pico vco (saw) through threeler filter
+bells: just friends through fxaid xl
+fill melody: plinky
+melody: recombination engine filtered through beface bf22 (lowpass)
+melody support: rings (green/green)
+solo: a110 (saw) through a120, slightly opened by quadrax
+
+reverb: quadraverb and m300

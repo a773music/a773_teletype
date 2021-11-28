@@ -312,6 +312,18 @@ controlling activity, length, just friends and phrase length.
 [mornin_2.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mornin_2.txt)   
 [mornin_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mornin_patch_notes.txt)
   
+## ord (2021-11-28)
+[![ord on youtube](http://img.youtube.com/vi/3uJOnrV5fmA/0.jpg)](https://www.youtube.com/watch?v=3uJOnrV5fmA)  
+warm track, double b-part, teletype clocked from hermed, controlled by grid, "seq
+change" on hermod from grid. grid also controls prob of random bd/bass
+rhythm, length of hh, prob of random hh, prob of bell (just friends)
+and fill mel (plinky), as well as mutes.
+   
+
+[ord.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/ord.txt)   
+[your_word_against_his.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/your_word_against_his.txt)   
+[your_word_against_his_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/your_word_against_his_patch_notes.txt)
+  
 ## orebro (2021-05-30)
 [![orebro on youtube](http://img.youtube.com/vi/TTdHwJ0hGsY/0.jpg)](https://www.youtube.com/watch?v=TTdHwJ0hGsY)  
 Sequenced from teletype. 6/8, with three parts (each in separate
