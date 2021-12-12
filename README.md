@@ -156,6 +156,14 @@ variations. Energy in X.
 [faders.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/faders.txt)   
 [faders_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/faders_patch_notes.txt)
   
+## first resort (2021-12-12)
+[![first resort on youtube](http://img.youtube.com/vi/bfLT01glU_I/0.jpg)](https://www.youtube.com/watch?v=bfLT01glU_I)  
+simple tune in three parts, maiden voyage on blofeld (multimode)
+   
+
+[first_resort.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/first_resort.txt)   
+[first_resort_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/first_resort_patch_notes.txt)
+  
 ## fractions in time (2021-11-14)
 [![fractions in time on youtube](http://img.youtube.com/vi/X9C2jhC6MUA/0.jpg)](https://www.youtube.com/watch?v=X9C2jhC6MUA)  
 teletype synced to hermod controlled by grid, beatless, suggestive

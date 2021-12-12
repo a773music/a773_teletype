@@ -1,0 +1,18 @@
+sequenced from hermod and teletype
+--
+bd: sample played from er-301
+granular glitch: vert/monsoon glitches, granulated on er-301
+percussive glitch: folktek matter samples, granulated on er-301
+bass: a-110 (sine) folded on chopping kinky (modulated by joystick y),
+envelope by quadra (modulated by joystick x)
+metro: verbos complex through aperture, modulated by joystick and on
+gate through monsoon
+pad: blofeld
+flute (middle part): blofeld
+atmosphere: recombination engine through rings, through fxaid
+bells: just friends through clouds
+melody: ms-1
+melody support: blofeld
+solo: microfreak
+
+reverb (melody) m300
