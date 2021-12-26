@@ -542,6 +542,14 @@ Straight forward tune in C-minor, melody played by hand into Bishops Miscellany.
 
 
   
+## tr.io (2021-12-26)
+[![tr.io on youtube](http://img.youtube.com/vi/l-JtgPuVL4A/0.jpg)](https://www.youtube.com/watch?v=l-JtgPuVL4A)  
+glitch and float, firm b-part, generative solo
+   
+
+[tr.io.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/tr.io.txt)   
+[tr.io_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/tr.io_patch_notes.txt)
+  
 ## up a notch (2019-09-15)
 [![up a notch on youtube](http://img.youtube.com/vi/i2DR767OQNI/0.jpg)](https://www.youtube.com/watch?v=i2DR767OQNI)  
 High activity in 7/8 meter, notes and some triggers sequenced by teletype, most triggers from swt16+, four parts on knob.
