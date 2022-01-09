@@ -259,6 +259,15 @@ teletype. ER-301 on drums and a bit of granular texture.
 [keep.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/keep.txt)   
 [keep_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/keep_patch_notes.txt)
   
+## kick off (2022-01-09)
+[![kick off on youtube](http://img.youtube.com/vi/g6xSgwKnZu8/0.jpg)](https://www.youtube.com/watch?v=g6xSgwKnZu8)  
+jazz/funk groove, a-part mostly kicks, b-part legato and drifting,
+solo on knob and blofeld
+   
+
+[kick_off.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/kick_off.txt)   
+[kick_off_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/kick_off_patch_notes.txt)
+  
 ## late reply (2020-06-14)
 [![late reply on youtube](http://img.youtube.com/vi/rNJW8qPljQ4/0.jpg)](https://www.youtube.com/watch?v=rNJW8qPljQ4)  
 Opening more up to generative input from teletype + a few discoveries in phrygian...

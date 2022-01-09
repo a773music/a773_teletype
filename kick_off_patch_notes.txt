@@ -1,0 +1,15 @@
+sequenced from turing machine, hermod and teletype
+--
+bd synthesized on er301 + mutant bassdrum (distorted)
+sd-ish: samples of benjolin through monsoon, stretched on er301
+hh: sample on er301
+hh-ish: doepfer pll
+beat: chopped up sample on er301
+bass: piston honda through threeler, sequenced by turing machine
+rhythmic texture: a110 (sine) through beads
+ep: blofeld
+fm-layer: blofeld
+lead: product
+knob solo: a110 sine through fld 6
+keysolo: blofeld
+reverb: fxaid, pico dsp
