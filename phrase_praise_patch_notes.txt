@@ -1,0 +1,16 @@
+sequenced from teletype (with i2c2midi) and hermod
+--
+bd: synthesized on er-301
+sd: sample played from er-301
+hh: sample played from er-301
+percussion: folktek samples mangled on er-301
+modem-ish glitch perc: ladik skipper audiorate synced to a110
+granular glitch: er-301
+bass: microfreak
+texture: just friends through beads
+misc synth: blofeld
+ep: blofeld
+blofeld reverb: fxaid
+am lead: verbos complex modulated with 1r and sloth, trig + v/oct from turing machine
+melody: stack of blofeld and product
+keysolo: ms-1

@@ -379,6 +379,14 @@ Happy vibes in F-major and D-major. Intentional melody, played by teletype and l
 [pessimism_is_overrated.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pessimism_is_overrated.txt)   
 [pessimism_is_overrated_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pessimism_is_overrated_patch_notes.txt)
   
+## phrase praise (2022-01-23)
+[![phrase praise on youtube](http://img.youtube.com/vi/lBOUP5ZCaok/0.jpg)](https://www.youtube.com/watch?v=lBOUP5ZCaok)  
+funky glitch, melody floating between major and minor, keysolo on ms-1
+   
+
+[phrase_praise.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/phrase_praise.txt)   
+[phrase_praise_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/phrase_praise_patch_notes.txt)
+  
 ## ping (2019-05-28)
 [![ping on youtube](http://img.youtube.com/vi/8UDat7DNXyM/0.jpg)](https://www.youtube.com/watch?v=8UDat7DNXyM)  
 Mellow ambient piece.
