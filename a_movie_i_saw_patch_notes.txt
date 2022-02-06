@@ -1,0 +1,11 @@
+sequenced from teletype
+--
+main part: just friends
+bass support: a110 triangle
+melody support: a110 sine
+ring mod: bass osc (sine) and melody osc (triangle) through a-133-2
+more melody support: rings (input from radio music)
+sparkle: one voice of just friends through beads
+joystick solo: a110 (saw) through doepfer wasp
+granular hit: er-301
+reverb: fxaid

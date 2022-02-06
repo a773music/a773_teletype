@@ -8,6 +8,14 @@ centers. Phrasing in Z, motive in A, planned melody.
 [1up.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/1up.txt)   
 [1up_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/1up_patch_notes.txt)
   
+## a movie i saw (2022-02-06)
+[![a movie i saw on youtube](http://img.youtube.com/vi/K-Q3soS5zoE/0.jpg)](https://www.youtube.com/watch?v=K-Q3soS5zoE)  
+generative tune in tree minor keys, planned melody quantized to scale
+   
+
+[a_movie_i_saw.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/a_movie_i_saw.txt)   
+[a_movie_i_saw_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/a_movie_i_saw_patch_notes.txt)
+  
 ## ascension (2020-05-31)
 [![ascension on youtube](http://img.youtube.com/vi/cEtY9qIOfBw/0.jpg)](https://www.youtube.com/watch?v=cEtY9qIOfBw)  
 Melodic track with lots of random surprises
