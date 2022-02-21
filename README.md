@@ -337,6 +337,15 @@ controlling activity, length, just friends and phrase length.
 [mornin_2.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mornin_2.txt)   
 [mornin_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mornin_patch_notes.txt)
   
+## on the j-tip (2022-02-20)
+[![on the j-tip on youtube](http://img.youtube.com/vi/hlAOXQyvfog/0.jpg)](https://www.youtube.com/watch?v=hlAOXQyvfog)  
+jazz/pop groove, a-part short phrases ending in upwards sequence,
+b-part legato, middle section dreamy and blurred, solo on ms1
+   
+
+[on_the_j-tip.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/on_the_j-tip.txt)   
+[on_the_j-tip_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/on_the_j-tip_patch_notes.txt)
+  
 ## ord (2021-11-28)
 [![ord on youtube](http://img.youtube.com/vi/3uJOnrV5fmA/0.jpg)](https://www.youtube.com/watch?v=3uJOnrV5fmA)  
 warm track, double b-part, teletype clocked from hermed, controlled by grid, "seq

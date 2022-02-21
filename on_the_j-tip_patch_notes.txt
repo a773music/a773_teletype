@@ -1,0 +1,20 @@
+sequenced from hermod and teletype
+--
+beat: sample chopped up (2x bd, 2x sd, 2x hh), random selection of bd,
+sd or hh on each trigger, handled by er301
+add (low) bd: synthesized on er301
+add sd-texture: granular stretched on er301
+bass: pico vso through threeler 6db lo-pass filter
+ep: blofeld
+brass: blofeld
+sine fills: just friends (voice 3+5) though clouds (spectral
+processor)
+lead (hi): blofeld
+lead (lo): a110 sine/saw through chopping kinky (modulated by dual
+lfo), rounded with humpback
+middle section texture: rings (fm mode) through monsoon (spectral
+processor)
+keyboard solo: ms1
+
+brass reverb: fxaid
+keyboard delay: m300
