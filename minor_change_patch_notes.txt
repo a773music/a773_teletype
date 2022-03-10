@@ -1,0 +1,17 @@
+sequenced from hermod and teletype
+--
+bd: synthesized on er301
+sd: plonk
+texture sd 1: granular (er301)
+texture sd 2: granular (er301)
+fm perc: 2opfm through crush-delay
+add perc: no-drums, enveloped
+bass: a110 reverse patched (osc controld gain, env is the input),
+filtered though humpback
+bass (fm hits): er301
+ep-pad: blofeld
+melody: recombination engine through bf22
+bell: blofeld
+harmonic texture 1: just friends through clouds
+harmonic texture 2: shapeshifter, threeler (bpf) and fxaid
+keyboard: ms1

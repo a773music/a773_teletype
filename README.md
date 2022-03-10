@@ -310,6 +310,14 @@ eventually randomly swapped around using Q.
 [m_seq.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/m_seq.txt)   
 [m_seq_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/m_seq_patch_notes.txt)
   
+## minor change (2022-03-06)
+[![minor change on youtube](http://img.youtube.com/vi/8RIB8ai7j7I/0.jpg)](https://www.youtube.com/watch?v=8RIB8ai7j7I)  
+parts and keys all over the place, shifts from 3/4 to 6/8 to 4/4
+   
+
+[minor_change.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/minor_change.txt)   
+[minor_change_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/minor_change_patch_notes.txt)
+  
 ## minus (2019-12-29)
 [![minus on youtube](http://img.youtube.com/vi/gTqJ4k6kb-I/0.jpg)](https://www.youtube.com/watch?v=gTqJ4k6kb-I)  
 Generated melody, sonically inspired by the music of Ela Minus (round, bright, plucky), features harmonic modulation.
