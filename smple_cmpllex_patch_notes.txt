@@ -1,0 +1,16 @@
+sequenced from hermod and teletype
+--
+bd synthesized on er301
+sd: noise through self-oscillating bf22
+hh: verbos complex through warps, 2x quadra in level
+bass: a110 through chopping kinky, accents on gates from teletype
+texture: verbos complex, each section is send a random note in
+increasingly more complex scales (param), throuch ryo aperture,
+parallel through clouds 
+pad: blofeld
+brass: blofeld
+warm brass: blofeld
+mail leas: ms1, mixed with fld6 and send to crush delay (modulated by
+teletype and turing-machine)
+counter med + solo: ms20 mini
+

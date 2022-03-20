@@ -497,6 +497,14 @@ Sequenced from teletype. Super imposed chords, scale deduced from chords.
 [sic.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sic.txt)   
 [sic_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sic_patch_notes.txt)
   
+## smple cmpllex (2022-03-20)
+[![smple cmpllex on youtube](http://img.youtube.com/vi/Pi3pBQX9n84/0.jpg)](https://www.youtube.com/watch?v=Pi3pBQX9n84)  
+funky thing in c-minor and Eb major, dual bass lines
+   
+
+[smple_cmpllex.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/smple_cmpllex.txt)   
+[smple_cmpllex_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/smple_cmpllex_patch_notes.txt)
+  
 ## spine (2019-04-08)
 [![spine on youtube](http://img.youtube.com/vi/8Ut7RuTwOpU/0.jpg)](https://www.youtube.com/watch?v=8Ut7RuTwOpU)  
 Four parts, selected by knob, each part has it's own pattern (0-3)  
