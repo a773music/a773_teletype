@@ -1,0 +1,13 @@
+sequenced from hermod and teletype
+--
+bd: er301
+sd: er301
+fm perc: 2opfm
+granular texture: er301
+bass: product
+lead: a110 saw through fld6
+pad: blofeld
+bells: just friends
+knob solo: recombination engine through bf22 + fxaid
+generative solo: verbos complex through befaco crushdelay v3 + fxaid
+keysolo: blofeld

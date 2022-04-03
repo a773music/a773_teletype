@@ -420,6 +420,14 @@ Mellow ambient piece.
 [ping.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/ping.txt)   
 [ping_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/ping_patch_notes.txt)
   
+## press (2022-04-03)
+[![press on youtube](http://img.youtube.com/vi/FvxNDr88I4A/0.jpg)](https://www.youtube.com/watch?v=FvxNDr88I4A)  
+hits in a, floating mel in b, 3x solos (knob, generative and keyboard)
+   
+
+[press.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/press.txt)   
+[press_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/press_patch_notes.txt)
+  
 ## quartal brk (2021-07-25)
 [![quartal brk on youtube](http://img.youtube.com/vi/-yEQ22IlfgU/0.jpg)](https://www.youtube.com/watch?v=-yEQ22IlfgU)  
 Sequenced from teletype. Generative funk, generated lead, alternating
