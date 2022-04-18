@@ -1,0 +1,16 @@
+sequenced from hermod and teletype
+--
+bd: synthesized on er301
+sd: sample played from er301
+hh: er301 switching between three samples
+glitch sd: granular stretch on er301
+bass: a110 folded on fld6 + sub-octave from a160-2 through humpback
+pads: blofeld
+lead: ms1
+dub lead: a110 sawtooth through threeler
+4th counter lead: micro freak
+texture bells:just friends
+resonator texture: rings (input from radio music)
+keyboard lead: blofeld
+reverb: fx aid
+delay: m300

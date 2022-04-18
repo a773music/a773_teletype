@@ -568,6 +568,15 @@ Energetic, melody driven track in G-minor, modulating to Bb-minor for C-part, se
 [student_eleven.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/student_eleven.txt)   
 [student_eleven_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/student_eleven_patch_notes.txt)
   
+## switch (2022-04-17)
+[![switch on youtube](http://img.youtube.com/vi/ROiFjVYxh9Y/0.jpg)](https://www.youtube.com/watch?v=ROiFjVYxh9Y)  
+metric modulation between jazz-waltz and 12/8, C-minor in A, descending
+sus chords in B
+   
+
+[switch.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/switch.txt)   
+[switch_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/switch_patch_notes.txt)
+  
 ## temporal shifts (2020-11-01)
 [![temporal shifts on youtube](http://img.youtube.com/vi/rFT_XavdRSw/0.jpg)](https://www.youtube.com/watch?v=rFT_XavdRSw)  
 Beat displacment in 7/4.
