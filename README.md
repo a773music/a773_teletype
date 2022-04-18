@@ -568,7 +568,7 @@ Energetic, melody driven track in G-minor, modulating to Bb-minor for C-part, se
 [student_eleven.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/student_eleven.txt)   
 [student_eleven_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/student_eleven_patch_notes.txt)
   
-## switch (2022-04-17)
+## switch (2022-04-18)
 [![switch on youtube](http://img.youtube.com/vi/ROiFjVYxh9Y/0.jpg)](https://www.youtube.com/watch?v=ROiFjVYxh9Y)  
 metric modulation between jazz-waltz and 12/8, C-minor in A, descending
 sus chords in B
