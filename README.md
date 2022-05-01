@@ -536,6 +536,14 @@ Sequenced from teletype, first run with grid.
 [sqr1_2_2.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sqr1_2_2.txt)   
 [sqr1_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sqr1_patch_notes.txt)
   
+## squeeze it in (2022-05-01)
+[![squeeze it in on youtube](http://img.youtube.com/vi/mJTssnleHUA/0.jpg)](https://www.youtube.com/watch?v=mJTssnleHUA)  
+hard swinging track, A in d-minor, B in f-minor
+   
+
+[squeeze_it_in.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/squeeze_it_in.txt)   
+[squeeze_it_in_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/squeeze_it_in_patch_notes.txt)
+  
 ## stargazer (2020-01-13)
 [![stargazer on youtube](http://img.youtube.com/vi/x9nc5jUjgTA/0.jpg)](https://www.youtube.com/watch?v=x9nc5jUjgTA)  
 Hand played melody over melodic bassline, middle part is reaching for the stars (aka atonal bleeps, screaming filter and granular glitches).

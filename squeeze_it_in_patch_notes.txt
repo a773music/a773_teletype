@@ -1,0 +1,19 @@
+sequenced from hermod and teletype
+--
+bd: sample made in csound, played from er301
+sd: switching two acoustic snare samples in er301
+add sd: round robin of fm sounds from csound on er301
+perc: round robin on braids samples (enveloped) with er301
+glitch: beads in delay mode on bd + braids samples
+add perc: pinged ms22 through crush delay
+add perc: 2opfm parallel through monsoon
+backing: just friends, parallel through clouds
+bass: verbos complex with folder and modulation modulated
+ep: blofeld
+brass: blofeld
+pad: microfreak
+lead: a110 through humpback
+lead add: same a110 folded with chopping kinky, with random attack,
+decay and depth on envelope
+add melody: ms1
+solo: blofeld
