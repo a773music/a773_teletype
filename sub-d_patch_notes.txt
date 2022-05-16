@@ -1,0 +1,18 @@
+sequenced form hermod and teletype
+--
+bd: synthesized on er301
+add sd: melody a110 through apc + perc vocoded on warps
+big sd: pitched up bd from break-beat on er301
+fast clicks: er301
+perc: glitch with samples on er301
+perc: a110-4 enveloped and processed with monsoon
+bass: product
+add bass: tri from product folded by chopping kinky and gated through 2lpg
+ep: blofeld
+bells: blofeld
+pad: blofeld
+texture: sample through rings
+lead: ms1
+add lead: a110 through doepfer sem filter
+knob solo: a110 folded with chopping kinky
+reverb: fxaid
