@@ -216,6 +216,14 @@ First scene is the main part, scene 2 is a randomly generated break.
 [hi_five_scene_2_2_-_break.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/hi_five_scene_2_2_-_break.txt)   
 [hi_five_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/hi_five_patch_notes.txt)
   
+## in mid air (2022-05-29)
+[![in mid air on youtube](http://img.youtube.com/vi/r4650xAABIs/0.jpg)](https://www.youtube.com/watch?v=r4650xAABIs)  
+made from open 5ths and a single #11, irregular part lengths
+   
+
+[in_mid_air.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/in_mid_air.txt)   
+[in_mid_air_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/in_mid_air_patch_notes.txt)
+  
 ## incredibles (2019-09-01)
 [![incredibles on youtube](http://img.youtube.com/vi/ebH7hu1fWQ4/0.jpg)](https://www.youtube.com/watch?v=ebH7hu1fWQ4)  
 First track of my set at Louisiana Museum of Modern Art, summer 2019
