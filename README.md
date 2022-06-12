@@ -626,6 +626,14 @@ and various controls on grid, solo on knob (verbos complex)
 [the_progression.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/the_progression.txt)   
 [the_progression_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/the_progression_patch_notes.txt)
   
+## those who can (2022-06-12)
+[![those who can on youtube](http://img.youtube.com/vi/mZJlLjyYEUc/0.jpg)](https://www.youtube.com/watch?v=mZJlLjyYEUc)  
+phrygian and lydian, heavily modulated just friends and dinkys
+   
+
+[those_who_can.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/those_who_can.txt)   
+[those_who_can_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/those_who_can_patch_notes.txt)
+  
 ## three's a crowd (2019-11-03)
 [![three's a crowd on youtube](http://img.youtube.com/vi/GgIXSw_7xug/0.jpg)](https://www.youtube.com/watch?v=GgIXSw_7xug)  
 Straight forward tune in C-minor, melody played by hand into Bishops Miscellany.

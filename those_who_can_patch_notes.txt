@@ -1,0 +1,13 @@
+sequenced from hermod and teletype
+--
+bd: synthesized on er301
+sd granular: er301
+sd add: round robin on samples of folktek matter
+hh + fm: dinkys
+bass: ms20 (modulated with channels of trigger riot mixed) + a110 through a120
+lead: blofeld + a110 through ms22
+pad: blofeld
+texture bleeps: verbos complex modulated
+additional bleeps: heavily modulated just friends through monsoon
+reverb: fxaid
+keyboard: ms1
