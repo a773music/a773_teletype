@@ -513,6 +513,14 @@ Sequenced from teletype. Super imposed chords, scale deduced from chords.
 [sic.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sic.txt)   
 [sic_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sic_patch_notes.txt)
   
+## silver bullet (2022-06-26)
+[![silver bullet on youtube](http://img.youtube.com/vi/eUBfrUS6vOQ/0.jpg)](https://www.youtube.com/watch?v=eUBfrUS6vOQ)  
+optimistic and open ended tune in C-major and 7/4 time
+   
+
+[silver_bullet.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/silver_bullet.txt)   
+[silver_bullet_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/silver_bullet_patch_notes.txt)
+  
 ## smple cmpllex (2022-03-20)
 [![smple cmpllex on youtube](http://img.youtube.com/vi/Pi3pBQX9n84/0.jpg)](https://www.youtube.com/watch?v=Pi3pBQX9n84)  
 funky thing in c-minor and Eb major, dual bass lines
