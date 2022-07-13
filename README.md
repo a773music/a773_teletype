@@ -634,6 +634,14 @@ and various controls on grid, solo on knob (verbos complex)
 [the_progression.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/the_progression.txt)   
 [the_progression_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/the_progression_patch_notes.txt)
   
+## the shape of shifts to come (2022-07-10)
+[![the shape of shifts to come on youtube](http://img.youtube.com/vi/Gp2DDzNCBNg/0.jpg)](https://www.youtube.com/watch?v=Gp2DDzNCBNg)  
+soft spoken groove in 7/8
+   
+
+[the_shape_of_shifts_to_come.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/the_shape_of_shifts_to_come.txt)   
+[the_shape_of_shifts_to_come_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/the_shape_of_shifts_to_come_patch_notes.txt)
+  
 ## those who can (2022-06-12)
 [![those who can on youtube](http://img.youtube.com/vi/mZJlLjyYEUc/0.jpg)](https://www.youtube.com/watch?v=mZJlLjyYEUc)  
 phrygian and lydian, heavily modulated just friends and dinkys

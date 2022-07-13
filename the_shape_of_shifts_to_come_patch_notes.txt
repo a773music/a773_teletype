@@ -1,0 +1,15 @@
+sequenced from hermod and teletype
+--
+bd x2: er301 (samples)
+sd: sample filtered on er301
+perc: er301 (sample)
+hh: er301 (sample)
+fm perc: 2opfm through wasp
+fast bass: shapeshifter through 2lpg (pinged with quadra)
+slow bass: product
+add bass: synthesized on er301
+arp: a110 through dplpg
+chords: blofeld
+ep: blofeld
+lead: ms1 + verbos complex rounded with a120
+solo: ms1
