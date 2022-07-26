@@ -121,6 +121,14 @@ A part in 4/4, a happy accident suggested the B part should be in 6/8 (technical
 [diffusion.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/diffusion.txt)   
 [diffusion_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/diffusion_patch_notes.txt)
   
+## done (2022-07-24)
+[![done on youtube](http://img.youtube.com/vi/axgI9Ts0Xos/0.jpg)](https://www.youtube.com/watch?v=axgI9Ts0Xos)  
+maiden voyage on digitakt, something odd with meters, c-dorian and eb-lydian
+   
+
+[done.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/done.txt)   
+[done_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/done_patch_notes.txt)
+  
 ## drones for jones (2021-02-21)
 [![drones for jones on youtube](http://img.youtube.com/vi/sYyivjU87D4/0.jpg)](https://www.youtube.com/watch?v=sYyivjU87D4)  
 Drone with melody on top, two parts, keyboard action towards the end.

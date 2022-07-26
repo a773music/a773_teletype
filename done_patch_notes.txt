@@ -1,0 +1,13 @@
+sequenced from digitakt and teletype
+--
+bd: digitakt
+snare + glitch: digitakt
+ride/hh: digitakt
+clicks + fm: 2opfm
+glitch perc: bass and product through warps
+bass: a110 through humpback
+pad: blofeld
+ep: blofeld
+tonal bleep: product
+lead: a110 through ms22
+keyboard: ms1
