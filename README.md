@@ -172,6 +172,14 @@ variations. Energy in X.
 [faders.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/faders.txt)   
 [faders_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/faders_patch_notes.txt)
   
+## fail fast (2022-08-14)
+[![fail fast on youtube](http://img.youtube.com/vi/X0fHaVIjxt4/0.jpg)](https://www.youtube.com/watch?v=X0fHaVIjxt4)  
+chords follow melody through key changes, solo on ms1
+   
+
+[fail_fast.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/fail_fast.txt)   
+[fail_fast_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/fail_fast_patch_notes.txt)
+  
 ## first resort (2021-12-12)
 [![first resort on youtube](http://img.youtube.com/vi/bfLT01glU_I/0.jpg)](https://www.youtube.com/watch?v=bfLT01glU_I)  
 simple tune in three parts, maiden voyage on blofeld (multimode)

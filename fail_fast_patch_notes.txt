@@ -1,0 +1,13 @@
+sequenced from digitakt and teletype
+--
+bd: digitakt
+snare bleep: digitakt
+hh: digitakt
+add glitch sd: warps (lead + rand mel) through clouds (spectral processor)
+bass: digitakt (ms1 sample)
+chords: blofeld
+harmonic texture: just friends through nearness + fxaid
+random melody: tides through dplpg (random attact/decay on quadra)
+melody: blofeld
+add melody: a110 through threeler (no vca)
+solo: ms1
