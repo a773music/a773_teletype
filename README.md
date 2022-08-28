@@ -214,6 +214,14 @@ modulation of er-301 over i2c.
 [glass_mover.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/glass_mover.txt)   
 [glass_mover_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/glass_mover_patch_notes.txt)
   
+## grey area (2022-08-28)
+[![grey area on youtube](http://img.youtube.com/vi/k3WrlOcF2ew/0.jpg)](https://www.youtube.com/watch?v=k3WrlOcF2ew)  
+calypso vibes without drums
+   
+
+[grey_area.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/grey_area.txt)   
+[grey_area_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/grey_area_patch_notes.txt)
+  
 ## healthyh (2020-07-12)
 [![healthyh on youtube](http://img.youtube.com/vi/67Ex_YpYGXE/0.jpg)](https://www.youtube.com/watch?v=67Ex_YpYGXE)  
 Melancholic waltz in 5+5+5/16, harmonically it's somewhat shifting phrygian, with abrupt key changes towards the end.
