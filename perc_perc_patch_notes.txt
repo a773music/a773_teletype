@@ -1,0 +1,14 @@
+sequenced from hermod and teletype
+--
+bd: sample on er301
+sd: granulated samples from a now sold reface dx (er301)
+clicks: round robin hh samples through lpf opened with 10ms envelope (er301)
+hh: granulated soma ether sample through snappy vca
+bass: a-111-6 (maiden voyage)
+ep: m50
+pad: blofeld
+plucky groove: verbos complex
+arp: a-110, folded with chopping kinky through joystick controlled monsoon
+rnd mel: turing machine quantized with teletype controlling product
+reverb: fx aid
+key solo: ms1

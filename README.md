@@ -428,6 +428,14 @@ tertian and quartal harmony.
 [pedantk.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pedantk.txt)   
 [pedantk_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pedantk_patch_notes.txt)
   
+## perc perc (2022-09-11)
+[![perc perc on youtube](http://img.youtube.com/vi/bXCEip5-mp4/0.jpg)](https://www.youtube.com/watch?v=bXCEip5-mp4)  
+a bit of funk and a bit of lydian
+   
+
+[perc_perc.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/perc_perc.txt)   
+[perc_perc_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/perc_perc_patch_notes.txt)
+  
 ## pessimism is overrated (2019-07-05)
 [![pessimism is overrated on youtube](http://img.youtube.com/vi/h0r93-px_Sw/0.jpg)](https://www.youtube.com/watch?v=h0r93-px_Sw)  
 Happy vibes in F-major and D-major. Intentional melody, played by teletype and live piano.
