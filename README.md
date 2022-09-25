@@ -8,6 +8,14 @@ centers. Phrasing in Z, motive in A, planned melody.
 [1up.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/1up.txt)   
 [1up_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/1up_patch_notes.txt)
   
+## 9 out of 10 (2022-09-25)
+[![9 out of 10 on youtube](http://img.youtube.com/vi/-LlA_l0SdnI/0.jpg)](https://www.youtube.com/watch?v=-LlA_l0SdnI)  
+simple melody, 9/4 and 6/8 time
+   
+
+[9_out_of_10.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/9_out_of_10.txt)   
+[9_out_of_10_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/9_out_of_10_patch_notes.txt)
+  
 ## a movie i saw (2022-02-06)
 [![a movie i saw on youtube](http://img.youtube.com/vi/K-Q3soS5zoE/0.jpg)](https://www.youtube.com/watch?v=K-Q3soS5zoE)  
 generative tune in tree minor keys, planned melody quantized to scale

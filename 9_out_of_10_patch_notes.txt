@@ -1,0 +1,16 @@
+sequenced from hermod and teletype
+--
+bd: sample on er301
+sd: round-robin on own modular samples with er301
+sd glitch: round-robin on data bended samples with er301
+perc 1: clocked stretched samples on er301
+perc 2: benjolin through quark
+perc 3: rings out 1+2 through warps, crush delay, clouds and 2lpg
+bass: pico vco folded with fld6
+arp 1: just friends through monsoon
+arp 2: pico vco through chopping kinky
+ep: blofeld
+main melody: ms1
+add melody: a110 (pwm) through a120
+knob solo: tides v1 folded with chopping kinky and echo
+solo: blofeld
