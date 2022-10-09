@@ -1,0 +1,17 @@
+sequenced from hermod and teletype
+--
+bd: sample played on er301
+sd: sample played on er301
+sd glitch: sample played on er301
+hh: sample played on er301
+bass: doepfer a111-6
+ep: blofeld
+pad: blofeld
+bell:just friends
+rnd synth: piston honda through bf22
+texture 1: rnd synth through fxaid and monsoon
+texture 2: two channels of just friends through warps through humpback
+through clouds
+texture 3: one channel of just friends through threeler through crush
+delay
+solo: ms1

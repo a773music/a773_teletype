@@ -129,6 +129,14 @@ A part in 4/4, a happy accident suggested the B part should be in 6/8 (technical
 [diffusion.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/diffusion.txt)   
 [diffusion_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/diffusion_patch_notes.txt)
   
+## do it again (2022-10-09)
+[![do it again on youtube](http://img.youtube.com/vi/kIK8wra3nxQ/0.jpg)](https://www.youtube.com/watch?v=kIK8wra3nxQ)  
+film noire waltz in three keys
+   
+
+[do_it_again.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/do_it_again.txt)   
+[do_it_again_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/do_it_again_patch_notes.txt)
+  
 ## done (2022-07-24)
 [![done on youtube](http://img.youtube.com/vi/axgI9Ts0Xos/0.jpg)](https://www.youtube.com/watch?v=axgI9Ts0Xos)  
 maiden voyage on digitakt, something odd with meters, c-dorian and eb-lydian
