@@ -179,6 +179,14 @@ Cheerful tune in 7/8 modulating a minor third up in the b section, main melody p
 [every_step_matters.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/every_step_matters.txt)   
 [every_step_matters_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/every_step_matters_patch_notes.txt)
   
+## exit strategy (2022-10-23)
+[![exit strategy on youtube](http://img.youtube.com/vi/S9Ip3wUotMw/0.jpg)](https://www.youtube.com/watch?v=S9Ip3wUotMw)  
+emphasis on the two, a is aaba, b is drifting a halfstep up
+   
+
+[exit_strategy.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/exit_strategy.txt)   
+[exit_strategy_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/exit_strategy_patch_notes.txt)
+  
 ## faders (2021-04-18)
 [![faders on youtube](http://img.youtube.com/vi/_niXfH9cgnM/0.jpg)](https://www.youtube.com/watch?v=_niXfH9cgnM)  
 Sequenced from teletype. High energy, planned melody with random

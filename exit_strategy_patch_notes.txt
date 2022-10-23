@@ -1,0 +1,13 @@
+sequenced from hermod and teletype
+--
+bd synthesized on er301
+sd benjolin + bf22 + a110
+hh sample played on er301
+granular hit: er301
+bass: pico vco through ms22
+pad: blofeld
+texture granular hit into rings
+arp: a-111-6 + monsoon
+ep: blofeld
+lead: ms1
+keyboard solo: ms20-mini
