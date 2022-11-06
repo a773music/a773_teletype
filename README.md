@@ -171,6 +171,14 @@ solo-ish on microfreak
 [earth.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/earth.txt)   
 [earth_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/earth_patch_notes.txt)
   
+## either or (2022-11-06)
+[![either or on youtube](http://img.youtube.com/vi/VB1j7K_aJ64/0.jpg)](https://www.youtube.com/watch?v=VB1j7K_aJ64)  
+banger with divided lead sounds, solo on knob and ms20 mini
+   
+
+[either_or.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/either_or.txt)   
+[either_or_patch_files.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/either_or_patch_files.txt)
+  
 ## every step matters (2020-04-05)
 [![every step matters on youtube](http://img.youtube.com/vi/vwWW8xwB_PI/0.jpg)](https://www.youtube.com/watch?v=vwWW8xwB_PI)  
 Cheerful tune in 7/8 modulating a minor third up in the b section, main melody played by hand.
