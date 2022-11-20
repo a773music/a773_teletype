@@ -177,7 +177,7 @@ banger with divided lead sounds, solo on knob and ms20 mini
    
 
 [either_or.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/either_or.txt)   
-[either_or_patch_files.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/either_or_patch_files.txt)
+[either_or_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/either_or_patch_notes.txt)
   
 ## every step matters (2020-04-05)
 [![every step matters on youtube](http://img.youtube.com/vi/vwWW8xwB_PI/0.jpg)](https://www.youtube.com/watch?v=vwWW8xwB_PI)  
@@ -271,6 +271,14 @@ First scene is the main part, scene 2 is a randomly generated break.
 [hi_five_scene_1_2.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/hi_five_scene_1_2.txt)   
 [hi_five_scene_2_2_-_break.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/hi_five_scene_2_2_-_break.txt)   
 [hi_five_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/hi_five_patch_notes.txt)
+  
+## home is (2022-11-20)
+[![home is on youtube](http://img.youtube.com/vi/hDOUIKM16ho/0.jpg)](https://www.youtube.com/watch?v=hDOUIKM16ho)  
+6/8, dorian and lydian flavor, generative fills, solo on knob and keys
+   
+
+[home_is.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/home_is.txt)   
+[home_is_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/home_is_patch_notes.txt)
   
 ## in mid air (2022-05-29)
 [![in mid air on youtube](http://img.youtube.com/vi/r4650xAABIs/0.jpg)](https://www.youtube.com/watch?v=r4650xAABIs)  

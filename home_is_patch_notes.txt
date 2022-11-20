@@ -1,0 +1,14 @@
+sequenced with hermod and teletype
+--
+bd: mutant bassdrum
+sd: round robin on ghost snares on er301
+perc: 2opfm through bf22
+add perc: a-110-4 heavily modulated and through crush delay
+granular hits: prok through clouds
+bass: a-111-6
+ep: blofeld
+lead:stac of blofeld + product
+rnd fill: verbos complex
+knob solo: a-110 through a-120
+key solo: ms1
+reverb: fxaid + clouds
