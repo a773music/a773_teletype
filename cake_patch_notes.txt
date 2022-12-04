@@ -1,0 +1,18 @@
+sequenced from hermod and teletype
+--
+bd: mutant bd
+sd: break beat sample played on er301
+clicks: 2opfm
+bass: a-111-6
+texture: just friends 2x three note voicings varying on main rhythm
+granular texture 1: jf out 1 and 4 through warps into clouds
+granular texture 2: krell patch sampled, sliced and granulated on er301
+app: orgone accumulator
+fast arp: product
+ep: blofeld
+pad: blofeld
+melody lead: a-110 saw and sine switched on/off by square and a-150,
+filtered through bf22
+solo lead: blofeld
+5th lead: blofeld
+reverb fxaid

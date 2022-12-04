@@ -72,6 +72,14 @@ Experimenting with different grooves by setting the M on each step.
 [broken_funk.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/broken_funk.txt)   
 [broken_funk_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/broken_funk_patch_notes.txt)
   
+## cake (2022-12-04)
+[![cake on youtube](http://img.youtube.com/vi/jS6XBcfjeMQ/0.jpg)](https://www.youtube.com/watch?v=jS6XBcfjeMQ)  
+melody over breaks, 2x three-note voicings on just friends generatively play over main rhythm
+   
+
+[cake.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cake.txt)   
+[cake_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cake_patch_notes.txt)
+  
 ## click (2020-05-03)
 [![click on youtube](http://img.youtube.com/vi/9YgUOOxyTNA/0.jpg)](https://www.youtube.com/watch?v=9YgUOOxyTNA)  
 Fast, clicky, glitchy track in 4+5/8, melody from teletype.
