@@ -680,6 +680,14 @@ mostly staying in the subdominant area, solo on knob
 [sub-d.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sub-d.txt)   
 [sub-d_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sub-d_patch_notes.txt)
   
+## sub rotation (2022-12-18)
+[![sub rotation on youtube](http://img.youtube.com/vi/GA0uanK5znY/0.jpg)](https://www.youtube.com/watch?v=GA0uanK5znY)  
+dreamy textures in 5/4
+   
+
+[sub_rotation.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sub_rotation.txt)   
+[sub_rotation_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sub_rotation_patch_notes.txt)
+  
 ## switch (2022-04-18)
 [![switch on youtube](http://img.youtube.com/vi/ROiFjVYxh9Y/0.jpg)](https://www.youtube.com/watch?v=ROiFjVYxh9Y)  
 metric modulation between jazz-waltz and 12/8, C-minor in A, descending

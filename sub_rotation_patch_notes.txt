@@ -1,0 +1,16 @@
+sequenced from hermod and teletype
+--
+bd: 2opfm
+sd: grain stretch (er301)
+hh-ish: clocked stretch (er301)
+perc: prok (modulated with 4r) through 2lpg
+ride: sample played from er301
+bass: recombination engine through a-120
+texture 1: radio music into rings into fxaid
+texture 2: just friends into oliverb
+base pad: blofeld
+add pad: m50
+melody: verbos complex 
+melody texture: verbos complex through crush delay 2lpg
+knob solo: product
+
