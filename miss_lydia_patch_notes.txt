@@ -1,0 +1,18 @@
+sequenced from hermod and teletype
+--
+bd: mutand bassdrum
+sd-ish: ratcheded 2opfm
+hh: synthesized on er301
+glitch: pico drum (own glitch samples)
+bass a110 driving dinkys taiko, filtered by threeler
+intro arp: tides v1
+pad: blofeld
+ep: blofeld
+texture 1: just friends through monsoon
+texture 2: glitches through rings
+melody: verbos complex modulated by quadra
+add melody: blofeld
+solo 1: linnstrument, sound from csound
+solo 2: shapeshifter through warps through humpback
+solo 3: ms1
+reverb: fxaid

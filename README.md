@@ -406,6 +406,14 @@ Generated melody, sonically inspired by the music of Ela Minus (round, bright, p
 [minus.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/minus.txt)   
 [minus_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/minus_patch_notes.txt)
   
+## miss lydia (2023-01-01)
+[![miss lydia on youtube](http://img.youtube.com/vi/phnUCWIb4G4/0.jpg)](https://www.youtube.com/watch?v=phnUCWIb4G4)  
+all lydian, A is steady, B is rising
+   
+
+[miss_lydia.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/miss_lydia.txt)   
+[miss_lydia_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/miss_lydia_patch_notes.txt)
+  
 ## mm (2020-10-18)
 [![mm on youtube](http://img.youtube.com/vi/YoyrjTE2iVo/0.jpg)](https://www.youtube.com/watch?v=YoyrjTE2iVo)  
 Long harmonic line, generative melody (teletype).
