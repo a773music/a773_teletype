@@ -32,6 +32,14 @@ Melodic track with lots of random surprises
 [ascension.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/ascension.txt)   
 [ascension_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/ascension_patch_notes.txt)
   
+## band8 (2023-01-15)
+[![band8 on youtube](http://img.youtube.com/vi/ybSZSjBQp4M/0.jpg)](https://www.youtube.com/watch?v=ybSZSjBQp4M)  
+slow groove in two keys, soft + glitch
+   
+
+[band8.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/band8.txt)   
+[band8_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/band8_patch_notes.txt)
+  
 ## bass shifter (2020-08-23)
 [![bass shifter on youtube](http://img.youtube.com/vi/69L6jJduHsc/0.jpg)](https://www.youtube.com/watch?v=69L6jJduHsc)  
 Quartal melody, keyboard improvisation
@@ -151,7 +159,8 @@ maiden voyage on digitakt, something odd with meters, c-dorian and eb-lydian
    
 
 [done.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/done.txt)   
-[done_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/done_patch_notes.txt)
+[what_have_i_done.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/what_have_i_done.txt)   
+[what_have_i_done_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/what_have_i_done_patch_notes.txt)
   
 ## drones for jones (2021-02-21)
 [![drones for jones on youtube](http://img.youtube.com/vi/sYyivjU87D4/0.jpg)](https://www.youtube.com/watch?v=sYyivjU87D4)  

@@ -1,0 +1,17 @@
+sequenced from hermod and teletype
+--
+bd: 2opfm
+sd: gated clap on er301
+hh synthesized on er301
+perc clicks: a110 fm'ed by benjolin/leaves
+reverb sd: a196 (inputs: bass + bell) filtered through humpback (hp) and a106-5 (bp) and reverberated with fxaid
+granular hits: er301
+granular glitch: dinkys through clouds
+granulated melody: a110 through monsoon
+bass: warps internal osc modulated by benjolin/leaves
+bass low: product
+ep: blofeld
+bell melody: blofeld
+pad lead: blofeld
+sh fill: a110 through wasp, unquantized 1/oct from benjolin/leaves
+key solo: ms1
