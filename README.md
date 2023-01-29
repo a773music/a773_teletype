@@ -129,6 +129,15 @@ on drums and “solo”. Also some fss recombination action in there.
 [count_me_in.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/count_me_in.txt)   
 [count_me_in_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/count_me_in_patch_notes.txt)
   
+## db (2023-01-29)
+[![db on youtube](http://img.youtube.com/vi/IpO50n21gB8/0.jpg)](https://www.youtube.com/watch?v=IpO50n21gB8)  
+bright track, loads of blofeld, lead articulated from joystick, fills
+on knob, data bender maiden voyage
+   
+
+[db.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/db.txt)   
+[db_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/db_patch_notes.txt)
+  
 ## deep blue (2019-10-13)
 [![deep blue on youtube](http://img.youtube.com/vi/hKg8cT7-YLs/0.jpg)](https://www.youtube.com/watch?v=hKg8cT7-YLs)  
 Algorithmic melody and harmony, modulation from D-minor to F-Dorian in part 4, BSP slaved (unused), handy 4x blink before part change.

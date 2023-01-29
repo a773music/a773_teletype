@@ -1,0 +1,18 @@
+sequenced from hermod and teletype
+--
+bd: dinkys taiko
+sd: prok
+sd tail: manual grains on er301
+beat: folktek samples (er301) sequenced (w random) from teletype
+hh: bass + lead into warps, through dplpg
+arp: a110 + chopping kinky through monsoon
+bells: just friends/nearness through data bender
+float texture: rings through fxaid
+pad: blofeld
+brass: blofeld
+ep: blofeld
+fm-thing: blofeld
+main mel 1: blofeld
+main mel 2: a110 through threeler
+knob solo: a111-6
+key solo: blofeld
