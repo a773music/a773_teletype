@@ -1,0 +1,19 @@
+sequenced from hermod and teletype
+--
+bd sample (er301)
+sd: sample (er301)
+hh: sample (er301)
+perc: 2opfm
+add perc: two channels of just friends through warps, with random
+envelopes controlling level
+bass: 2x pico, spilced with 2zero and a110 as master, through lpg
+opened with random gate lengths
+pad (solos): blofeld
+fast mel runs: orgone accumulator
+10th mel: a110 through a120
+triangle lead: blofeld
+ep: blofeld
+bell: blofeld
+reverb bells: just friends through fxaid
+knob solo: product
+keyboard solo: ms1

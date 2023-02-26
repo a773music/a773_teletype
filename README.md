@@ -24,6 +24,15 @@ generative tune in tree minor keys, planned melody quantized to scale
 [a_movie_i_saw.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/a_movie_i_saw.txt)   
 [a_movie_i_saw_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/a_movie_i_saw_patch_notes.txt)
   
+## a new day (2023-02-26)
+[![a new day on youtube](http://img.youtube.com/vi/KbTbACbBy7I/0.jpg)](https://www.youtube.com/watch?v=KbTbACbBy7I)  
+triads over punctuated bass, melody across various sounds, solo on
+knob and keys
+   
+
+[a_new_day.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/a_new_day.txt)   
+[a_new_day_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/a_new_day_patch_notes.txt)
+  
 ## ascension (2020-05-31)
 [![ascension on youtube](http://img.youtube.com/vi/cEtY9qIOfBw/0.jpg)](https://www.youtube.com/watch?v=cEtY9qIOfBw)  
 Melodic track with lots of random surprises
@@ -803,6 +812,14 @@ Melodic track in 6/8, modulating to 4/4
 
 [welcome_to_the_surface.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/welcome_to_the_surface.txt)   
 [welcome_to_the_surface_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/welcome_to_the_surface_patch_notes.txt)
+  
+## what have i done (2023-02-12)
+[![what have i done on youtube](http://img.youtube.com/vi/0bSwzXVfYq4/0.jpg)](https://www.youtube.com/watch?v=0bSwzXVfYq4)  
+warm and distorted pads with erratic percussion and data bender on a knob
+   
+
+[what_have_i_done.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/what_have_i_done.txt)   
+[what_have_i_done_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/what_have_i_done_patch_notes.txt)
   
 ## with great powers (2020-08-09)
 [![with great powers on youtube](http://img.youtube.com/vi/ZjSqw9hCHL4/0.jpg)](https://www.youtube.com/watch?v=ZjSqw9hCHL4)  
