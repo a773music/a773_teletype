@@ -551,6 +551,14 @@ hits in a, floating mel in b, 3x solos (knob, generative and keyboard)
 [press.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/press.txt)   
 [press_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/press_patch_notes.txt)
   
+## pulsating (2023-03-12)
+[![pulsating on youtube](http://img.youtube.com/vi/j3PQvPQD9SA/0.jpg)](https://www.youtube.com/watch?v=j3PQvPQD9SA)  
+slow, earty, glitchy vibe in lydian/dorian
+   
+
+[pulsating.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pulsating.txt)   
+[pulsating_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pulsating_patch_notes.txt)
+  
 ## quartal brk (2021-07-25)
 [![quartal brk on youtube](http://img.youtube.com/vi/-yEQ22IlfgU/0.jpg)](https://www.youtube.com/watch?v=-yEQ22IlfgU)  
 Sequenced from teletype. Generative funk, generated lead, alternating
