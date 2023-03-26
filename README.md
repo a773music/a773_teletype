@@ -462,7 +462,7 @@ controlling activity, length, just friends and phrase length.
   
 ## nica (2023-03-26)
 [![nica on youtube](http://img.youtube.com/vi/BqLi5P8bAJY/0.jpg)](https://www.youtube.com/watch?v=BqLi5P8bAJY)  
-simple melodic track with long and modulating, b-part, solo on one
+simple melodic track with long and modulating b-part, solo on one
 chord and a-part
    
 
