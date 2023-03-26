@@ -460,6 +460,15 @@ controlling activity, length, just friends and phrase length.
 [mornin_2.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mornin_2.txt)   
 [mornin_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mornin_patch_notes.txt)
   
+## nica (2023-03-26)
+[![nica on youtube](http://img.youtube.com/vi/BqLi5P8bAJY/0.jpg)](https://www.youtube.com/watch?v=BqLi5P8bAJY)  
+simple melodic track with long and modulating, b-part, solo on one
+chord and a-part
+   
+
+[nica.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/nica.txt)   
+[nica_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/nica_patch_notes.txt)
+  
 ## on the j-tip (2022-02-20)
 [![on the j-tip on youtube](http://img.youtube.com/vi/hlAOXQyvfog/0.jpg)](https://www.youtube.com/watch?v=hlAOXQyvfog)  
 jazz/pop groove, a-part short phrases ending in upwards sequence,

@@ -1,0 +1,14 @@
+sequenced from hermod and teletype
+--
+bd: quark
+sd: layers build in modular
+hh: ladik rom-player
+bass: minilogue
+granular hits: er301
+texture: just friends modulated and through monsoon
+arp: product through data bender
+pad: opsix
+ep: blofeld
+melody fills: a110 through wasp
+lead: ms1
+key solo: ms1
