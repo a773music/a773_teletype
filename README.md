@@ -97,6 +97,14 @@ melody over breaks, 2x three-note voicings on just friends generatively play ove
 [cake.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cake.txt)   
 [cake_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cake_patch_notes.txt)
   
+## cheer up (2023-04-09)
+[![cheer up on youtube](http://img.youtube.com/vi/m7703MbIo0Y/0.jpg)](https://www.youtube.com/watch?v=m7703MbIo0Y)  
+optimistic tune with improvised melody and wonky time
+   
+
+[cheer_up.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cheer_up.txt)   
+[cheer_up_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cheer_up_patch_notes.txt)
+  
 ## click (2020-05-03)
 [![click on youtube](http://img.youtube.com/vi/9YgUOOxyTNA/0.jpg)](https://www.youtube.com/watch?v=9YgUOOxyTNA)  
 Fast, clicky, glitchy track in 4+5/8, melody from teletype.
