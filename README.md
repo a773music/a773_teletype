@@ -813,6 +813,14 @@ glitch and float, firm b-part, generative solo
 [tr.io.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/tr.io.txt)   
 [tr.io_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/tr.io_patch_notes.txt)
   
+## turnback (2023-04-23)
+[![turnback on youtube](http://img.youtube.com/vi/nsfepm0Ymgs/0.jpg)](https://www.youtube.com/watch?v=nsfepm0Ymgs)  
+expansions on a vamp, solo on joystick and minilogue in far-away key
+   
+
+[turnback.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/turnback.txt)   
+[turnback_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/turnback_patch_notes.txt)
+  
 ## up a notch (2019-09-15)
 [![up a notch on youtube](http://img.youtube.com/vi/i2DR767OQNI/0.jpg)](https://www.youtube.com/watch?v=i2DR767OQNI)  
 High activity in 7/8 meter, notes and some triggers sequenced by teletype, most triggers from swt16+, four parts on knob.
