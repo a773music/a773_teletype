@@ -12,5 +12,5 @@ pad: opsix
 add arp: piston honda mk I through bf22 and monsoon
 additional texture: benjolin rungler into rings (green mode)
 main mel: minilogue
-knob solo: verbos complex through chopping kinky
+joystick solo: verbos complex through chopping kinky
 keysolo: minilogue
