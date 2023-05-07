@@ -1,0 +1,16 @@
+sequenced from hermod and teletype
+--
+bd: synthesized on er301
+sd1: braids sample, er301
+sd2: pico drums
+perc: benjolin through bf22
+clicks: heavily modulated nodrums through data bender
+bleep1: piston honda I through a120 and fxaid
+bleep2: a110 sine
+bass: minilogue
+brass: opsix
+pad intro/outro: blofeld
+main lead: ms1
+add lead: blofeld
+bend texture: blofeld
+key fills: blofeld

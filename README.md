@@ -73,6 +73,14 @@ Melodic ambient track in a-minor
 [binary.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/binary.txt)   
 [binary_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/binary_patch_notes.txt)
   
+## bitter sweet (2023-05-07)
+[![bitter sweet on youtube](http://img.youtube.com/vi/OL_iR520yio/0.jpg)](https://www.youtube.com/watch?v=OL_iR520yio)  
+sweet retro funk in 5/4 with a challenging middle section
+   
+
+[bitter_sweet.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/bitter_sweet.txt)   
+[bitter_sweet_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/bitter_sweet_patch_notes.txt)
+  
 ## blow (2019-12-01)
 [![blow on youtube](http://img.youtube.com/vi/TkLYpkGcn0Y/0.jpg)](https://www.youtube.com/watch?v=TkLYpkGcn0Y)  
 Funky, melodic track in 6/8 time
