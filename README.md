@@ -813,6 +813,14 @@ Straight forward tune in C-minor, melody played by hand into Bishops Miscellany.
 
 
   
+## tm auto (2023-05-21)
+[![tm auto on youtube](http://img.youtube.com/vi/Q5iVoelfZrk/0.jpg)](https://www.youtube.com/watch?v=Q5iVoelfZrk)  
+wonky melody in C and more
+   
+
+[tm_auto.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/tm_auto.txt)   
+[tm_auto_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/tm_auto_patch_notes.txt)
+  
 ## tr.io (2021-12-26)
 [![tr.io on youtube](http://img.youtube.com/vi/l-JtgPuVL4A/0.jpg)](https://www.youtube.com/watch?v=l-JtgPuVL4A)  
 glitch and float, firm b-part, generative solo

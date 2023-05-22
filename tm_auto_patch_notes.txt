@@ -1,0 +1,19 @@
+sequenced from hermod, teletype and turing machine
+--
+bd: synthesized on er er301
+sd: gated pll (tracking pico vcs sequenced by benjolin) through clouds
+sd (solos): quark + monsoon
+hh: pll through fld6 through wasp through lpg crush delay
+perc: bass osc + a110 (random notes within scale from teletype)
+through warps, gated with lpg
+add perc: benjolin rungler through fb22 through lpg through data bender
+granular hh (solos): er301
+bass: pico vco through humpback
+main melody: minilogue
+main mel add: a110 saw through doepfer sem filter
+texture: a110 (random notes within scale from teletype) as input for
+rings sequenced from teletype
+pad: opsix
+ep: blofeld
+key solo: blofeld
+knob solo: product
