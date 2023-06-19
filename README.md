@@ -526,6 +526,14 @@ Drum-less 6/8 groove in D-minor, a touch of D-major in the B-part.
 [orfa.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/orfa.txt)   
 [orfa_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/orfa_patch_notes.txt)
   
+## p luck (2023-06-18)
+[![p luck on youtube](http://img.youtube.com/vi/LCTNGd5uWHU/0.jpg)](https://www.youtube.com/watch?v=LCTNGd5uWHU)  
+modular samba with glitch and pentatonic colors
+   
+
+[p_luck.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/p_luck.txt)   
+[p_luck_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/p_luck_patch_notes.txt)
+  
 ## pedantk (2021-10-03)
 [![pedantk on youtube](http://img.youtube.com/vi/0riwJEq_tHw/0.jpg)](https://www.youtube.com/watch?v=0riwJEq_tHw)  
 Single motive tune in phrygian (E, D and F). Grid mutes/unmutes,
