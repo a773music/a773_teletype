@@ -5,9 +5,9 @@ hh: turing maching noise hpf and enveloped
 add hh: er301
 sd: er301
 granular hits: er301
-perc: self-modulating benjolin, tri out trhough dplpg
+perc: self-modulating benjolin, tri out through dplpg
 bass: recombination enging through a120
-arp bleeps: piston honda thogurh monsoon
+arp bleeps: piston honda through monsoon
 ep: opsix
 break chords: minilogue
 main lead: ms1

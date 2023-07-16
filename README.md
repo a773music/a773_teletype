@@ -288,6 +288,14 @@ Funky tune in 5/4, main melody by hand on the microfreak.
 [frankly_speaking.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/frankly_speaking.txt)   
 [frankly_speaking_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/frankly_speaking_patch_notes.txt)
   
+## gen ae (2023-07-16)
+[![gen ae on youtube](http://img.youtube.com/vi/SBpLOsH5Qa0/0.jpg)](https://www.youtube.com/watch?v=SBpLOsH5Qa0)  
+warm and glitchy generative jazz
+   
+
+[gen_ae.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/gen_ae.txt)   
+[gen_ae_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/gen_ae_patch_notes.txt)
+  
 ## glass mover (2021-05-16)
 [![glass mover on youtube](http://img.youtube.com/vi/j0yWJQrTVU8/0.jpg)](https://www.youtube.com/watch?v=j0yWJQrTVU8)  
 Sequenced from teletype. Algorithmic, semi-improvised track, heavy
