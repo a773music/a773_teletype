@@ -1,0 +1,18 @@
+sequenced from hermod+ and teletype
+--
+bd: quark
+sd: piston honda mk1, with quadrax modulating scan
+hh: 2x 2opfm into data bender
+sd glitch: monsoon
+granular hits: er301
+noise glitch: apc 2x modulated with sloth, output gated through clouds
+bass: a110 saw + sqr mixed, filtered with a120
+ep-ish: blofeld
+pad: opsix
+arp 1: recombination engine through bf22
+arp 2: recombination engine through a106-5
+lead 1: minilogue
+lead 2: blofeld
+generative lead: product
+joystick solo: shape shifter, each note randomly modulates shape 1+2 and envelope attack+decay, softened with humpback
+keysolo: blofeld
