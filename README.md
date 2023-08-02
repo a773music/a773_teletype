@@ -197,7 +197,7 @@ maiden voyage on digitakt, something odd with meters, c-dorian and eb-lydian
 [what_have_i_done_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/what_have_i_done_patch_notes.txt)
   
 ## double up (2023-08-02)
-
+[![double up on youtube](http://img.youtube.com/vi/VcKYBRtXhOE/0.jpg)](https://www.youtube.com/watch?v=VcKYBRtXhOE)  
 bright and cheerful with quasi-jazz b part, krell like solo on joystick, maiden flight with hermod+
    
 
