@@ -145,6 +145,14 @@ Joystick Y: brightness of chord notes (ER-301)
 [cluster-5.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cluster-5.txt)   
 [cluster-5_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cluster-5_patch_notes.txt)
   
+## cnt (2023-08-13)
+[![cnt on youtube](http://img.youtube.com/vi/MmKb_IeLydw/0.jpg)](https://www.youtube.com/watch?v=MmKb_IeLydw)  
+bright jazz with generative arpeggio and solo on ms20, joystick and ms1
+   
+
+[cnt.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cnt.txt)   
+[cnt_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cnt_patch_notes.txt)
+  
 ## count me in (2020-11-29)
 [![count me in on youtube](http://img.youtube.com/vi/rB4JMgmcToA/0.jpg)](https://www.youtube.com/watch?v=rB4JMgmcToA)  
 Fast, melodic, moody, lydian at times. Sequenced from teletype, ER-301
