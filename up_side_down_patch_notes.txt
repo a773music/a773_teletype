@@ -1,0 +1,17 @@
+sequenced from teletype and hermod
+--
+bd: pinged ms22
+sd: folktek sample (er301)
+sd glitch: enveloped 909 sd (ladik rom player) through data bender
+hh: ladik rom player
+perc: granular glitch on folktek samples (er301)
+bass: recombination engine through a120
+ep: minilogue
+pad: opsix
+texture just friends through monsoon
+add texture: one output of just friends through cruch delay
+main lead: blofeld
+harmony lead: blofeld
+lead texture: tides v1 2x outs thorugh chopping kinky
+joystick solo: product
+key solo: ms20

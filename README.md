@@ -487,7 +487,8 @@ Long harmonic line, generative melody (teletype).
    
 
 [mm.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mm.txt)   
-[mm_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mm_patch_notes.txt)
+[summer_storm.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/summer_storm.txt)   
+[summer_storm_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/summer_storm_patch_notes.txt)
   
 ## mornin (2021-06-13)
 [![mornin on youtube](http://img.youtube.com/vi/7dTfXCjUZi0/0.jpg)](https://www.youtube.com/watch?v=7dTfXCjUZi0)  
@@ -876,6 +877,14 @@ High activity in 7/8 meter, notes and some triggers sequenced by teletype, most 
 
 [up_a_notch.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/up_a_notch.txt)   
 [up_a_notch_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/up_a_notch_patch_notes.txt)
+  
+## up side down (2023-08-27)
+[![up side down on youtube](http://img.youtube.com/vi/AgLeBePKGf8/0.jpg)](https://www.youtube.com/watch?v=AgLeBePKGf8)  
+sweet jazz with a glitchy dream in the middle
+   
+
+[up_side_down.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/up_side_down.txt)   
+[up_side_down_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/up_side_down_patch_notes.txt)
   
 ## vii (2020-12-27)
 [![vii on youtube](http://img.youtube.com/vi/jheT6rGV648/0.jpg)](https://www.youtube.com/watch?v=jheT6rGV648)  
