@@ -113,6 +113,14 @@ optimistic tune with improvised melody and wonky time
 [cheer_up.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cheer_up.txt)   
 [cheer_up_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cheer_up_patch_notes.txt)
   
+## claustrophobic (2023-09-10)
+[![claustrophobic on youtube](http://img.youtube.com/vi/Hy4u4CRDroU/0.jpg)](https://www.youtube.com/watch?v=Hy4u4CRDroU)  
+funk on floating tonalities 
+   
+
+[claustrophobic.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/claustrophobic.txt)   
+[claustrophobic_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/claustrophobic_patch_notes.txt)
+  
 ## click (2020-05-03)
 [![click on youtube](http://img.youtube.com/vi/9YgUOOxyTNA/0.jpg)](https://www.youtube.com/watch?v=9YgUOOxyTNA)  
 Fast, clicky, glitchy track in 4+5/8, melody from teletype.

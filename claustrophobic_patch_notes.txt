@@ -1,0 +1,19 @@
+sequenced from hermod and teletype
+--
+bd: synthesized on er 301
+sd: quark
+sd add: monsoon
+glitch perc: pinged ms22 through monsoon (pitch shifter mode)
+granular: paper crushing samples on er301 (clocked stretch)
+bass: recombination engine through 2lpg
+bass glitch: one channel of just friends through modulated crush delay
++ recombination engine triangle through warps
+add bass: csound fm samples (er301)
+pad: opsix
+brass pad: minilogue
+texture: rings (red mode)
+arp: tides v1
+bells: just friends
+main lead: product, various outs through apc and echo
+joystick solo: a110 through a120
+keyboard solo: blofeld
