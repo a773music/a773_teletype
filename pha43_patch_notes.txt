@@ -1,0 +1,17 @@
+sequenced from hermod+ and teletype
+--
+bd: pinged bf22
+sd: sample stack on er301
+sd tail: no drums through warps through clouds
+hh: ladik d-333 (my samples)
+clicks: 2opfm, gated, modulated by nano rand
+bass: a111-6
+ep: minilogue
+pad: opsix
+brass: blofeld
+rnd mel: product through cruch delay
+distorted texture: benjolin, aperture, rings, choppin kinky, data bender
+marimba-ish: just friends
+main mel: blofeld
+joystick solo: a110 through doepfer wasp filter
+keyboard solo: ms1

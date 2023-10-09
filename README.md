@@ -593,6 +593,14 @@ Happy vibes in F-major and D-major. Intentional melody, played by teletype and l
 [pessimism_is_overrated.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pessimism_is_overrated.txt)   
 [pessimism_is_overrated_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pessimism_is_overrated_patch_notes.txt)
   
+## pha43 (2023-10-08)
+[![pha43 on youtube](http://img.youtube.com/vi/GM90bVUc82k/0.jpg)](https://www.youtube.com/watch?v=GM90bVUc82k)  
+afro jazz in shifting meters, solos on joystick and keys
+   
+
+[pha43.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pha43.txt)   
+[pha43_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/pha43_patch_notes.txt)
+  
 ## phrase praise (2022-01-23)
 [![phrase praise on youtube](http://img.youtube.com/vi/lBOUP5ZCaok/0.jpg)](https://www.youtube.com/watch?v=lBOUP5ZCaok)  
 funky glitch, melody floating between major and minor, keysolo on ms-1
