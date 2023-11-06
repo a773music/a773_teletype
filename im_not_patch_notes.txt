@@ -1,0 +1,19 @@
+sequenced from hermod+ and teletype
+--
+bd: quark
+sd: ladik d-333, pitched down, processed with databender
+clicks: 2opfm, gated
+granular hits: er301
+main bass: minilogue
+melodic bass: a110, random pwm, sqr+saw+sine through a133-2, enveloped
+with dplpg (gate length varied from teletype)
+ep: blofeld
+shimmer pad: opsix
+brass: blofeld
+add texture: rings through warps, parallel through clouds
+bell melody: blofeld
+filter lead: a110 through cp3 through a106-5
+add melody: blofeld
+harmony melody: blofeld
+joystick solo: a110 sqr and tri mixed with bipolar half wave rectifier, through threeler
+keyboard solo: ms1

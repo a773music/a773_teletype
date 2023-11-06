@@ -363,6 +363,14 @@ First scene is the main part, scene 2 is a randomly generated break.
 [home_is.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/home_is.txt)   
 [home_is_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/home_is_patch_notes.txt)
   
+## im not (2023-11-05)
+[![im not on youtube](http://img.youtube.com/vi/TEN9FrDX-VY/0.jpg)](https://www.youtube.com/watch?v=TEN9FrDX-VY)  
+mainly phrygean mood with random shimmer stacks and split melody
+   
+
+[im_not.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/im_not.txt)   
+[im_not_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/im_not_patch_notes.txt)
+  
 ## in mid air (2022-05-29)
 [![in mid air on youtube](http://img.youtube.com/vi/r4650xAABIs/0.jpg)](https://www.youtube.com/watch?v=r4650xAABIs)  
 made from open 5ths and a single #11, irregular part lengths
