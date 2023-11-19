@@ -813,6 +813,14 @@ dreamy textures in 5/4
 [sub_rotation.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sub_rotation.txt)   
 [sub_rotation_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/sub_rotation_patch_notes.txt)
   
+## summer storm (2023-11-19)
+[![summer storm on youtube](http://img.youtube.com/vi/zoq2KRwVS9o/0.jpg)](https://www.youtube.com/watch?v=zoq2KRwVS9o)  
+round ballad with 2x generative solos
+   
+
+[summer_storm.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/summer_storm.txt)   
+[summer_storm_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/summer_storm_patch_notes.txt)
+  
 ## switch (2022-04-18)
 [![switch on youtube](http://img.youtube.com/vi/ROiFjVYxh9Y/0.jpg)](https://www.youtube.com/watch?v=ROiFjVYxh9Y)  
 metric modulation between jazz-waltz and 12/8, C-minor in A, descending
