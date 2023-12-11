@@ -170,6 +170,14 @@ on drums and “solo”. Also some fss recombination action in there.
 [count_me_in.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/count_me_in.txt)   
 [count_me_in_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/count_me_in_patch_notes.txt)
   
+## cresc (2023-12-10)
+[![cresc on youtube](http://img.youtube.com/vi/w8unW_c13_8/0.jpg)](https://www.youtube.com/watch?v=w8unW_c13_8)  
+warm cresendo with solo in the middle
+   
+
+[cresc.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cresc.txt)   
+[cresc_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cresc_patch_notes.txt)
+  
 ## db (2023-01-29)
 [![db on youtube](http://img.youtube.com/vi/IpO50n21gB8/0.jpg)](https://www.youtube.com/watch?v=IpO50n21gB8)  
 bright track, loads of blofeld, lead articulated from joystick, fills
