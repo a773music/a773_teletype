@@ -734,6 +734,14 @@ optimistic and open ended tune in C-major and 7/4 time
 [silver_bullet.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/silver_bullet.txt)   
 [silver_bullet_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/silver_bullet_patch_notes.txt)
   
+## skinny dippin (2024-01-07)
+[![skinny dippin on youtube](http://img.youtube.com/vi/O5SahjhhULg/0.jpg)](https://www.youtube.com/watch?v=O5SahjhhULg)  
+fast paced jazzy thing with dorian flavour
+   
+
+[skinny_dippin.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/skinny_dippin.txt)   
+[skinny_dippin_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/skinny_dippin_patch_notes.txt)
+  
 ## smple cmpllex (2022-03-20)
 [![smple cmpllex on youtube](http://img.youtube.com/vi/Pi3pBQX9n84/0.jpg)](https://www.youtube.com/watch?v=Pi3pBQX9n84)  
 funky thing in c-minor and Eb major, dual bass lines

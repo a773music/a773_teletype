@@ -1,0 +1,19 @@
+sequenced from hermod+ and teletype
+--
+bd: synthesized on er301
+granular sd: er301
+hh: enveloped noise
+clicks: 2opfm
+glitch hits: er301
+bass1: pico vco through chopping kinky
+bass2: a111-6
+bass3: verbos complex
+bass4: warps through lpg
+ep: blofeld
+pad: opsix
+texture: rings through data bender
+texture: just friends through fxaid
+brass: blofeld
+lead: blofeld
+keyboard solo: ms1
+
