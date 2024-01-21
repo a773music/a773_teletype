@@ -764,6 +764,14 @@ rows 48-63: a group of four consecutive notes form a chord, the first note in th
 [spine.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/spine.txt)   
 [spine_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/spine_patch_notes.txt)
   
+## spread (2024-01-21)
+[![spread on youtube](http://img.youtube.com/vi/bOHrXtSc49U/0.jpg)](https://www.youtube.com/watch?v=bOHrXtSc49U)  
+calm jazz groove in phrygean
+   
+
+[spread.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/spread.txt)   
+[spread_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/spread_patch_notes.txt)
+  
 ## sqr1 (2021-08-22)
 [![sqr1 on youtube](http://img.youtube.com/vi/ncsKQav632s/0.jpg)](https://www.youtube.com/watch?v=ncsKQav632s)  
 Sequenced from teletype, first run with grid.
