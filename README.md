@@ -228,6 +228,14 @@ bright and cheerful with quasi-jazz b part, krell like solo on joystick, maiden 
 [double_up.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/double_up.txt)   
 [double_up_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/double_up_patch_notes.txt)
   
+## drive (2024-02-04)
+[![drive on youtube](http://img.youtube.com/vi/Li0-JvfhhZY/0.jpg)](https://www.youtube.com/watch?v=Li0-JvfhhZY)  
+semi generative and optimistic groove
+   
+
+[drive.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/drive.txt)   
+[drive_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/drive_patch_notes.txt)
+  
 ## drones for jones (2021-02-21)
 [![drones for jones on youtube](http://img.youtube.com/vi/sYyivjU87D4/0.jpg)](https://www.youtube.com/watch?v=sYyivjU87D4)  
 Drone with melody on top, two parts, keyboard action towards the end.

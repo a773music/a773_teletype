@@ -1,0 +1,15 @@
+sequenced from hermod+ and teletype
+--
+bd: synthesized on er301
+sd: synthesized in csound, sample played from er301
+hh: ladik d333 (custom sample)
+glitch perc: pico drums, glitch sample through monsoon
+bass: a110 through bf22 and gated with takaab 2lpg
+ep: blofeld
+melodic glitch: pico drums as input for rings in red mode
+add mel (solos): recombination engine through a106-5 and clouds
+bells: just friends through data bender
+lead 1: a110 through humpback filter
+lead 2: piston honda mk1
+light strip solo: pico vco through chopping kinky and threeler filter
+keyboard solo: blofeld
