@@ -862,6 +862,14 @@ sus chords in B
 [switch.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/switch.txt)   
 [switch_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/switch_patch_notes.txt)
   
+## tax on (2024-02-25)
+[![tax on on youtube](http://img.youtube.com/vi/z3dw6-Nxexw/0.jpg)](https://www.youtube.com/watch?v=z3dw6-Nxexw)  
+afro-like groove in two keys, solo on joystick and keyboard
+   
+
+[tax_on.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/tax_on.txt)   
+[tax_on_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/tax_on_patch_notes.txt)
+  
 ## temporal shifts (2020-11-01)
 [![temporal shifts on youtube](http://img.youtube.com/vi/rFT_XavdRSw/0.jpg)](https://www.youtube.com/watch?v=rFT_XavdRSw)  
 Beat displacment in 7/4.
