@@ -805,6 +805,14 @@ Hand played melody over melodic bassline, middle part is reaching for the stars 
 [stargazer.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/stargazer.txt)   
 [stargazer_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/stargazer_patch_notes.txt)
   
+## starv (2024-03-17)
+[![starv on youtube](http://img.youtube.com/vi/K5IgRXp1zgE/0.jpg)](https://www.youtube.com/watch?v=K5IgRXp1zgE)  
+bright and glitchy jazz in d phrygean
+   
+
+[starv.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/starv.txt)   
+[starv_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/starv_patch_notes.txt)
+  
 ## still (2021-02-07)
 [![still on youtube](http://img.youtube.com/vi/9exi-yNwIn4/0.jpg)](https://www.youtube.com/watch?v=9exi-yNwIn4)  
 Ambient track in C-dorian, three parts. Planned lead part and generative bell melody.
