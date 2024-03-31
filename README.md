@@ -489,6 +489,14 @@ eventually randomly swapped around using Q.
 [m_seq.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/m_seq.txt)   
 [m_seq_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/m_seq_patch_notes.txt)
   
+## mild dist (2024-03-31)
+[![mild dist on youtube](http://img.youtube.com/vi/fxxK0KgW0hA/0.jpg)](https://www.youtube.com/watch?v=fxxK0KgW0hA)  
+nostalgia in 3/4 and 4/4
+   
+
+[mild_dist.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mild_dist.txt)   
+[mild_dist_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/mild_dist_patch_notes.txt)
+  
 ## minor change (2022-03-06)
 [![minor change on youtube](http://img.youtube.com/vi/8RIB8ai7j7I/0.jpg)](https://www.youtube.com/watch?v=8RIB8ai7j7I)  
 parts and keys all over the place, shifts from 3/4 to 6/8 to 4/4

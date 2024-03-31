@@ -1,0 +1,14 @@
+sequenced from hermod+ and teletype
+--
+bd: quark
+clicks: 2opfm
+sd: fm sample made with csound, played from er301
+bass: shape shifter, int fm modulated by teletype
+ep-ish: monologue
+pad: opsix
+granular texture: bermuda and pico vco through warps, takaab lpg and clouds
+main lead: a110 through threeler (6db lpf)
+add mel: blofeld
+rnd mel: a111-6, parallel through monsoon
+lightstrip solo: piston honda mki through a106-5 sem and takaab lpg
+keysolo: ms1
