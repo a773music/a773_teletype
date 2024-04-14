@@ -1,0 +1,17 @@
+sequenced from hermod+ and teletype
+--
+bd: quark
+hh/glitch: lo-fi samples made with pd, played and mangled by er301
+ride: sample played by er301
+sd: ladik d-333 through data bender
+small sd: pico drums (sample from my modular)
+harmonic bleeps: lo-fi samples from 301 through rings
+generative background mel + solo 1: pico vco folded with chopping kinky, sequenced with triggerriot through mixer, envelopes by teletype (txo)
+pad: opsix
+ep: jv880
+bass: minilogue
+brass: blofeld
+main mel: blofeld
+bass add mel: minilogue
+add mel: a110 through threeler
+keyboard solo: blofeld

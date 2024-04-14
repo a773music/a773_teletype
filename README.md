@@ -958,6 +958,14 @@ expansions on a vamp, solo on joystick and minilogue in far-away key
 [turnback.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/turnback.txt)   
 [turnback_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/turnback_patch_notes.txt)
   
+## unswung 0 (2024-04-14)
+[![unswung 0 on youtube](http://img.youtube.com/vi/xOiSYjtANWo/0.jpg)](https://www.youtube.com/watch?v=xOiSYjtANWo)  
+swinging modular jazz with quartal harmony
+   
+
+[unswung_0.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/unswung_0.txt)   
+[unswung_0_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/unswung_0_patch_notes.txt)
+  
 ## up a notch (2019-09-15)
 [![up a notch on youtube](http://img.youtube.com/vi/i2DR767OQNI/0.jpg)](https://www.youtube.com/watch?v=i2DR767OQNI)  
 High activity in 7/8 meter, notes and some triggers sequenced by teletype, most triggers from swt16+, four parts on knob.
