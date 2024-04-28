@@ -411,6 +411,14 @@ Sequenced from teletype. Generative ballad in three parts.
 [int_phrases.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/int_phrases.txt)   
 [int_phrases_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/int_phrases_patch_notes.txt)
   
+## ive missed you (2024-04-28)
+[![ive missed you on youtube](http://img.youtube.com/vi/fvQbJD6LtzM/0.jpg)](https://www.youtube.com/watch?v=fvQbJD6LtzM)  
+somewhat generative ambient track
+   
+
+[ive_missed_you.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/ive_missed_you.txt)   
+[ive_missed_you_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/ive_missed_you_patch_notes.txt)
+  
 ## jitter (2020-09-20)
 [![jitter on youtube](http://img.youtube.com/vi/5zwGuEDn0wY/0.jpg)](https://www.youtube.com/watch?v=5zwGuEDn0wY)  
 Energetic and laid back, rhythmic and melodic, two parts with a short transition. 
