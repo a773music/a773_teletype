@@ -488,6 +488,14 @@ dimished scale.
 [lucky_nb.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/lucky_nb.txt)   
 [lucky_nb_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/lucky_nb_patch_notes.txt)
   
+## m43 (2024-06-16)
+[![m43 on youtube](http://img.youtube.com/vi/s02gP0RVbUg/0.jpg)](https://www.youtube.com/watch?v=s02gP0RVbUg)  
+modular chip-tune jazz
+   
+
+[m43.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/m43.txt)   
+[m43_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/m43_patch_notes.txt)
+  
 ## m seq (2021-09-05)
 [![m seq on youtube](http://img.youtube.com/vi/G4-XVMBtU0E/0.jpg)](https://www.youtube.com/watch?v=G4-XVMBtU0E)  
 Note length (M) controlled by P 0-6, layed out on grid as 7 faders,
@@ -885,6 +893,14 @@ sus chords in B
 
 [switch.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/switch.txt)   
 [switch_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/switch_patch_notes.txt)
+  
+## take out (2024-05-19)
+[![take out on youtube](http://img.youtube.com/vi/0jczcKh3Uf4/0.jpg)](https://www.youtube.com/watch?v=0jczcKh3Uf4)  
+funky jazz, with granular glitch on top
+   
+
+[take_out.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/take_out.txt)   
+[take_out_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/take_out_patch_notes.txt)
   
 ## tax on (2024-02-25)
 [![tax on on youtube](http://img.youtube.com/vi/z3dw6-Nxexw/0.jpg)](https://www.youtube.com/watch?v=z3dw6-Nxexw)  

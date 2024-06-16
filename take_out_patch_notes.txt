@@ -1,0 +1,16 @@
+sequenced from hermod+ and teletype
+--
+bd: sample (er301)
+sd: sample (er301)
+clicks: benjolin (lp out) through randomly modulated crush delay, gated from teletype
+glitches: benjolin (hp out) through data bender
+tonal glitch texture: pico vco x2 through wasp and monsoon
+bass: minilogue
+ep: jv880
+brass: opsix
+mel add: pico drums through rings
+bells: just friends
+main lead: blofeld
+add lead: blofeld
+light strip solo: a110 pwm through threeler
+key solo: blofeld
