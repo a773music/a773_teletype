@@ -1,0 +1,17 @@
+sequenced from hermod+ and teletype
+--
+bd: synthesized on er301
+sd: paper sample (er301)
+hh: pico drums (own samples)
+ride-like: a110 pwm
+sd granular: data bended + granular (er301)
+bass main: jv880
+bass add: recombination engine
+ep: opsix
+bells: rings
+main mel: minilogue
+mel add: a110 through wasp
+ls solo: pico vco through chopping kinky
+joystick solo: a110 through threeler
+keyboard solo: blofeld
+

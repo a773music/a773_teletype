@@ -505,6 +505,14 @@ eventually randomly swapped around using Q.
 [m_seq.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/m_seq.txt)   
 [m_seq_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/m_seq_patch_notes.txt)
   
+## matts hall (2024-07-07)
+[![matts hall on youtube](http://img.youtube.com/vi/tTjSqIh_K98/0.jpg)](https://www.youtube.com/watch?v=tTjSqIh_K98)  
+slow groovy modular fusion
+   
+
+[matts_hall.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/matts_hall.txt)   
+[matts_hall_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/matts_hall_patch_notes.txt)
+  
 ## mild dist (2024-03-31)
 [![mild dist on youtube](http://img.youtube.com/vi/fxxK0KgW0hA/0.jpg)](https://www.youtube.com/watch?v=fxxK0KgW0hA)  
 nostalgia in 3/4 and 4/4
