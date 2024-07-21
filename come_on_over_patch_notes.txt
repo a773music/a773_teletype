@@ -1,0 +1,15 @@
+sequenced from hermod+ and teletype
+--
+bd: synthesized on er301
+sd: pico drum (own sample) through data bender
+sd bell: just friends
+hh/clicks: folktek samples/er301 + cruch delay + monsoon
+granular sd: er301
+bass: minilogue
+ep: blofeld
+pad: opsix
+main lead: jv880
+lead add: a110 through threeler
+light strip solo: a110 throughh ms22
+keyboard solo: blofeld
+

@@ -161,6 +161,14 @@ bright jazz with generative arpeggio and solo on ms20, joystick and ms1
 [cnt.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cnt.txt)   
 [cnt_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/cnt_patch_notes.txt)
   
+## come on over (2024-07-21)
+[![come on over on youtube](http://img.youtube.com/vi/TR9Shy_GePk/0.jpg)](https://www.youtube.com/watch?v=TR9Shy_GePk)  
+mellow modular jazz
+   
+
+[come_on_over.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/come_on_over.txt)   
+[come_on_over_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/come_on_over_patch_notes.txt)
+  
 ## count me in (2020-11-29)
 [![count me in on youtube](http://img.youtube.com/vi/rB4JMgmcToA/0.jpg)](https://www.youtube.com/watch?v=rB4JMgmcToA)  
 Fast, melodic, moody, lydian at times. Sequenced from teletype, ER-301
