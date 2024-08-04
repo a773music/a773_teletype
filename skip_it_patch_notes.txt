@@ -1,0 +1,15 @@
+sequenced from hermod+ and teletype
+--
+bd: synthesized on er301
+sd + clap: samples (er301)
+hh: samples on er301
+glitch perc: just friends through modulated warps
+bass: minilogue
+ep: blofeld
+guitar: jv880
+brass: opsix
+main lead: blofeld
+add lead: a110 (triangle) through data bender
+lead harmony: a110 through ms22
+joystick solo: pico vco through threeler + monsoon
+keyboard solo: blofeld

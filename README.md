@@ -790,6 +790,14 @@ fast paced jazzy thing with dorian flavour
 [skinny_dippin.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/skinny_dippin.txt)   
 [skinny_dippin_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/skinny_dippin_patch_notes.txt)
   
+## skip it (2024-08-04)
+[![skip it on youtube](http://img.youtube.com/vi/eFXNk8Lx9no/0.jpg)](https://www.youtube.com/watch?v=eFXNk8Lx9no)  
+smooth modular jazz
+   
+
+[skip_it.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/skip_it.txt)   
+[skip_it_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/skip_it_patch_notes.txt)
+  
 ## smple cmpllex (2022-03-20)
 [![smple cmpllex on youtube](http://img.youtube.com/vi/Pi3pBQX9n84/0.jpg)](https://www.youtube.com/watch?v=Pi3pBQX9n84)  
 funky thing in c-minor and Eb major, dual bass lines
