@@ -1063,6 +1063,14 @@ Long melody + refacedx from hermod (teletype slaved to hermod), odd meters FTW!
 [with_great_powers.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/with_great_powers.txt)   
 [with_great_powers_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/with_great_powers_patch_notes.txt)
   
+## with without (2024-08-25)
+[![with without on youtube](http://img.youtube.com/vi/i636SdlftFk/0.jpg)](https://www.youtube.com/watch?v=i636SdlftFk)  
+modular jazz: romantic waltz, funky solos with rings and blofeld
+   
+
+[with_without.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/with_without.txt)   
+[with_without_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/with_without_patch_notes.txt)
+  
 ## your word against his (2020-02-23)
 [![your word against his on youtube](http://img.youtube.com/vi/foETdII82qo/0.jpg)](https://www.youtube.com/watch?v=foETdII82qo)  
 Cute melody (played on microfreak), three parts, generative solo, phrasing and modulation by hand on orgone accumulator. 

@@ -1,0 +1,15 @@
+sequenced from hermod+ and teletype
+--
+bd: synthesized on er301
+sd: sample on er301
+clicks:pico drums + crush delay + data bender
+bass: a111-6
+ep: blofeld
+pad: opsix
+texture: rings (input: radio music), red mode
+solo 1: rings (input: radio music), green mode
+bells: just friends + fxaid
+main lead: blofeld
+dub lead: a110 through bf22
+add lead: piston honda i through threeler
+keyboard solo: blofeld
