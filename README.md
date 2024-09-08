@@ -8,6 +8,14 @@ centers. Phrasing in Z, motive in A, planned melody.
 [1up.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/1up.txt)   
 [1up_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/1up_patch_notes.txt)
   
+## 2g (2024-09-08)
+[![2g on youtube](http://img.youtube.com/vi/-Xi0d66PbxE/0.jpg)](https://www.youtube.com/watch?v=-Xi0d66PbxE)  
+bright fusion with melodic bass and quartal harmony 
+   
+
+[2g.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/2g.txt)   
+[2g_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/2g_patch_notes.txt)
+  
 ## 9 out of 10 (2022-09-25)
 [![9 out of 10 on youtube](http://img.youtube.com/vi/-LlA_l0SdnI/0.jpg)](https://www.youtube.com/watch?v=-LlA_l0SdnI)  
 simple melody, 9/4 and 6/8 time

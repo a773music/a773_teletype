@@ -1,0 +1,14 @@
+sequenced from hermod+ and teletype
+--
+bd: quark
+sd: round robin of plaids samples (er301)
+hh: synthesized on er301
+bass: blofeld
+pad swell: minilogue
+ep: blofeld
+add mel: verbos complex
+arp: a111-6 and turing-machine at audio rate through data bender
+bell texture: just friends through monsoon
+joystick solo: a110 through wasp throuch clouds
+key solo: ms1
+
