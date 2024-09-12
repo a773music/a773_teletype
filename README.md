@@ -9,8 +9,8 @@ centers. Phrasing in Z, motive in A, planned melody.
 [1up_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/1up_patch_notes.txt)
   
 ## 2g (2024-09-08)
-[![2g on youtube](http://img.youtube.com/vi/-Xi0d66PbxE/0.jpg)](https://www.youtube.com/watch?v=-Xi0d66PbxE)  
-bright fusion with melodic bass and quartal harmony 
+[![2g on youtube](http://img.youtube.com/vi/6c4dG72_mQo/0.jpg)](https://www.youtube.com/watch?v=6c4dG72_mQo)  
+bright eurorack modular fusion with melodic bass and quartal harmony 
    
 
 [2g.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/2g.txt)   
