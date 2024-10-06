@@ -286,6 +286,14 @@ banger with divided lead sounds, solo on knob and ms20 mini
 [either_or.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/either_or.txt)   
 [either_or_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/either_or_patch_notes.txt)
   
+## eli5 (2024-10-06)
+[![eli5 on youtube](http://img.youtube.com/vi/gCtmhD1_vbM/0.jpg)](https://www.youtube.com/watch?v=gCtmhD1_vbM)  
+modular glitch jazz in alternating meters 
+   
+
+[eli5.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/eli5.txt)   
+[eli5_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/eli5_patch_notes.txt)
+  
 ## every step matters (2020-04-05)
 [![every step matters on youtube](http://img.youtube.com/vi/vwWW8xwB_PI/0.jpg)](https://www.youtube.com/watch?v=vwWW8xwB_PI)  
 Cheerful tune in 7/8 modulating a minor third up in the b section, main melody played by hand.
