@@ -1,0 +1,16 @@
+sequenced from hermod+ and teletype
+--
+bd: peak sample on er301
+sd main: sample on er301
+sd small: pico drums
+hh-ish glitch: pico drums
+granular glitch: er301
+bass: a111-6
+ep: jv880
+bleep exture: 2x pico vco through choppin kinky and monsoon
+pad: opsix
+brass: minilogue
+hi synth: blofeld
+main mel: blofeld
+ls solo: a110 through threeler (bpf) + data bender
+key mel + solo: ms1

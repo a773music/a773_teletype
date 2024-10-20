@@ -1046,6 +1046,14 @@ sweet jazz with a glitchy dream in the middle
 [up_side_down.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/up_side_down.txt)   
 [up_side_down_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/up_side_down_patch_notes.txt)
   
+## ups downs (2024-10-20)
+[![ups downs on youtube](http://img.youtube.com/vi/p396du1wyAk/0.jpg)](https://www.youtube.com/watch?v=p396du1wyAk)  
+bright modular jazz in shifting major keys
+   
+
+[ups_downs.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/ups_downs.txt)   
+[ups_downs_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/ups_downs_patch_notes.txt)
+  
 ## vii (2020-12-27)
 [![vii on youtube](http://img.youtube.com/vi/jheT6rGV648/0.jpg)](https://www.youtube.com/watch?v=jheT6rGV648)  
 Melodic track in 7/16, featuring metric modulation and random
