@@ -1,0 +1,16 @@
+sequenced from hermod+ and teletype
+--
+bd: sample ii
+hh/ride sample ii
+main sd: sample ii
+round robin glitch perc: sample ii
+glitch perc: feedback patch with apc, echo and ssm through monsson
+bass: a110 through threeler lpf
+ep: jv880
+tonal texture: radio music through rings through data-bender
+glitch pad: opsix
+brass: minilogue
+main lead: blofeld
+add lead: nord lead
+joystick solo: a110 through a120
+key solo: ms1

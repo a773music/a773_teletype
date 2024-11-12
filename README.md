@@ -335,6 +335,14 @@ simple tune in three parts, maiden voyage on blofeld (multimode)
 [first_resort.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/first_resort.txt)   
 [first_resort_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/first_resort_patch_notes.txt)
   
+## flip (2024-11-10)
+[![flip on youtube](http://img.youtube.com/vi/dgy6LUNCsOw/0.jpg)](https://www.youtube.com/watch?v=dgy6LUNCsOw)  
+jazz/edm glitch ft eurorack modular and ms1
+   
+
+[flip.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/flip.txt)   
+[flip_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/flip_patch_notes.txt)
+  
 ## fractions in time (2021-11-14)
 [![fractions in time on youtube](http://img.youtube.com/vi/X9C2jhC6MUA/0.jpg)](https://www.youtube.com/watch?v=X9C2jhC6MUA)  
 teletype synced to hermod controlled by grid, beatless, suggestive
