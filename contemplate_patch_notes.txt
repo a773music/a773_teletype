@@ -1,0 +1,17 @@
+sequenced from hermod+ and teletype
+--
+bd: samples ii
+sd 1+2: samples ii through databender
+glitch sd: samples ii through clouds modulated by turing machine and 4r
+hh glitch: nord lead drumkit through data bender
+oh: samples ii through crush delay
+bass: a110 (saw+sqr) through a120
+ep: jv880
+pad: minilogue
+glitch fm pad: opsix
+texture: radio music through a106-5 (bp) through rings
+lead 1: blofeld
+lead 2: a110 through threeler
+add lead: nord lead
+light strip solo: pico vco through chopping kinky through warps
+keysolo: ms20mini

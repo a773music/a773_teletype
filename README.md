@@ -177,6 +177,14 @@ mellow modular jazz
 [come_on_over.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/come_on_over.txt)   
 [come_on_over_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/come_on_over_patch_notes.txt)
   
+## contemplate (2024-11-24)
+[![contemplate on youtube](http://img.youtube.com/vi/fIWB6zvVf2Y/0.jpg)](https://www.youtube.com/watch?v=fIWB6zvVf2Y)  
+funk/jazz modular
+   
+
+[contemplate.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/contemplate.txt)   
+[contemplate_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/contemplate_patch_notes.txt)
+  
 ## count me in (2020-11-29)
 [![count me in on youtube](http://img.youtube.com/vi/rB4JMgmcToA/0.jpg)](https://www.youtube.com/watch?v=rB4JMgmcToA)  
 Fast, melodic, moody, lydian at times. Sequenced from teletype, ER-301
