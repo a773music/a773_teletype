@@ -503,6 +503,14 @@ solo on knob and blofeld
 [kick_off.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/kick_off.txt)   
 [kick_off_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/kick_off_patch_notes.txt)
   
+## kwcw (2024-12-15)
+[![kwcw on youtube](http://img.youtube.com/vi/BjNPfDfbMsA/0.jpg)](https://www.youtube.com/watch?v=BjNPfDfbMsA)  
+moody generative electro jazz
+   
+
+[kwcw.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/kwcw.txt)   
+[kwcw_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/kwcw_patch_notes.txt)
+  
 ## late reply (2020-06-14)
 [![late reply on youtube](http://img.youtube.com/vi/rNJW8qPljQ4/0.jpg)](https://www.youtube.com/watch?v=rNJW8qPljQ4)  
 Opening more up to generative input from teletype + a few discoveries in phrygian...

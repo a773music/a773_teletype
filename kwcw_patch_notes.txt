@@ -1,0 +1,14 @@
+sequenced from hermod+ and teletype
+--
+bd: sample played by samples ii
+sd main: synthesized on er301
+sd add: sample played from samples ii
+hh/perc: samples from samples ii + just friends through chopping kinky and warps
+bass: minilogue
+ep: jv880
+texture: hh/perc through rings and fxaid (reverb)
+main mel: opsix
+add mel: a110 through wasp filter
+generative ep: rhodes sample on er301
+generative solo: a110 (sqr) through ms22 and data bender
+keyboard mel and solo: blofeld
