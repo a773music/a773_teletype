@@ -773,6 +773,14 @@ First patch with the rainmaker (hence the track title). Had great fun with un-ev
 [rigor_triad.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rigor_triad.txt)   
 [rigor_triad_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rigor_triad_patch_notes.txt)
   
+## rush hour (2024-12-29)
+[![rush hour on youtube](http://img.youtube.com/vi/pldlf_xTgP8/0.jpg)](https://www.youtube.com/watch?v=pldlf_xTgP8)  
+slow melodic modular synth jazz
+   
+
+[rush_hour.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rush_hour.txt)   
+[rush_hour_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rush_hour_patch_notes.txt)
+  
 ## semit (2021-09-19)
 [![semit on youtube](http://img.youtube.com/vi/WESlgbMgY3w/0.jpg)](https://www.youtube.com/watch?v=WESlgbMgY3w)  
 teletype controlled from grid, slow M, four delay lines in $1-4

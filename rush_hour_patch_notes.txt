@@ -1,0 +1,18 @@
+sequenced with hermod+ and teletype
+--
+bd: sample played on er301
+sd: sample played on samples ii
+sd blip: round robin of samples of rce played from er301
+sd granular glitch: er301
+hh: samples from samples ii
+ride: a110 through apc and gated with 2lpg
+perc/bongo: 2opfm
+tonal glitch: 2x pico vco through warps through monsoon
+bass: nord lead
+pad: opsix
+ep: blofeld
+4th brass: minilogue
+add mel/harm w glitch: nord lead through crush delay + clouds
+main mel: blofeld
+joystick solo: a110 through chopping kinky
+keyboard solo: blofeld
