@@ -419,6 +419,14 @@ First scene is the main part, scene 2 is a randomly generated break.
 [home_is.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/home_is.txt)   
 [home_is_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/home_is_patch_notes.txt)
   
+## icm (2025-01-19)
+[![icm on youtube](http://img.youtube.com/vi/7ikmBVXgg-g/0.jpg)](https://www.youtube.com/watch?v=7ikmBVXgg-g)  
+funky modular jazz
+   
+
+[icm.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/icm.txt)   
+[icm_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/icm_patch_notes.txt)
+  
 ## im not (2023-11-05)
 [![im not on youtube](http://img.youtube.com/vi/TEN9FrDX-VY/0.jpg)](https://www.youtube.com/watch?v=TEN9FrDX-VY)  
 mainly phrygean mood with random shimmer stacks and split melody

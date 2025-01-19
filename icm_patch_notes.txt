@@ -1,0 +1,18 @@
+sequenced from hermod+ and teletype
+--
+bd: quark
+sd: ladik d333
+hh: ladik d333
+break beat: er301 through data bender
+clicks: 2opfm
+granular glitch x2: er301
+glitch texture ssm
+ssm inputs: granular glitch, rings, 2opfm, a111
+ssm outputs: data bender, fxaid, monsoon, crush delay
+bass: blofeld
+ep: jv880
+brass: minilogue
+pad: opsix
+main lead: blofeld
+solo 1: ms1 through clouds
+solo 2: blofeld
