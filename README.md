@@ -862,6 +862,14 @@ funky thing in c-minor and Eb major, dual bass lines
 [smple_cmpllex.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/smple_cmpllex.txt)   
 [smple_cmpllex_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/smple_cmpllex_patch_notes.txt)
   
+## snow (2025-02-02)
+[![snow on youtube](http://img.youtube.com/vi/_TpbYhWdIo8/0.jpg)](https://www.youtube.com/watch?v=_TpbYhWdIo8)  
+melodic glitch in 5/4 and 4/4
+   
+
+[snow.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/snow.txt)   
+[snow_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/snow_patch_notes.txt)
+  
 ## spine (2019-04-08)
 [![spine on youtube](http://img.youtube.com/vi/8Ut7RuTwOpU/0.jpg)](https://www.youtube.com/watch?v=8Ut7RuTwOpU)  
 Four parts, selected by knob, each part has it's own pattern (0-3)  

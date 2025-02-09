@@ -1,0 +1,18 @@
+sequenced from hermod+ and teletype
+--
+bd: synthesized on er301
+sd clicks: prok
+sd: databended samples from samples ii
+perc: folktek samples, er301
+clap: ladik p333
+bass: a110 through threeler + apc
+ep/texture: jv880 through data bender
+sine pad: opsix
+bend pad: minilogue
+plucks: a111-6
+5th notes: nord lead 1 through aurora
+main mel: verbox complex
+add mel: nord lead 1
+porta lead: ms20mini
+solo 1: light strip controlling a110 through wasp
+solo 2: blofeld
