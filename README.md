@@ -527,6 +527,14 @@ Opening more up to generative input from teletype + a few discoveries in phrygia
 [late_reply.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/late_reply.txt)   
 [late_reply_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/late_reply_patch_notes.txt)
   
+## lnd page (2025-02-16)
+[![lnd page on youtube](http://img.youtube.com/vi/Enzj_wbdToE/0.jpg)](https://www.youtube.com/watch?v=Enzj_wbdToE)  
+modular jazz/fusion ft monome grid
+   
+
+[lnd_page.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/lnd_page.txt)   
+[lnd_page_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/lnd_page_patch_notes.txt)
+  
 ## looose (2020-06-28)
 [![looose on youtube](http://img.youtube.com/vi/XR5iVxwTVaQ/0.jpg)](https://www.youtube.com/watch?v=XR5iVxwTVaQ)  
 Casual track, no melody, focus on texture and rhytmic structures.

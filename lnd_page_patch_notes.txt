@@ -1,0 +1,17 @@
+sequenced from teletype and hermod+
+--
+bd: a110 enveloped by quadra
+sds: samples played from er301
+hh: noise (nano rand) through wasp
+perc: dinkys taiko through aurora (modulated)
+bongo-ish: rings through 2lpg
+rnd snare hits: orgone accumulator through monsoon
+bass: blofeld
+ep: jv880
+pad: opsix
+sine textures: just friends through data bender
+brass mel: minilogue
+add lead hi: a110 through ms22
+add lead lo: a110 through threeler + crush delay
+grid solo: pico vco through chopping kinky
+keyboard solo: blofeld
