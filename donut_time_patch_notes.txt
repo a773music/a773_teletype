@@ -1,0 +1,20 @@
+sequenced from hermod+ and teletype
+--
+bd: synthesized on er301
+glitch sd: samples of er301 granular glitch played in round robin on er301 
+clap: ladik d-333
+hh: ladik d-333
+drum glitch: clap + hh through data bender
+add hh glitch: apc tracking a110, gated with 2lpg 
+tonal perc: just friends
+glitch texture: apc through crush delay
+tonal glitch texture: a110 through monsoon
+bass: jv880
+ep: blofeld
+brass: minilogue
+shimmer stabs: opsix
+main lead: blofeld
+add lead: a110 through threeler
+harmony lead: ms20
+light strip solo: a110 through humpback
+keyboard solo: ms1

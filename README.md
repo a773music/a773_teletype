@@ -244,6 +244,14 @@ maiden voyage on digitakt, something odd with meters, c-dorian and eb-lydian
 [what_have_i_done.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/what_have_i_done.txt)   
 [what_have_i_done_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/what_have_i_done_patch_notes.txt)
   
+## donut time (2025-03-02)
+[![donut time on youtube](http://img.youtube.com/vi/lzTUQwJMZaM/0.jpg)](https://www.youtube.com/watch?v=lzTUQwJMZaM)  
+glitchy modular jazz in 6/4
+   
+
+[donut_time.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/donut_time.txt)   
+[donut_time_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/donut_time_patch_notes.txt)
+  
 ## double up (2023-08-02)
 [![double up on youtube](http://img.youtube.com/vi/VcKYBRtXhOE/0.jpg)](https://www.youtube.com/watch?v=VcKYBRtXhOE)  
 bright and cheerful with quasi-jazz b part, krell like solo on joystick, maiden flight with hermod+
