@@ -219,6 +219,14 @@ Algorithmic melody and harmony, modulation from D-minor to F-Dorian in part 4, B
 [deep_blue.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/deep_blue.txt)   
 [deep_blue_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/deep_blue_patch_notes.txt)
   
+## diff 2nd (2025-03-16)
+[![diff 2nd on youtube](http://img.youtube.com/vi/0KAwVYdCXmE/0.jpg)](https://www.youtube.com/watch?v=0KAwVYdCXmE)  
+slow/medium funk/jazz
+   
+
+[diff_2nd.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/diff_2nd.txt)   
+[diff_2nd_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/diff_2nd_patch_notes.txt)
+  
 ## diffusion (2020-01-26)
 [![diffusion on youtube](http://img.youtube.com/vi/mD762X1wxdI/0.jpg)](https://www.youtube.com/watch?v=mD762X1wxdI)  
 A part in 4/4, a happy accident suggested the B part should be in 6/8 (technically 21/8)

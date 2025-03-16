@@ -1,0 +1,17 @@
+sequenced from hermod+ and teletype
+--
+bd: synthesized on er301
+snares: er301
+hh: er301
+glitch clicks: 2opfm
+warm texture: rings (2opfm as input)
+bass: jv880
+ep: jv880
+pad: opsix
+arpeggio: a110 through humpback and data bender
+main lead: minilogue
+add lead: a110 through chopping kinky
+harm lead: blofeld
+joystick solo: a110 through wasp and sem filters + crush delay
+keyboard solo: ms1
+
