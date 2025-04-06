@@ -1,0 +1,18 @@
+sequenced from hermod+ and teletype
+--
+bd synthesized on er301
+sd click: sample, er301
+sd glitch: glitch + snare (d-330) through warps
+clap: sample, er301
+hh/clicks: apc modulated from teletype gated with 2lpg
+ride: sample: er301
+bass: minilogue
+ep: jv880
+brass: blofeld
+pad: opsix
+bells: just friends
+main lead 2x a110 through threeler
+main lead texture: cruch delay through data bender
+harmony lead: a111-6
+joystick solo: pico vco through wasp filter (reverb from clouds/oliverb)
+key solo: ms1

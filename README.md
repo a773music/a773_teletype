@@ -1151,6 +1151,14 @@ warm and distorted pads with erratic percussion and data bender on a knob
 [what_have_i_done.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/what_have_i_done.txt)   
 [what_have_i_done_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/what_have_i_done_patch_notes.txt)
   
+## while you were gone (2025-04-06)
+[![while you were gone on youtube](http://img.youtube.com/vi/Me-bNxMT7k0/0.jpg)](https://www.youtube.com/watch?v=Me-bNxMT7k0)  
+warm and melodic glitch jazz in 7/8
+   
+
+[while_you_were_gone.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/while_you_were_gone.txt)   
+[while_you_were_gone_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/while_you_were_gone_patch_notes.txt)
+  
 ## with great powers (2020-08-09)
 [![with great powers on youtube](http://img.youtube.com/vi/ZjSqw9hCHL4/0.jpg)](https://www.youtube.com/watch?v=ZjSqw9hCHL4)  
 Long melody + refacedx from hermod (teletype slaved to hermod), odd meters FTW!
