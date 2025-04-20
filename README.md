@@ -41,6 +41,16 @@ knob and keys
 [a_new_day.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/a_new_day.txt)   
 [a_new_day_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/a_new_day_patch_notes.txt)
   
+## again (2025-04-20)
+[![again on youtube](http://img.youtube.com/vi/OGywacQECKw/0.jpg)](https://www.youtube.com/watch?v=OGywacQECKw)  
+bright and funky modular jazz
+   
+
+[again.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/again.txt)   
+[do_it_again.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/do_it_again.txt)   
+[your_word_against_his.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/your_word_against_his.txt)   
+[your_word_against_his_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/your_word_against_his_patch_notes.txt)
+  
 ## ascension (2020-05-31)
 [![ascension on youtube](http://img.youtube.com/vi/cEtY9qIOfBw/0.jpg)](https://www.youtube.com/watch?v=cEtY9qIOfBw)  
 Melodic track with lots of random surprises

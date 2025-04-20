@@ -1,0 +1,15 @@
+sequenced from hermod+ and teletype
+--
+bd: synthesized on er301
+sd: plaids samples, er301, through data bender
+hh: synthesized on er301, through data bender
+glitch perc: no drum through crush delay
+glitch/perc texture: 2x pico vco through chopping kinky, warps and monsoon
+bass: jv880
+ep: jv880
+brass: opsix
+main lead: ms1
+harm lead: blofeld
+lead add: 2x a110 through threeler
+grid solo: a110 through bf22
+key solo: blofeld
