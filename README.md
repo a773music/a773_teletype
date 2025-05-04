@@ -1145,6 +1145,14 @@ selection between beat variations
 [vii.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/vii.txt)   
 [vii_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/vii_patch_notes.txt)
   
+## welcome to the real world (2025-05-04)
+[![welcome to the real world on youtube](http://img.youtube.com/vi/Nefe1htwfqE/0.jpg)](https://www.youtube.com/watch?v=Nefe1htwfqE)  
+warm and melodic modular jazz
+   
+
+[welcome_to_the_real_world.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/welcome_to_the_real_world.txt)   
+[welcome_to_the_real_world_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/welcome_to_the_real_world_patch_notes.txt)
+  
 ## welcome to the surface (2020-11-14)
 [![welcome to the surface on youtube](http://img.youtube.com/vi/xDsRcvY3RLk/0.jpg)](https://www.youtube.com/watch?v=xDsRcvY3RLk)  
 Melodic track in 6/8, modulating to 4/4

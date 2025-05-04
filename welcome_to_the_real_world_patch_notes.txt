@@ -1,0 +1,17 @@
+sequenced from hermod+ and teletype
+--
+bd: blofeld
+sd: blofeld
+hh: blofeld
+clicks: 2opfm
+add granular glitch hits: er301
+bass: minilogue
+main pad: blofeld
+pad: opsix
+chopped chords: nord lead through chopping kinky
+bells: just friends
+add texture: rings (2opfx as input)
+mel dub: nord lead
+mel glitch: a110 through wasp through data bender
+joystick solo: a110 through threeler
+keyboard solo: ms1
