@@ -1,0 +1,15 @@
+sequenced from hermod+ and teletype
+--
+bd: blofeld
+sd: blofeld
+hh: blofeld
+glitch perc: 2x pico vco sequenced by turing machine into warps + 2lpg
+glitch texture: warps into monsoon
+bass: a110 through treeler
+ep: jv880
+bells: just frineds through crush delay + data bender
+texture: radio music through rings
+main lead: ms1
+add horns: blofeld
+solo 1: ms1
+solo 2: minilogue

@@ -361,6 +361,14 @@ chords follow melody through key changes, solo on ms1
 [fail_fast.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/fail_fast.txt)   
 [fail_fast_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/fail_fast_patch_notes.txt)
   
+## finally (2025-05-18)
+[![finally on youtube](http://img.youtube.com/vi/_MYf2p-0TmQ/0.jpg)](https://www.youtube.com/watch?v=_MYf2p-0TmQ)  
+funky/jazz modular/generative groove
+   
+
+[finally.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/finally.txt)   
+[finally_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/finally_patch_notes.txt)
+  
 ## first resort (2021-12-12)
 [![first resort on youtube](http://img.youtube.com/vi/bfLT01glU_I/0.jpg)](https://www.youtube.com/watch?v=bfLT01glU_I)  
 simple tune in three parts, maiden voyage on blofeld (multimode)
