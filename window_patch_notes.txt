@@ -1,0 +1,17 @@
+sequenced from hermod+ and teletype
+--
+bd: model cycles
+sd: model cycles
+bass: blofeld
+ep: blofeld
+noise pad: opsix
+folded texture: a110 folded with chopping kinky, then through data bender
+hh1: white noise through vca opened by modulated envelope
+hh2: sample played by samples2
+glitch perc: 2opfm through monsoon
+submerged atmosphere: rings through aurora
+noise bell atmosphere: rings through modulated crush delay
+main lead: ms1
+add lead: recombination engine through humpback
+light strip solo: a110 through treeler
+key solo: blofeld

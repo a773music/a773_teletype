@@ -1185,6 +1185,14 @@ warm and melodic glitch jazz in 7/8
 [while_you_were_gone.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/while_you_were_gone.txt)   
 [while_you_were_gone_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/while_you_were_gone_patch_notes.txt)
   
+## window (2025-06-09)
+[![window on youtube](http://img.youtube.com/vi/qv0mveAmZmE/0.jpg)](https://www.youtube.com/watch?v=qv0mveAmZmE)  
+modular jazz
+   
+
+[window.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/window.txt)   
+[window_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/window_patch_notes.txt)
+  
 ## with great powers (2020-08-09)
 [![with great powers on youtube](http://img.youtube.com/vi/ZjSqw9hCHL4/0.jpg)](https://www.youtube.com/watch?v=ZjSqw9hCHL4)  
 Long melody + refacedx from hermod (teletype slaved to hermod), odd meters FTW!
