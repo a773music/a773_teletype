@@ -75,6 +75,14 @@ Quartal melody, keyboard improvisation
 [bass_shifter.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/bass_shifter.txt)   
 [bass_shifter_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/bass_shifter_patch_notes.txt)
   
+## bastians straw (2025-06-29)
+[![bastians straw on youtube](http://img.youtube.com/vi/qrsedtwDp-o/0.jpg)](https://www.youtube.com/watch?v=qrsedtwDp-o)  
+modular world/jazz
+   
+
+[bastians_straw.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/bastians_straw.txt)   
+[bastians_straw_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/bastians_straw_patch_notes.txt)
+  
 ## bend leg (2020-03-22)
 [![bend leg on youtube](http://img.youtube.com/vi/in4-kK73Gs0/0.jpg)](https://www.youtube.com/watch?v=in4-kK73Gs0)  
 Melodic ambient track in a-minor

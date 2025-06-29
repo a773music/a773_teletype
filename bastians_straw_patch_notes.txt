@@ -1,0 +1,16 @@
+sequenced from hermod+ and teletype
+--
+bd/bass: model cycles
+sd: samples ii
+hh: filtered white noise (turing machine through humpback)
+perc: model cycles
+glitch hit: er301
+bass: blofeld
+pad: opsix
+lead 1: blofeld
+lead 2: ms1
+lead 2 add: recombination engine
+arp texture: rings
+texture: a110 through aperture and data-bender
+lightstrip solo: a110 through threeler
+key solo: blofeld
