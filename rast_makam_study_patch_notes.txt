@@ -1,0 +1,15 @@
+sequenced from teletype and hermod+
+--
+bd: model cycles
+hh: sample (samples ii)
+sd main: sample on er301
+sd chirp: round robin of samples, er301
+perc: model cycles
+bass: a111-6
+ep: jv880
+pad: opsix
+texture: just friends through fata bender
+main lead: blofeld
+add lead: pico vco through chopping kinky and crush delay
+key solo: blofeld
+light strip solo: a110 through steve's ms22 and monsoon

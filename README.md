@@ -823,6 +823,14 @@ First patch with the rainmaker (hence the track title). Had great fun with un-ev
 [rain_check.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rain_check.txt)   
 [rain_check_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rain_check_patch_notes.txt)
   
+## rast makam study (2025-07-13)
+[![rast makam study on youtube](http://img.youtube.com/vi/ti5Mbo-CiIY/0.jpg)](https://www.youtube.com/watch?v=ti5Mbo-CiIY)  
+generative modular world/jazz
+   
+
+[rast_makam_study.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rast_makam_study.txt)   
+[rast_makam_study_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rast_makam_study_patch_notes.txt)
+  
 ## rigor triad (2019-11-17)
 [![rigor triad on youtube](http://img.youtube.com/vi/RcZ7tlgogTU/0.jpg)](https://www.youtube.com/watch?v=RcZ7tlgogTU)  
 
