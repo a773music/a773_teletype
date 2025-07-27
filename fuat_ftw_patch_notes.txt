@@ -1,0 +1,18 @@
+sequenced from hermod+ and teletype
+--
+bd: model cycles
+sd: sample played from er301
+hh: samples ii
+perc: model cycles
+glitch hit: modulated benjolin through monsoon
+glitch 2: data bended samples played from er301
+bass: blofeld
+ep: jv880
+pad: opsix
+main lead: blofeld
+add lead: blofeld
+add lead 2: a110 through threeler
+texture: just friends through data bender
+joy stick solo: rings through data bender
+grid solo: a110 through wasp and modulated crush delay
+key solo: blofeld

@@ -410,6 +410,14 @@ Funky tune in 5/4, main melody by hand on the microfreak.
 [frankly_speaking.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/frankly_speaking.txt)   
 [frankly_speaking_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/frankly_speaking_patch_notes.txt)
   
+## fuat ftw (2025-07-27)
+[![fuat ftw on youtube](http://img.youtube.com/vi/KA5Qntf1gZI/0.jpg)](https://www.youtube.com/watch?v=KA5Qntf1gZI)  
+modular world/jazz
+   
+
+[fuat_ftw.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/fuat_ftw.txt)   
+[fuat_ftw_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/fuat_ftw_patch_notes.txt)
+  
 ## gen ae (2023-07-16)
 [![gen ae on youtube](http://img.youtube.com/vi/SBpLOsH5Qa0/0.jpg)](https://www.youtube.com/watch?v=SBpLOsH5Qa0)  
 warm and glitchy generative jazz
