@@ -839,6 +839,14 @@ generative modular world/jazz
 [rast_makam_study.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rast_makam_study.txt)   
 [rast_makam_study_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rast_makam_study_patch_notes.txt)
   
+## rf call (2025-08-24)
+[![rf call on youtube](http://img.youtube.com/vi/yt7KLk8DHrQ/0.jpg)](https://www.youtube.com/watch?v=yt7KLk8DHrQ)  
+modular fusion jazz glitch
+   
+
+[rf_call.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rf_call.txt)   
+[rf_call_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/rf_call_patch_notes.txt)
+  
 ## rigor triad (2019-11-17)
 [![rigor triad on youtube](http://img.youtube.com/vi/RcZ7tlgogTU/0.jpg)](https://www.youtube.com/watch?v=RcZ7tlgogTU)  
 
