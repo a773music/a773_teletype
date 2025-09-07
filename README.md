@@ -1185,6 +1185,14 @@ selection between beat variations
 [vii.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/vii.txt)   
 [vii_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/vii_patch_notes.txt)
   
+## walk in (2025-09-07)
+[![walk in on youtube](http://img.youtube.com/vi/QaedhykNm0Y/0.jpg)](https://www.youtube.com/watch?v=QaedhykNm0Y)  
+modular jazz/afro
+   
+
+[walk_in.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/walk_in.txt)   
+[walk_in_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/walk_in_patch_notes.txt)
+  
 ## welcome to the real world (2025-05-04)
 [![welcome to the real world on youtube](http://img.youtube.com/vi/Nefe1htwfqE/0.jpg)](https://www.youtube.com/watch?v=Nefe1htwfqE)  
 warm and melodic modular jazz

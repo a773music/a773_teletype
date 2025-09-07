@@ -1,0 +1,15 @@
+sequenced from hermod+, turing machine and teletype
+--
+bd: synthesized on er301
+sd: model cycles
+hh: model cycles (modulated by teletype)
+oh: samples ii through dinkys taiko
+pitched fm perc: turing machine quantized with teletype controlling verbos complex through modulated aurora
+sd glitch: no drums through warps (+input from crush delay) and monsoon
+rnd fm hits: blofeld
+ep: blofeld
+bass: blofeld
+brass: blofeld
+main lead: ms1 + a110 through wasp
+joystick solo: a110 through threeler
+solo: ms1
