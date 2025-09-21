@@ -1,0 +1,17 @@
+sequenced from hermod+ and teletype
+--
+bd synthesized on er301
+sds: samples on er301
+hh: synthesized on er301
+fm glitch: modulated 2opfm
+granular glitch: gated benjolin through monsoon
+glitch perc: radio music through fld6 and apc gated with 2lpg
+bass: blofeld
+ep: blofeld
+long textures: benjolin through rings
+bell texture: just friends through crush delay
+synth bleeps: model cycles (modulated by teletype) through data bender
+main lead: blofeld
+add lead: a110 through steves ms22
+lead harmony: minilogue
+key solo: blofeld

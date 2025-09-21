@@ -1217,6 +1217,14 @@ warm and distorted pads with erratic percussion and data bender on a knob
 [what_have_i_done.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/what_have_i_done.txt)   
 [what_have_i_done_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/what_have_i_done_patch_notes.txt)
   
+## where am i (2025-09-21)
+[![where am i on youtube](http://img.youtube.com/vi/Z8Wq1ppMUWQ/0.jpg)](https://www.youtube.com/watch?v=Z8Wq1ppMUWQ)  
+soft modular/electronic latin/fusion jazz
+   
+
+[where_am_i.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/where_am_i.txt)   
+[where_am_i_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/where_am_i_patch_notes.txt)
+  
 ## while you were gone (2025-04-06)
 [![while you were gone on youtube](http://img.youtube.com/vi/Me-bNxMT7k0/0.jpg)](https://www.youtube.com/watch?v=Me-bNxMT7k0)  
 warm and melodic glitch jazz in 7/8
