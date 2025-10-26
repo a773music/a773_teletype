@@ -1193,6 +1193,14 @@ modular jazz/afro
 [walk_in.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/walk_in.txt)   
 [walk_in_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/walk_in_patch_notes.txt)
   
+## waltz 41 bettr wrld (2025-10-26)
+[![waltz 41 bettr wrld on youtube](http://img.youtube.com/vi/jcBkb3VCaBw/0.jpg)](https://www.youtube.com/watch?v=jcBkb3VCaBw)  
+electronic/modular jazz - optimistic waltz
+   
+
+[waltz_41_bettr_wrld.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/waltz_41_bettr_wrld.txt)   
+[waltz_41_bettr_wrld_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/waltz_41_bettr_wrld_patch_notes.txt)
+  
 ## welcome to the real world (2025-05-04)
 [![welcome to the real world on youtube](http://img.youtube.com/vi/Nefe1htwfqE/0.jpg)](https://www.youtube.com/watch?v=Nefe1htwfqE)  
 warm and melodic modular jazz

@@ -1,0 +1,19 @@
+sequenced from hermod+ and teletype
+--
+bd: synthesized on er301
+sd: model cycles samples round robin on er301
+hh: synthesized on er301
+oh: noise (turing machine) through wasp hp and modulated crush delay
+perc: no drums gated with 2lpg
+granular glitch: er301
+bass: blofeld
+ep: blofeld
+pad: opsix
+bells: just friends through nearness
+harmony pad: minilogue
+main lead: blofeld
+main lead dub: a110 through doepfer sem and data bender
+hi harm: blofeld
+lo harm: a111
+lightstrip solo: a110 through threeler
+key solo: ms1
