@@ -1194,8 +1194,8 @@ modular jazz/afro
 [walk_in_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/walk_in_patch_notes.txt)
   
 ## waltz 41 bettr wrld (2025-10-26)
-[![waltz 41 bettr wrld on youtube](http://img.youtube.com/vi/jcBkb3VCaBw/0.jpg)](https://www.youtube.com/watch?v=jcBkb3VCaBw)  
-electronic/modular jazz - optimistic waltz
+[![waltz 41 bettr wrld on youtube](http://img.youtube.com/vi/kMiiO38_WPU/0.jpg)](https://www.youtube.com/watch?v=kMiiO38_WPU)  
+melodic/modular/glitch
    
 
 [waltz_41_bettr_wrld.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/waltz_41_bettr_wrld.txt)   
