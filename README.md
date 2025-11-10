@@ -928,6 +928,14 @@ smooth modular jazz
 [skip_it.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/skip_it.txt)   
 [skip_it_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/skip_it_patch_notes.txt)
   
+## smk (2025-11-09)
+[![smk on youtube](http://img.youtube.com/vi/wExf1Gpt23s/0.jpg)](https://www.youtube.com/watch?v=wExf1Gpt23s)  
+electronic/modular fusion/jazz
+   
+
+[smk.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/smk.txt)   
+[smk_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/smk_patch_notes.txt)
+  
 ## smple cmpllex (2022-03-20)
 [![smple cmpllex on youtube](http://img.youtube.com/vi/Pi3pBQX9n84/0.jpg)](https://www.youtube.com/watch?v=Pi3pBQX9n84)  
 funky thing in c-minor and Eb major, dual bass lines
