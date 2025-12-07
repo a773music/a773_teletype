@@ -1,0 +1,17 @@
+sequenced with hermod+ and teletype
+--
+bd: model cycles
+sd: model cycles
+add sd: a-110-4 through a-196
+granular sd: add sd through modulated clouds
+hh: white noise through humpback hp
+clicks: granulated break beat samples (er301)
+bass: minilogue
+bass glitch: 2opfx triggered by a110
+pad: opsix
+stabs: blofeld
+tonal glitch: a110 through fld6
+harmony texture: just friends through data bender
+main lead: blofeld
+lead harm: blofeld
+keyboard: ms20 mini

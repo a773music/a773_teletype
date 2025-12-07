@@ -393,6 +393,14 @@ jazz/edm glitch ft eurorack modular and ms1
 [flip.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/flip.txt)   
 [flip_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/flip_patch_notes.txt)
   
+## for it (2025-12-07)
+[![for it on youtube](http://img.youtube.com/vi/NdOcWphwBxg/0.jpg)](https://www.youtube.com/watch?v=NdOcWphwBxg)  
+melodic modular glitch
+   
+
+[for_it.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/for_it.txt)   
+[for_it_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/for_it_patch_notes.txt)
+  
 ## fractions in time (2021-11-14)
 [![fractions in time on youtube](http://img.youtube.com/vi/X9C2jhC6MUA/0.jpg)](https://www.youtube.com/watch?v=X9C2jhC6MUA)  
 teletype synced to hermod controlled by grid, beatless, suggestive
@@ -1192,6 +1200,14 @@ selection between beat variations
 
 [vii.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/vii.txt)   
 [vii_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/vii_patch_notes.txt)
+  
+## wait (2025-11-23)
+[![wait on youtube](http://img.youtube.com/vi/RKbd22h8iug/0.jpg)](https://www.youtube.com/watch?v=RKbd22h8iug)  
+melodic modular glitch
+   
+
+[wait.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/wait.txt)   
+[wait_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/wait_patch_notes.txt)
   
 ## walk in (2025-09-07)
 [![walk in on youtube](http://img.youtube.com/vi/QaedhykNm0Y/0.jpg)](https://www.youtube.com/watch?v=QaedhykNm0Y)  
