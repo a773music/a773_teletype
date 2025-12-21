@@ -1,0 +1,13 @@
+sequenced from hermod+ and teletype
+--
+bd: model cycles
+hh: synthesized on er301
+fm perc: model cycles cc modulated by teletype abd through data bender
+tonal sd-ish: rings
+clicker: blofeld through monsoon
+bass: ms20
+fm pad: opsix
+subtractive pad: minilogue
+rnd mel: a110 folded woth fldr6 and through fxaid
+sequenced lead: blofeld
+keyboard lead + solo: blofeld through crush delay

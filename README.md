@@ -1144,6 +1144,14 @@ wonky melody in C and more
 [tm_auto.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/tm_auto.txt)   
 [tm_auto_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/tm_auto_patch_notes.txt)
   
+## to change (2025-12-21)
+[![to change on youtube](http://img.youtube.com/vi/Iw14MSw0OG4/0.jpg)](https://www.youtube.com/watch?v=Iw14MSw0OG4)  
+warm modulating modular glitch
+   
+
+[to_change.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/to_change.txt)   
+[to_change_patch_notes.txt](https://raw.githubusercontent.com/attejensen/a773_teletype/master/to_change_patch_notes.txt)
+  
 ## tr.io (2021-12-26)
 [![tr.io on youtube](http://img.youtube.com/vi/l-JtgPuVL4A/0.jpg)](https://www.youtube.com/watch?v=l-JtgPuVL4A)  
 glitch and float, firm b-part, generative solo
